@@ -59,7 +59,7 @@ export default function settings() {
     const list = getPhotos();
     photoGrid.replaceChildren(
       ...list.map((src, i) => h('div', { class: 'photo-thumb' },
-        h('img', { src, alt: `Ảnh ${i + 1}` }),
+        h('img', { src, alt: `Ảnh ${i + 1}`, style: { width: '100%', height: '100%', objectFit: 'cover', borderRadius: '12px' } }),
         h('button', { class: 'photo-del', 'aria-label': 'Xóa ảnh', onclick: () => {
           if (!confirm('Xóa ảnh này?')) return;
           removePhoto(i); drawPhotos();

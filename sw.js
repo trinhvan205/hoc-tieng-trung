@@ -1,6 +1,6 @@
 // Service worker: tải sẵn toàn bộ web + dữ liệu nét chữ để học được khi mất mạng.
 // Sửa mã xong thì tăng VERSION để máy người dùng nhận bản mới.
-const VERSION = 'v3';
+const VERSION = 'v4';
 const CACHE = `hoc-tieng-trung-${VERSION}`;
 const FONT_CACHE = 'hoc-tieng-trung-fonts';
 
@@ -56,17 +56,22 @@ self.addEventListener('fetch', event => {
   }
   if (url.origin !== location.origin) return;
 
-  // Cùng nguồn: trả bản đã lưu ngay, đồng thời cập nhật ngầm khi có mạng.
+  // Dữ liệu nét chữ không đổi: lấy từ bộ nhớ trước cho nhanh.
+  // Mã và dữ liệu bài học: ưu tiên bản mới trên mạng (chờ tối đa 3 giây), mất mạng thì dùng bản đã lưu.
+  // Nhờ vậy CSS, JS và JSON luôn cùng một phiên bản, không bị lẫn bản cũ với bản mới.
+  const strokes = url.pathname.includes('/data/strokes/');
   event.respondWith(caches.open(CACHE).then(async cache => {
     const hit = await cache.match(req, { ignoreSearch: true });
-    const update = fetch(req, { cache: 'no-cache' }).then(res => {
+    if (strokes && hit) return hit;
+    const network = fetch(req, { cache: 'no-cache' }).then(res => {
       if (res.ok) cache.put(req, res.clone());
       return res;
     }).catch(() => null);
-    if (hit) { event.waitUntil(update); return hit; }
-    const res = await update;
+    const timeout = new Promise(resolve => setTimeout(() => resolve(null), hit ? 3000 : 15000));
+    const res = await Promise.race([network, timeout]);
     if (res) return res;
-    if (req.mode === 'navigate') return cache.match('index.html');
+    if (hit) { event.waitUntil(network); return hit; }
+    if (req.mode === 'navigate') return (await cache.match('index.html')) || new Response('Offline', { status: 503 });
     return new Response('Offline', { status: 503 });
   }));
 });

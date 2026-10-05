@@ -48,7 +48,7 @@ export function wordRow(w, { href, extra } = {}) {
 export function praiseScreen({ icon = '🎉', title, text, actions = [] }) {
   const photo = photoOfDay(Math.floor(Math.random() * 6));
   return h('div', { class: 'card done-card' },
-    photo ? h('div', { class: 'done-photo' }, h('img', { src: photo, alt: 'Ảnh của hai bạn' }), h('span', null, icon))
+    photo ? h('div', { class: 'done-photo' }, h('img', { src: photo, alt: 'Ảnh của hai bạn', style: { width: '120px', height: '120px', objectFit: 'cover', borderRadius: '50%' } }), h('span', null, icon))
       : h('div', { class: 'done-icon' }, icon),
     h('h2', null, title),
     text ? h('p', null, text) : null,

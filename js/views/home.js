@@ -32,7 +32,7 @@ export default function home() {
   const photo = photoOfDay();
   const node = h('div', { class: 'stack-lg' },
     h('section', { class: `hello${photo ? ' hello-photo' : ''}` },
-      photo ? h('img', { class: 'hello-img', src: photo, alt: 'Ảnh của hai bạn' }) : null,
+      photo ? h('img', { class: 'hello-img', src: photo, alt: 'Ảnh của hai bạn', style: { width: '100%', aspectRatio: '4 / 3', objectFit: 'cover' } }) : null,
       h('p', { class: 'hello-text' }, greeting())),
     h('section', { class: 'card today' },
       ring(pct, pct >= 1 ? 'Xong! 🎉' : `${d.cards}/${goal}`, pct >= 1 ? 'mục tiêu hôm nay' : 'thẻ hôm nay'),
