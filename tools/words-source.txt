@@ -1,0 +1,358 @@
+# Nguồn dữ liệu từ vựng. Chạy: python tools/build_data.py
+# Chủ đề:  ## id | tên Việt | tên Trung | icon | cấp (1, 2 hoặc love)
+# Từ:      chữ Hán | pinyin (âm tiết cách nhau) | nghĩa | Hán Việt | loại từ | ví dụ | pinyin ví dụ | dịch ví dụ [| cấp riêng: 0 = ngoài HSK]
+
+## love | Tình yêu | 爱情 | 💕 | love
+爱|ài|yêu, tình yêu|Ái|động từ|我爱你。|Wǒ ài nǐ.|Anh yêu em.|1
+想|xiǎng|nhớ; muốn; nghĩ|Tưởng|động từ|我想你了。|Wǒ xiǎng nǐ le.|Anh nhớ em rồi.|1
+漂亮|piào liang|xinh đẹp|Phiêu lượng|tính từ|你今天很漂亮。|Nǐ jīntiān hěn piàoliang.|Hôm nay em rất xinh.|1
+可爱|kě ài|dễ thương|Khả ái|tính từ|你真可爱！|Nǐ zhēn kě'ài!|Em thật dễ thương!|0
+亲爱的|qīn ài de|người thương, em yêu, anh yêu|Thân ái đích|danh từ|亲爱的，你在做什么？|Qīn'ài de, nǐ zài zuò shénme?|Em yêu, em đang làm gì thế?|0
+宝贝|bǎo bèi|cục cưng, bảo bối|Bảo bối|danh từ|宝贝，你在哪儿？|Bǎobèi, nǐ zài nǎr?|Cục cưng, em đang ở đâu?|0
+我爱你|wǒ ài nǐ|anh yêu em, em yêu anh|Ngã ái nhĩ|câu|我爱你，宝贝。|Wǒ ài nǐ, bǎobèi.|Anh yêu em, cục cưng.|0
+我想你|wǒ xiǎng nǐ|anh nhớ em, em nhớ anh|Ngã tưởng nhĩ|câu|我很想你。|Wǒ hěn xiǎng nǐ.|Anh nhớ em lắm.|0
+晚安|wǎn ān|chúc ngủ ngon|Vãn an|cụm từ|晚安，亲爱的。|Wǎn'ān, qīn'ài de.|Ngủ ngon nhé, em yêu.|0
+早安|zǎo ān|chào buổi sáng|Tảo an|cụm từ|早安，宝贝！|Zǎo'ān, bǎobèi!|Chào buổi sáng, cục cưng!|0
+男朋友|nán péng you|bạn trai|Nam bằng hữu|danh từ|他是我的男朋友。|Tā shì wǒ de nánpéngyou.|Anh ấy là bạn trai của em.|0
+女朋友|nǚ péng you|bạn gái|Nữ bằng hữu|danh từ|你是我的女朋友。|Nǐ shì wǒ de nǚpéngyou.|Em là bạn gái của anh.|0
+抱抱|bào bao|ôm một cái|Bão bão|động từ|来，抱抱！|Lái, bàobao!|Lại đây, ôm cái nào!|0
+亲亲|qīn qin|hôn một cái|Thân thân|động từ|亲亲你。|Qīnqin nǐ.|Hôn em một cái.|0
+约会|yuē huì|hẹn hò|Ước hội|động từ|我们去约会吧！|Wǒmen qù yuēhuì ba!|Mình đi hẹn hò nhé!|0
+永远|yǒng yuǎn|mãi mãi|Vĩnh viễn|phó từ|我永远爱你。|Wǒ yǒngyuǎn ài nǐ.|Anh yêu em mãi mãi.|0
+心|xīn|trái tim|Tâm|danh từ|你在我心里。|Nǐ zài wǒ xīn li.|Em ở trong tim anh.|0
+
+## greet | Chào hỏi | 打招呼 | 👋 | 1
+你|nǐ|bạn, em, anh (ngôi thứ hai)|Nhĩ|đại từ|你好！|Nǐ hǎo!|Xin chào!
+我|wǒ|tôi, anh, em (ngôi thứ nhất)|Ngã|đại từ|我是学生。|Wǒ shì xuésheng.|Tôi là sinh viên.
+我们|wǒ men|chúng tôi, chúng ta|Ngã môn|đại từ|我们是朋友。|Wǒmen shì péngyou.|Chúng ta là bạn bè.
+他|tā|anh ấy, ông ấy|Tha|đại từ|他是老师。|Tā shì lǎoshī.|Anh ấy là giáo viên.
+她|tā|cô ấy, chị ấy|Tha|đại từ|她很漂亮。|Tā hěn piàoliang.|Cô ấy rất xinh.
+谁|shéi|ai|Thùy|đại từ|他是谁？|Tā shì shéi?|Anh ấy là ai?
+好|hǎo|tốt, khỏe, được|Hảo|tính từ|你好吗？|Nǐ hǎo ma?|Em khỏe không?
+请|qǐng|mời, xin, làm ơn|Thỉnh|động từ|请坐。|Qǐng zuò.|Mời ngồi.
+谢谢|xiè xie|cảm ơn|Tạ tạ|động từ|谢谢你！|Xièxie nǐ!|Cảm ơn em!
+不客气|bú kè qi|không có gì, đừng khách sáo|Bất khách khí|cụm từ|谢谢！不客气。|Xièxie! Bú kèqi.|Cảm ơn! Không có gì.
+对不起|duì bu qǐ|xin lỗi|Đối bất khởi|động từ|对不起，我不会。|Duìbuqǐ, wǒ bú huì.|Xin lỗi, tôi không biết.
+没关系|méi guān xi|không sao|Một quan hệ|cụm từ|对不起！没关系。|Duìbuqǐ! Méi guānxi.|Xin lỗi! Không sao đâu.
+再见|zài jiàn|tạm biệt|Tái kiến|động từ|老师，再见！|Lǎoshī, zàijiàn!|Tạm biệt thầy/cô!
+喂|wèi|alô (nghe điện thoại)|Uy|thán từ|喂，你好！|Wèi, nǐ hǎo!|Alô, xin chào!
+叫|jiào|gọi, tên là|Khiếu|động từ|我叫小月。|Wǒ jiào Xiǎoyuè.|Tôi tên là Tiểu Nguyệt.
+名字|míng zi|tên|Danh tự|danh từ|你叫什么名字？|Nǐ jiào shénme míngzi?|Bạn tên là gì?
+认识|rèn shi|quen biết|Nhận thức|động từ|认识你很高兴。|Rènshi nǐ hěn gāoxìng.|Rất vui được quen bạn.
+
+## family | Gia đình & mọi người | 家人 | 👨‍👩‍👧 | 1
+爸爸|bà ba|bố, ba|Ba ba|danh từ|我爸爸是医生。|Wǒ bàba shì yīshēng.|Bố tôi là bác sĩ.
+妈妈|mā ma|mẹ|Ma ma|danh từ|我爱妈妈。|Wǒ ài māma.|Tôi yêu mẹ.
+儿子|ér zi|con trai|Nhi tử|danh từ|他有一个儿子。|Tā yǒu yí ge érzi.|Anh ấy có một con trai.
+女儿|nǚ ér|con gái|Nữ nhi|danh từ|她女儿三岁。|Tā nǚ'ér sān suì.|Con gái cô ấy ba tuổi.
+家|jiā|nhà, gia đình|Gia|danh từ|我家有四个人。|Wǒ jiā yǒu sì ge rén.|Nhà tôi có bốn người.
+人|rén|người|Nhân|danh từ|你是哪国人？|Nǐ shì nǎ guó rén?|Bạn là người nước nào?
+朋友|péng you|bạn bè|Bằng hữu|danh từ|他是我的好朋友。|Tā shì wǒ de hǎo péngyou.|Anh ấy là bạn tốt của tôi.
+同学|tóng xué|bạn học|Đồng học|danh từ|我们是同学。|Wǒmen shì tóngxué.|Chúng tôi là bạn học.
+老师|lǎo shī|giáo viên, thầy cô|Lão sư|danh từ|王老师很好。|Wáng lǎoshī hěn hǎo.|Cô Vương rất tốt.
+学生|xué sheng|học sinh, sinh viên|Học sinh|danh từ|他们都是学生。|Tāmen dōu shì xuésheng.|Họ đều là sinh viên.
+医生|yī shēng|bác sĩ|Y sinh|danh từ|她是医生。|Tā shì yīshēng.|Cô ấy là bác sĩ.
+先生|xiān sheng|ông, ngài; chồng|Tiên sinh|danh từ|李先生，你好！|Lǐ xiānsheng, nǐ hǎo!|Chào ông Lý!
+小姐|xiǎo jiě|cô (gọi phụ nữ trẻ)|Tiểu thư|danh từ|王小姐是老师。|Wáng xiǎojiě shì lǎoshī.|Cô Vương là giáo viên.
+中国|zhōng guó|Trung Quốc|Trung Quốc|danh từ riêng|我想去中国。|Wǒ xiǎng qù Zhōngguó.|Tôi muốn đi Trung Quốc.
+北京|běi jīng|Bắc Kinh|Bắc Kinh|danh từ riêng|我在北京工作。|Wǒ zài Běijīng gōngzuò.|Tôi làm việc ở Bắc Kinh.
+
+## numbers | Số đếm | 数字 | 🔢 | 1
+一|yī|một|Nhất|số từ|一个人|yí ge rén|một người
+二|èr|hai|Nhị|số từ|二月|èr yuè|tháng hai
+三|sān|ba|Tam|số từ|三本书|sān běn shū|ba quyển sách
+四|sì|bốn|Tứ|số từ|四个人|sì ge rén|bốn người
+五|wǔ|năm|Ngũ|số từ|五块钱|wǔ kuài qián|năm đồng
+六|liù|sáu|Lục|số từ|六点|liù diǎn|sáu giờ
+七|qī|bảy|Thất|số từ|七月|qī yuè|tháng bảy
+八|bā|tám|Bát|số từ|八岁|bā suì|tám tuổi
+九|jiǔ|chín|Cửu|số từ|九点|jiǔ diǎn|chín giờ
+十|shí|mười|Thập|số từ|十个苹果|shí ge píngguǒ|mười quả táo
+几|jǐ|mấy, vài|Kỷ|đại từ|你几岁？|Nǐ jǐ suì?|Em mấy tuổi?
+多少|duō shao|bao nhiêu|Đa thiểu|đại từ|多少钱？|Duōshao qián?|Bao nhiêu tiền?
+岁|suì|tuổi|Tuế|lượng từ|我二十岁。|Wǒ èrshí suì.|Tôi hai mươi tuổi.
+个|gè|cái, con, người (lượng từ chung)|Cá|lượng từ|一个朋友|yí ge péngyou|một người bạn
+些|xiē|một vài, những|Ta|lượng từ|这些是我的书。|Zhèxiē shì wǒ de shū.|Những cái này là sách của tôi.
+块|kuài|đồng (tiền); miếng|Khối|lượng từ|十块钱|shí kuài qián|mười đồng
+钱|qián|tiền|Tiền|danh từ|我没有钱。|Wǒ méiyǒu qián.|Tôi không có tiền.
+
+## time | Thời gian | 时间 | ⏰ | 1
+今天|jīn tiān|hôm nay|Kim thiên|danh từ|今天我很高兴。|Jīntiān wǒ hěn gāoxìng.|Hôm nay em rất vui.
+明天|míng tiān|ngày mai|Minh thiên|danh từ|明天见！|Míngtiān jiàn!|Mai gặp nhé!
+昨天|zuó tiān|hôm qua|Tạc thiên|danh từ|昨天下雨了。|Zuótiān xià yǔ le.|Hôm qua trời mưa.
+年|nián|năm|Niên|danh từ|今年是二〇二六年。|Jīnnián shì èr líng èr liù nián.|Năm nay là năm 2026.
+月|yuè|tháng; mặt trăng|Nguyệt|danh từ|十月一号|shí yuè yī hào|ngày 1 tháng 10
+号|hào|ngày (trong tháng); số|Hiệu|danh từ|今天几号？|Jīntiān jǐ hào?|Hôm nay ngày mấy?
+星期|xīng qī|tuần, thứ|Tinh kỳ|danh từ|今天星期一。|Jīntiān xīngqī yī.|Hôm nay thứ hai.
+点|diǎn|giờ; chút|Điểm|lượng từ|现在几点？|Xiànzài jǐ diǎn?|Bây giờ mấy giờ?
+分钟|fēn zhōng|phút|Phân chung|danh từ|十分钟|shí fēnzhōng|mười phút
+现在|xiàn zài|bây giờ|Hiện tại|danh từ|现在九点。|Xiànzài jiǔ diǎn.|Bây giờ là chín giờ.
+时候|shí hou|lúc, khi|Thời hậu|danh từ|你什么时候来？|Nǐ shénme shíhou lái?|Khi nào em đến?
+上午|shàng wǔ|buổi sáng|Thượng ngọ|danh từ|上午我去学校。|Shàngwǔ wǒ qù xuéxiào.|Buổi sáng tôi đến trường.
+中午|zhōng wǔ|buổi trưa|Trung ngọ|danh từ|中午我们吃米饭。|Zhōngwǔ wǒmen chī mǐfàn.|Buổi trưa chúng tôi ăn cơm.
+下午|xià wǔ|buổi chiều|Hạ ngọ|danh từ|下午三点见。|Xiàwǔ sān diǎn jiàn.|Ba giờ chiều gặp nhé.
+
+## food | Ăn uống | 吃喝 | 🍜 | 1
+吃|chī|ăn|Ngật|động từ|你吃什么？|Nǐ chī shénme?|Em ăn gì?
+喝|hē|uống|Hát|động từ|我想喝茶。|Wǒ xiǎng hē chá.|Tôi muốn uống trà.
+菜|cài|món ăn; rau|Thái|danh từ|我喜欢中国菜。|Wǒ xǐhuan Zhōngguó cài.|Tôi thích món Trung Quốc.
+米饭|mǐ fàn|cơm|Mễ phạn|danh từ|我吃米饭。|Wǒ chī mǐfàn.|Tôi ăn cơm.
+水|shuǐ|nước|Thủy|danh từ|请喝水。|Qǐng hē shuǐ.|Mời uống nước.
+茶|chá|trà|Trà|danh từ|这是中国茶。|Zhè shì Zhōngguó chá.|Đây là trà Trung Quốc.
+水果|shuǐ guǒ|trái cây|Thủy quả|danh từ|我喜欢吃水果。|Wǒ xǐhuan chī shuǐguǒ.|Em thích ăn trái cây.
+苹果|píng guǒ|quả táo|Bình quả|danh từ|这个苹果很大。|Zhège píngguǒ hěn dà.|Quả táo này rất to.
+杯子|bēi zi|cốc, ly|Bôi tử|danh từ|这是我的杯子。|Zhè shì wǒ de bēizi.|Đây là cốc của tôi.
+饭店|fàn diàn|nhà hàng; khách sạn|Phạn điếm|danh từ|我们去饭店吃饭。|Wǒmen qù fàndiàn chī fàn.|Chúng ta đi nhà hàng ăn cơm.
+喜欢|xǐ huan|thích|Hỉ hoan|động từ|我喜欢你。|Wǒ xǐhuan nǐ.|Anh thích em.
+多|duō|nhiều|Đa|tính từ|水果很多。|Shuǐguǒ hěn duō.|Trái cây rất nhiều.
+少|shǎo|ít|Thiểu|tính từ|钱很少。|Qián hěn shǎo.|Tiền rất ít.
+
+## shopping | Mua sắm | 买东西 | 🛍️ | 1
+买|mǎi|mua|Mãi|động từ|我想买衣服。|Wǒ xiǎng mǎi yīfu.|Em muốn mua quần áo.
+东西|dōng xi|đồ, đồ vật|Đông tây|danh từ|你买什么东西？|Nǐ mǎi shénme dōngxi?|Em mua đồ gì?
+商店|shāng diàn|cửa hàng|Thương điếm|danh từ|商店在哪儿？|Shāngdiàn zài nǎr?|Cửa hàng ở đâu?
+衣服|yī fu|quần áo|Y phục|danh từ|这个衣服很漂亮。|Zhège yīfu hěn piàoliang.|Bộ quần áo này rất đẹp.
+本|běn|quyển (lượng từ cho sách)|Bản|lượng từ|一本书|yì běn shū|một quyển sách
+书|shū|sách|Thư|danh từ|这是我的书。|Zhè shì wǒ de shū.|Đây là sách của tôi.
+太|tài|quá|Thái|phó từ|太好了！|Tài hǎo le!|Tốt quá rồi!
+大|dà|to, lớn|Đại|tính từ|这个商店很大。|Zhège shāngdiàn hěn dà.|Cửa hàng này rất lớn.
+小|xiǎo|nhỏ, bé|Tiểu|tính từ|我的猫很小。|Wǒ de māo hěn xiǎo.|Con mèo của em rất nhỏ.
+一点儿|yì diǎnr|một chút|Nhất điểm nhi|số lượng từ|我会说一点儿汉语。|Wǒ huì shuō yìdiǎnr Hànyǔ.|Em biết nói một chút tiếng Trung.
+怎么样|zěn me yàng|thế nào|Chẩm ma dạng|đại từ|这个怎么样？|Zhège zěnmeyàng?|Cái này thế nào?
+这|zhè|này, đây|Giá|đại từ|这是什么？|Zhè shì shénme?|Đây là gì?
+那|nà|kia, đó|Na|đại từ|那是我的。|Nà shì wǒ de.|Kia là của tôi.
+
+## school | Học tập & giải trí | 学习 | 📚 | 1
+学校|xué xiào|trường học|Học hiệu|danh từ|我们的学校很大。|Wǒmen de xuéxiào hěn dà.|Trường của chúng tôi rất lớn.
+学习|xué xí|học tập|Học tập|động từ|我学习汉语。|Wǒ xuéxí Hànyǔ.|Em học tiếng Trung.
+汉语|hàn yǔ|tiếng Hán, tiếng Trung|Hán ngữ|danh từ|我喜欢汉语。|Wǒ xǐhuan Hànyǔ.|Em thích tiếng Trung.
+字|zì|chữ|Tự|danh từ|这个字怎么读？|Zhège zì zěnme dú?|Chữ này đọc thế nào?
+写|xiě|viết|Tả|động từ|我会写汉字。|Wǒ huì xiě Hànzì.|Em biết viết chữ Hán.
+读|dú|đọc|Độc|động từ|我读书。|Wǒ dú shū.|Tôi đọc sách.
+说|shuō|nói|Thuyết|động từ|你会说汉语吗？|Nǐ huì shuō Hànyǔ ma?|Em biết nói tiếng Trung không?
+听|tīng|nghe|Thính|động từ|你听，下雨了。|Nǐ tīng, xià yǔ le.|Em nghe kìa, trời mưa rồi.
+看|kàn|xem, nhìn|Khán|động từ|我喜欢看书。|Wǒ xǐhuan kàn shū.|Tôi thích đọc sách.
+看见|kàn jiàn|nhìn thấy|Khán kiến|động từ|我看见他了。|Wǒ kànjiàn tā le.|Tôi nhìn thấy anh ấy rồi.
+电脑|diàn nǎo|máy tính|Điện não|danh từ|这是我的电脑。|Zhè shì wǒ de diànnǎo.|Đây là máy tính của tôi.
+电视|diàn shì|ti vi|Điện thị|danh từ|爸爸在看电视。|Bàba zài kàn diànshì.|Bố đang xem ti vi.
+电影|diàn yǐng|phim|Điện ảnh|danh từ|我想看电影。|Wǒ xiǎng kàn diànyǐng.|Em muốn xem phim.
+桌子|zhuō zi|cái bàn|Trác tử|danh từ|书在桌子上。|Shū zài zhuōzi shang.|Sách ở trên bàn.
+椅子|yǐ zi|cái ghế|Ỷ tử|danh từ|这个椅子很小。|Zhège yǐzi hěn xiǎo.|Cái ghế này rất nhỏ.
+猫|māo|con mèo|Miêu|danh từ|我喜欢猫。|Wǒ xǐhuan māo.|Em thích mèo.
+狗|gǒu|con chó|Cẩu|danh từ|那个狗很大。|Nàge gǒu hěn dà.|Con chó đó rất to.
+
+## places | Đi lại & nơi chốn | 去哪儿 | 🚕 | 1
+去|qù|đi|Khứ|động từ|你去哪儿？|Nǐ qù nǎr?|Em đi đâu?
+来|lái|đến, tới|Lai|động từ|请来我家。|Qǐng lái wǒ jiā.|Mời đến nhà tôi.
+回|huí|về|Hồi|động từ|我回家了。|Wǒ huí jiā le.|Anh về nhà rồi.
+在|zài|ở; đang|Tại|động từ|我在家。|Wǒ zài jiā.|Tôi ở nhà.
+住|zhù|ở, sống|Trú|động từ|你住在哪儿？|Nǐ zhù zài nǎr?|Em sống ở đâu?
+坐|zuò|ngồi; đi (xe)|Tọa|động từ|我坐飞机去北京。|Wǒ zuò fēijī qù Běijīng.|Tôi đi máy bay đến Bắc Kinh.
+出租车|chū zū chē|taxi|Xuất tô xa|danh từ|我们坐出租车去。|Wǒmen zuò chūzūchē qù.|Chúng ta đi taxi.
+飞机|fēi jī|máy bay|Phi cơ|danh từ|飞机很大。|Fēijī hěn dà.|Máy bay rất to.
+医院|yī yuàn|bệnh viện|Y viện|danh từ|他在医院工作。|Tā zài yīyuàn gōngzuò.|Anh ấy làm việc ở bệnh viện.
+哪|nǎ|nào|Na|đại từ|你喜欢哪个？|Nǐ xǐhuan nǎge?|Em thích cái nào?
+哪儿|nǎr|ở đâu|Na nhi|đại từ|你家在哪儿？|Nǐ jiā zài nǎr?|Nhà em ở đâu?
+里|lǐ|trong|Lý|danh từ phương vị|她在商店里。|Tā zài shāngdiàn li.|Cô ấy ở trong cửa hàng.
+上|shàng|trên|Thượng|danh từ phương vị|猫在桌子上。|Māo zài zhuōzi shang.|Con mèo ở trên bàn.
+下|xià|dưới|Hạ|danh từ phương vị|狗在椅子下。|Gǒu zài yǐzi xià.|Con chó ở dưới ghế.
+前面|qián miàn|phía trước|Tiền diện|danh từ phương vị|商店在前面。|Shāngdiàn zài qiánmiàn.|Cửa hàng ở phía trước.
+后面|hòu miàn|phía sau|Hậu diện|danh từ phương vị|学校后面有医院。|Xuéxiào hòumiàn yǒu yīyuàn.|Sau trường có bệnh viện.
+
+## daily | Cuộc sống hằng ngày | 生活 | ☀️ | 1
+做|zuò|làm|Tố|động từ|你在做什么？|Nǐ zài zuò shénme?|Em đang làm gì đó?
+工作|gōng zuò|làm việc; công việc|Công tác|động từ|爸爸在工作。|Bàba zài gōngzuò.|Bố đang làm việc.
+会|huì|biết (làm gì); sẽ|Hội|động từ năng nguyện|我会做饭。|Wǒ huì zuò fàn.|Anh biết nấu cơm.
+能|néng|có thể|Năng|động từ năng nguyện|你能来吗？|Nǐ néng lái ma?|Em đến được không?
+开|kāi|mở; lái|Khai|động từ|他开出租车。|Tā kāi chūzūchē.|Anh ấy lái taxi.
+打电话|dǎ diàn huà|gọi điện thoại|Đả điện thoại|động từ|我给你打电话。|Wǒ gěi nǐ dǎ diànhuà.|Anh gọi điện cho em.
+睡觉|shuì jiào|ngủ|Thụy giác|động từ|我想睡觉了。|Wǒ xiǎng shuìjiào le.|Em buồn ngủ rồi.
+天气|tiān qì|thời tiết|Thiên khí|danh từ|今天天气很好。|Jīntiān tiānqì hěn hǎo.|Hôm nay thời tiết rất đẹp.
+冷|lěng|lạnh|Lãnh|tính từ|今天太冷了。|Jīntiān tài lěng le.|Hôm nay lạnh quá.
+热|rè|nóng|Nhiệt|tính từ|北京很热。|Běijīng hěn rè.|Bắc Kinh rất nóng.
+下雨|xià yǔ|mưa|Hạ vũ|động từ|明天会下雨。|Míngtiān huì xià yǔ.|Ngày mai sẽ mưa.
+高兴|gāo xìng|vui|Cao hứng|tính từ|我今天很高兴。|Wǒ jīntiān hěn gāoxìng.|Hôm nay em rất vui.
+
+## small1 | Từ nhỏ mà có võ | 小词 | ✨ | 1
+是|shì|là|Thị|động từ|我是越南人。|Wǒ shì Yuènán rén.|Tôi là người Việt Nam.
+有|yǒu|có|Hữu|động từ|我有很多朋友。|Wǒ yǒu hěn duō péngyou.|Tôi có nhiều bạn.
+没有|méi yǒu|không có; chưa|Một hữu|động từ|我没有猫。|Wǒ méiyǒu māo.|Tôi không có mèo.
+不|bù|không|Bất|phó từ|我不喝茶。|Wǒ bù hē chá.|Tôi không uống trà.
+都|dōu|đều|Đô|phó từ|我们都是学生。|Wǒmen dōu shì xuésheng.|Chúng tôi đều là sinh viên.
+很|hěn|rất|Ngận|phó từ|我很好。|Wǒ hěn hǎo.|Tôi rất khỏe.
+和|hé|và, với|Hòa|liên từ|我和你|wǒ hé nǐ|anh và em
+的|de|của (trợ từ sở hữu)|Đích|trợ từ|我的书|wǒ de shū|sách của tôi
+了|le|rồi (trợ từ hoàn thành)|Liễu|trợ từ|我吃了。|Wǒ chī le.|Tôi ăn rồi.
+吗|ma|không? (trợ từ nghi vấn)|Ma|trợ từ|你是老师吗？|Nǐ shì lǎoshī ma?|Bạn là giáo viên à?
+呢|ne|còn… thì sao? (trợ từ)|Ni|trợ từ|我很好，你呢？|Wǒ hěn hǎo, nǐ ne?|Anh khỏe, còn em?
+什么|shén me|cái gì|Thập ma|đại từ|你想吃什么？|Nǐ xiǎng chī shénme?|Em muốn ăn gì?
+怎么|zěn me|thế nào, sao|Chẩm ma|đại từ|这个字怎么写？|Zhège zì zěnme xiě?|Chữ này viết thế nào?
+
+## h2-people | Người thân & sức khỏe | 家人和身体 | 👫 | 2
+哥哥|gē ge|anh trai|Ca ca|danh từ|我哥哥很高。|Wǒ gēge hěn gāo.|Anh trai tôi rất cao.
+姐姐|jiě jie|chị gái|Thư thư|danh từ|姐姐在公司工作。|Jiějie zài gōngsī gōngzuò.|Chị gái làm việc ở công ty.
+弟弟|dì di|em trai|Đệ đệ|danh từ|我弟弟八岁。|Wǒ dìdi bā suì.|Em trai tôi tám tuổi.
+妹妹|mèi mei|em gái|Muội muội|danh từ|你有妹妹吗？|Nǐ yǒu mèimei ma?|Em có em gái không?
+丈夫|zhàng fu|chồng|Trượng phu|danh từ|她丈夫是医生。|Tā zhàngfu shì yīshēng.|Chồng cô ấy là bác sĩ.
+妻子|qī zi|vợ|Thê tử|danh từ|他妻子很漂亮。|Tā qīzi hěn piàoliang.|Vợ anh ấy rất xinh.
+孩子|hái zi|đứa trẻ, con|Hài tử|danh từ|孩子在睡觉。|Háizi zài shuìjiào.|Đứa bé đang ngủ.
+男|nán|nam, con trai|Nam|tính từ|他是男老师。|Tā shì nán lǎoshī.|Anh ấy là thầy giáo.
+女|nǚ|nữ, con gái|Nữ|tính từ|她是女医生。|Tā shì nǚ yīshēng.|Cô ấy là nữ bác sĩ.
+您|nín|ngài, ông, bà (kính trọng)|Nâm|đại từ|您好！|Nín hǎo!|Kính chào ông/bà!
+大家|dà jiā|mọi người|Đại gia|đại từ|大家好！|Dàjiā hǎo!|Chào mọi người!
+它|tā|nó (đồ vật, con vật)|Tha|đại từ|这是我的猫，它很小。|Zhè shì wǒ de māo, tā hěn xiǎo.|Đây là mèo của em, nó rất nhỏ.
+姓|xìng|họ; mang họ|Tính|động từ|您贵姓？|Nín guì xìng?|Ông/bà họ gì ạ?
+身体|shēn tǐ|cơ thể, sức khỏe|Thân thể|danh từ|你身体好吗？|Nǐ shēntǐ hǎo ma?|Sức khỏe em tốt không?
+眼睛|yǎn jing|mắt|Nhãn tinh|danh từ|你的眼睛很漂亮。|Nǐ de yǎnjing hěn piàoliang.|Mắt em rất đẹp.
+生病|shēng bìng|bị ốm|Sinh bệnh|động từ|我生病了。|Wǒ shēngbìng le.|Em bị ốm rồi.
+药|yào|thuốc|Dược|danh từ|你吃药了吗？|Nǐ chī yào le ma?|Em uống thuốc chưa?
+
+## h2-time | Thời gian & lịch | 时间和日期 | 📅 | 2
+早上|zǎo shang|buổi sáng sớm|Tảo thượng|danh từ|早上好！|Zǎoshang hǎo!|Chào buổi sáng!
+晚上|wǎn shang|buổi tối|Vãn thượng|danh từ|晚上我们去看电影。|Wǎnshang wǒmen qù kàn diànyǐng.|Tối nay mình đi xem phim.
+日|rì|ngày; mặt trời|Nhật|danh từ|十月一日|shí yuè yī rì|ngày 1 tháng 10
+去年|qù nián|năm ngoái|Khứ niên|danh từ|去年我去了北京。|Qùnián wǒ qù le Běijīng.|Năm ngoái tôi đã đi Bắc Kinh.
+小时|xiǎo shí|giờ, tiếng đồng hồ|Tiểu thời|danh từ|我睡了八个小时。|Wǒ shuì le bā ge xiǎoshí.|Tôi đã ngủ tám tiếng.
+时间|shí jiān|thời gian|Thời gian|danh từ|你有时间吗？|Nǐ yǒu shíjiān ma?|Em có thời gian không?
+生日|shēng rì|sinh nhật|Sinh nhật|danh từ|生日快乐！|Shēngrì kuàilè!|Chúc mừng sinh nhật!
+快乐|kuài lè|vui vẻ|Khoái lạc|tính từ|新年快乐！|Xīnnián kuàilè!|Chúc mừng năm mới!
+已经|yǐ jīng|đã|Dĩ kinh|phó từ|我已经吃了。|Wǒ yǐjīng chī le.|Tôi đã ăn rồi.
+正在|zhèng zài|đang|Chính tại|phó từ|我正在学习。|Wǒ zhèngzài xuéxí.|Em đang học bài.
+开始|kāi shǐ|bắt đầu|Khai thủy|động từ|我们开始吧！|Wǒmen kāishǐ ba!|Chúng ta bắt đầu nào!
+完|wán|xong, hết|Hoàn|động từ|我看完了。|Wǒ kàn wán le.|Tôi xem xong rồi.
+每|měi|mỗi|Mỗi|đại từ|我每天学习汉语。|Wǒ měitiān xuéxí Hànyǔ.|Em học tiếng Trung mỗi ngày.
+第一|dì yī|thứ nhất|Đệ nhất|số từ|这是我第一次来中国。|Zhè shì wǒ dì yī cì lái Zhōngguó.|Đây là lần đầu tôi đến Trung Quốc.
+次|cì|lần|Thứ|lượng từ|我去过两次。|Wǒ qù guo liǎng cì.|Tôi đã đi hai lần.
+起床|qǐ chuáng|thức dậy|Khởi sàng|động từ|我七点起床。|Wǒ qī diǎn qǐchuáng.|Tôi dậy lúc bảy giờ.
+上班|shàng bān|đi làm|Thượng ban|động từ|爸爸去上班了。|Bàba qù shàngbān le.|Bố đi làm rồi.
+休息|xiū xi|nghỉ ngơi|Hưu tức|động từ|你累了，休息一下吧。|Nǐ lèi le, xiūxi yíxià ba.|Em mệt rồi, nghỉ một chút đi.
+
+## h2-food | Ăn uống & mua sắm | 吃饭和买东西 | 🍉 | 2
+好吃|hǎo chī|ngon|Hảo ngật|tính từ|这个菜很好吃。|Zhège cài hěn hǎochī.|Món này rất ngon.
+鸡蛋|jī dàn|trứng gà|Kê đản|danh từ|我早上吃鸡蛋。|Wǒ zǎoshang chī jīdàn.|Buổi sáng tôi ăn trứng.
+面条|miàn tiáo|mì sợi|Diện điều|danh từ|我想吃面条。|Wǒ xiǎng chī miàntiáo.|Em muốn ăn mì.
+牛奶|niú nǎi|sữa bò|Ngưu nãi|danh từ|请喝牛奶。|Qǐng hē niúnǎi.|Mời uống sữa.
+咖啡|kā fēi|cà phê|Ca phê|danh từ|我每天喝咖啡。|Wǒ měitiān hē kāfēi.|Tôi uống cà phê mỗi ngày.
+西瓜|xī guā|dưa hấu|Tây qua|danh từ|我喜欢吃西瓜。|Wǒ xǐhuan chī xīguā.|Em thích ăn dưa hấu.
+羊肉|yáng ròu|thịt cừu|Dương nhục|danh từ|你吃羊肉吗？|Nǐ chī yángròu ma?|Em ăn thịt cừu không?
+鱼|yú|cá|Ngư|danh từ|我喜欢吃鱼。|Wǒ xǐhuan chī yú.|Tôi thích ăn cá.
+服务员|fú wù yuán|nhân viên phục vụ|Phục vụ viên|danh từ|服务员，我要一杯茶。|Fúwùyuán, wǒ yào yì bēi chá.|Phục vụ ơi, cho tôi một ly trà.
+卖|mài|bán|Mại|động từ|这儿卖水果吗？|Zhèr mài shuǐguǒ ma?|Ở đây có bán trái cây không?
+贵|guì|đắt|Quý|tính từ|太贵了！|Tài guì le!|Đắt quá!
+便宜|pián yi|rẻ|Tiện nghi|tính từ|这件衣服很便宜。|Zhè jiàn yīfu hěn piányi.|Bộ đồ này rất rẻ.
+件|jiàn|chiếc, bộ (lượng từ)|Kiện|lượng từ|一件衣服|yí jiàn yīfu|một bộ quần áo
+百|bǎi|trăm|Bách|số từ|一百块|yì bǎi kuài|một trăm đồng
+千|qiān|nghìn|Thiên|số từ|三千块钱|sān qiān kuài qián|ba nghìn đồng
+两|liǎng|hai (dùng với lượng từ)|Lưỡng|số từ|两个苹果|liǎng ge píngguǒ|hai quả táo
+零|líng|số không, lẻ|Linh|số từ|一百零一|yì bǎi líng yī|một trăm lẻ một
+要|yào|muốn; cần; sẽ|Yếu|động từ|你要什么？|Nǐ yào shénme?|Em muốn gì?
+
+## h2-describe | Màu sắc & thời tiết | 颜色和天气 | 🎨 | 2
+颜色|yán sè|màu sắc|Nhan sắc|danh từ|你喜欢什么颜色？|Nǐ xǐhuan shénme yánsè?|Em thích màu gì?
+红|hóng|đỏ|Hồng|tính từ|她的衣服是红的。|Tā de yīfu shì hóng de.|Quần áo cô ấy màu đỏ.
+白|bái|trắng|Bạch|tính từ|这个杯子是白的。|Zhège bēizi shì bái de.|Cái cốc này màu trắng.
+黑|hēi|đen|Hắc|tính từ|我的狗是黑的。|Wǒ de gǒu shì hēi de.|Con chó của tôi màu đen.
+长|cháng|dài|Trường|tính từ|时间很长。|Shíjiān hěn cháng.|Thời gian rất dài.
+高|gāo|cao|Cao|tính từ|他很高。|Tā hěn gāo.|Anh ấy rất cao.
+新|xīn|mới|Tân|tính từ|这是我的新手机。|Zhè shì wǒ de xīn shǒujī.|Đây là điện thoại mới của em.
+快|kuài|nhanh|Khoái|tính từ|他跑得很快。|Tā pǎo de hěn kuài.|Anh ấy chạy rất nhanh.
+慢|màn|chậm|Mạn|tính từ|请说慢一点儿。|Qǐng shuō màn yìdiǎnr.|Làm ơn nói chậm một chút.
+忙|máng|bận|Mang|tính từ|你忙吗？|Nǐ máng ma?|Em có bận không?
+累|lèi|mệt|Lụy|tính từ|今天我很累。|Jīntiān wǒ hěn lèi.|Hôm nay em rất mệt.
+真|zhēn|thật, thật là|Chân|phó từ|你真好！|Nǐ zhēn hǎo!|Em thật tốt!
+非常|fēi cháng|vô cùng, rất|Phi thường|phó từ|我非常高兴。|Wǒ fēicháng gāoxìng.|Anh vô cùng vui.
+最|zuì|nhất|Tối|phó từ|你最漂亮。|Nǐ zuì piàoliang.|Em đẹp nhất.
+对|duì|đúng; đối với|Đối|tính từ|你说得对。|Nǐ shuō de duì.|Em nói đúng.
+错|cuò|sai|Thác|tính từ|对不起，我错了。|Duìbuqǐ, wǒ cuò le.|Xin lỗi, anh sai rồi.
+晴|qíng|trời nắng, quang|Tình|tính từ|今天是晴天。|Jīntiān shì qíngtiān.|Hôm nay trời nắng.
+阴|yīn|trời âm u|Âm|tính từ|明天是阴天。|Míngtiān shì yīntiān.|Ngày mai trời âm u.
+雪|xuě|tuyết|Tuyết|danh từ|北京下雪了。|Běijīng xià xuě le.|Bắc Kinh có tuyết rồi.
+
+## h2-travel | Đi lại & phương hướng | 出行 | ✈️ | 2
+火车站|huǒ chē zhàn|ga tàu hỏa|Hỏa xa trạm|danh từ|火车站在哪儿？|Huǒchēzhàn zài nǎr?|Ga tàu ở đâu?
+机场|jī chǎng|sân bay|Cơ trường|danh từ|我去机场。|Wǒ qù jīchǎng.|Tôi ra sân bay.
+公共汽车|gōng gòng qì chē|xe buýt|Công cộng khí xa|danh từ|我坐公共汽车上班。|Wǒ zuò gōnggòng qìchē shàngbān.|Tôi đi xe buýt đi làm.
+宾馆|bīn guǎn|khách sạn|Tân quán|danh từ|这个宾馆很好。|Zhège bīnguǎn hěn hǎo.|Khách sạn này rất tốt.
+房间|fáng jiān|phòng|Phòng gian|danh từ|我的房间很小。|Wǒ de fángjiān hěn xiǎo.|Phòng của em rất nhỏ.
+门|mén|cửa|Môn|danh từ|请开门。|Qǐng kāi mén.|Làm ơn mở cửa.
+票|piào|vé|Phiếu|danh từ|我买票了。|Wǒ mǎi piào le.|Anh mua vé rồi.
+路|lù|đường|Lộ|danh từ|我在路上。|Wǒ zài lù shang.|Anh đang trên đường.
+旅游|lǚ yóu|du lịch|Lữ du|động từ|我们去中国旅游吧！|Wǒmen qù Zhōngguó lǚyóu ba!|Mình đi du lịch Trung Quốc nhé!
+远|yuǎn|xa|Viễn|tính từ|你家远吗？|Nǐ jiā yuǎn ma?|Nhà em có xa không?
+近|jìn|gần|Cận|tính từ|学校很近。|Xuéxiào hěn jìn.|Trường rất gần.
+离|lí|cách (khoảng cách)|Ly|giới từ|我家离学校很近。|Wǒ jiā lí xuéxiào hěn jìn.|Nhà tôi cách trường rất gần.
+往|wǎng|về phía|Vãng|giới từ|往前走。|Wǎng qián zǒu.|Đi thẳng về phía trước.
+左边|zuǒ bian|bên trái|Tả biên|danh từ phương vị|商店在左边。|Shāngdiàn zài zuǒbian.|Cửa hàng ở bên trái.
+右边|yòu bian|bên phải|Hữu biên|danh từ phương vị|医院在右边。|Yīyuàn zài yòubian.|Bệnh viện ở bên phải.
+旁边|páng biān|bên cạnh|Bàng biên|danh từ phương vị|我坐在你旁边。|Wǒ zuò zài nǐ pángbiān.|Anh ngồi bên cạnh em.
+外|wài|ngoài|Ngoại|danh từ phương vị|外面下雨了。|Wàimiàn xià yǔ le.|Bên ngoài mưa rồi.
+走|zǒu|đi bộ; rời đi|Tẩu|động từ|我们走吧。|Wǒmen zǒu ba.|Chúng ta đi thôi.
+到|dào|đến|Đáo|động từ|我到家了。|Wǒ dào jiā le.|Anh về đến nhà rồi.
+
+## h2-hobby | Sở thích & đồ dùng | 爱好 | ⚽ | 2
+唱歌|chàng gē|hát|Xướng ca|động từ|我喜欢唱歌。|Wǒ xǐhuan chàng gē.|Em thích hát.
+跳舞|tiào wǔ|nhảy múa|Khiêu vũ|động từ|我们一起跳舞吧！|Wǒmen yìqǐ tiàowǔ ba!|Mình cùng nhảy nhé!
+游泳|yóu yǒng|bơi|Du vịnh|động từ|你会游泳吗？|Nǐ huì yóuyǒng ma?|Em biết bơi không?
+跑步|pǎo bù|chạy bộ|Bào bộ|động từ|我每天早上跑步。|Wǒ měitiān zǎoshang pǎobù.|Sáng nào tôi cũng chạy bộ.
+运动|yùn dòng|vận động, thể thao|Vận động|danh từ|运动对身体好。|Yùndòng duì shēntǐ hǎo.|Vận động tốt cho sức khỏe.
+打篮球|dǎ lán qiú|chơi bóng rổ|Đả lam cầu|động từ|他喜欢打篮球。|Tā xǐhuan dǎ lánqiú.|Anh ấy thích chơi bóng rổ.
+踢足球|tī zú qiú|đá bóng|Thích túc cầu|động từ|我们去踢足球吧。|Wǒmen qù tī zúqiú ba.|Chúng ta đi đá bóng đi.
+玩|wán|chơi|Ngoạn|động từ|我们去玩吧！|Wǒmen qù wán ba!|Mình đi chơi nhé!
+笑|xiào|cười|Tiếu|động từ|她笑了。|Tā xiào le.|Cô ấy cười rồi.
+手机|shǒu jī|điện thoại di động|Thủ cơ|danh từ|你的手机在哪儿？|Nǐ de shǒujī zài nǎr?|Điện thoại của em đâu?
+手表|shǒu biǎo|đồng hồ đeo tay|Thủ biểu|danh từ|这是我送你的手表。|Zhè shì wǒ sòng nǐ de shǒubiǎo.|Đây là đồng hồ anh tặng em.
+报纸|bào zhǐ|báo|Báo chỉ|danh từ|爸爸在看报纸。|Bàba zài kàn bàozhǐ.|Bố đang đọc báo.
+铅笔|qiān bǐ|bút chì|Diên bút|danh từ|这是我的铅笔。|Zhè shì wǒ de qiānbǐ.|Đây là bút chì của tôi.
+
+## h2-school | Học tập & công việc | 学习和工作 | 🏫 | 2
+教室|jiào shì|phòng học|Giáo thất|danh từ|我们在教室学习。|Wǒmen zài jiàoshì xuéxí.|Chúng tôi học trong phòng học.
+课|kè|bài học, tiết học|Khóa|danh từ|我们上课吧。|Wǒmen shàng kè ba.|Chúng ta vào học thôi.
+考试|kǎo shì|thi, kỳ thi|Khảo thí|danh từ|明天有考试。|Míngtiān yǒu kǎoshì.|Ngày mai có bài thi.
+题|tí|đề, câu hỏi bài tập|Đề|danh từ|这个题我会。|Zhège tí wǒ huì.|Câu này em làm được.
+问题|wèn tí|câu hỏi; vấn đề|Vấn đề|danh từ|我有一个问题。|Wǒ yǒu yí ge wèntí.|Tôi có một câu hỏi.
+问|wèn|hỏi|Vấn|động từ|我可以问你吗？|Wǒ kěyǐ wèn nǐ ma?|Anh hỏi em được không?
+懂|dǒng|hiểu|Đổng|động từ|你懂了吗？|Nǐ dǒng le ma?|Em hiểu chưa?
+知道|zhī dào|biết|Tri đạo|động từ|我知道了。|Wǒ zhīdào le.|Anh biết rồi.
+意思|yì si|ý nghĩa|Ý tứ|danh từ|这个字是什么意思？|Zhège zì shì shénme yìsi?|Chữ này nghĩa là gì?
+介绍|jiè shào|giới thiệu|Giới thiệu|động từ|我来介绍一下。|Wǒ lái jièshào yíxià.|Để tôi giới thiệu một chút.
+公司|gōng sī|công ty|Công ty|danh từ|他在公司上班。|Tā zài gōngsī shàngbān.|Anh ấy đi làm ở công ty.
+事情|shì qing|việc, sự việc|Sự tình|danh từ|你有什么事情？|Nǐ yǒu shénme shìqing?|Em có việc gì thế?
+说话|shuō huà|nói chuyện|Thuyết thoại|động từ|别说话！|Bié shuōhuà!|Đừng nói chuyện!
+告诉|gào su|nói cho biết|Cáo tố|động từ|告诉我，你想要什么？|Gàosu wǒ, nǐ xiǎng yào shénme?|Nói anh nghe, em muốn gì?
+准备|zhǔn bèi|chuẩn bị|Chuẩn bị|động từ|你准备好了吗？|Nǐ zhǔnbèi hǎo le ma?|Em chuẩn bị xong chưa?
+帮助|bāng zhù|giúp đỡ|Bang trợ|động từ|谢谢你的帮助。|Xièxie nǐ de bāngzhù.|Cảm ơn sự giúp đỡ của bạn.
+找|zhǎo|tìm|Trảo|động từ|你找谁？|Nǐ zhǎo shéi?|Bạn tìm ai?
+
+## h2-actions | Hành động hằng ngày | 日常动作 | 🏃 | 2
+穿|chuān|mặc|Xuyên|động từ|今天很冷，多穿衣服。|Jīntiān hěn lěng, duō chuān yīfu.|Hôm nay lạnh, mặc thêm áo nhé.
+洗|xǐ|rửa, giặt|Tẩy|động từ|我去洗衣服。|Wǒ qù xǐ yīfu.|Tôi đi giặt quần áo.
+送|sòng|tặng; tiễn, đưa|Tống|động từ|我送你回家。|Wǒ sòng nǐ huí jiā.|Anh đưa em về nhà.
+给|gěi|cho, đưa|Cấp|động từ|给你！|Gěi nǐ!|Cho em này!
+等|děng|đợi|Đẳng|động từ|等我一下。|Děng wǒ yíxià.|Đợi anh một chút.
+让|ràng|để, bảo, nhường|Nhượng|động từ|让我想一想。|Ràng wǒ xiǎng yi xiǎng.|Để anh nghĩ một chút.
+希望|xī wàng|hy vọng, mong|Hy vọng|động từ|我希望你快乐。|Wǒ xīwàng nǐ kuàilè.|Anh mong em luôn vui.
+觉得|jué de|cảm thấy|Giác đắc|động từ|我觉得你很可爱。|Wǒ juéde nǐ hěn kě'ài.|Anh thấy em rất dễ thương.
+可以|kě yǐ|có thể, được|Khả dĩ|động từ năng nguyện|我可以坐这儿吗？|Wǒ kěyǐ zuò zhèr ma?|Tôi ngồi đây được không?
+可能|kě néng|có lẽ|Khả năng|phó từ|明天可能下雨。|Míngtiān kěnéng xià yǔ.|Ngày mai có lẽ mưa.
+出|chū|ra|Xuất|động từ|他出去了。|Tā chūqu le.|Anh ấy ra ngoài rồi.
+进|jìn|vào|Tiến|động từ|请进！|Qǐng jìn!|Mời vào!
+一起|yì qǐ|cùng nhau|Nhất khởi|phó từ|我们一起吃饭吧。|Wǒmen yìqǐ chī fàn ba.|Mình cùng ăn cơm nhé.
+一下|yí xià|một chút, thử|Nhất hạ|số lượng từ|你看一下。|Nǐ kàn yíxià.|Em xem thử đi.
+再|zài|lại, nữa|Tái|phó từ|再说一次。|Zài shuō yí cì.|Nói lại lần nữa.
+还|hái|còn, vẫn|Hoàn|phó từ|你还在学习吗？|Nǐ hái zài xuéxí ma?|Em vẫn đang học à?
+也|yě|cũng|Dã|phó từ|我也爱你。|Wǒ yě ài nǐ.|Anh cũng yêu em.
+就|jiù|liền, thì, ngay|Tựu|phó từ|我就在这儿。|Wǒ jiù zài zhèr.|Anh ở ngay đây.
+
+## h2-grammar | Từ nối & ngữ pháp | 语法小词 | 🧩 | 2
+吧|ba|nhé, đi (trợ từ gợi ý)|Ba|trợ từ|好吧。|Hǎo ba.|Thôi được.
+得|de|(trợ từ bổ ngữ mức độ)|Đắc|trợ từ|你说得很好。|Nǐ shuō de hěn hǎo.|Em nói rất hay.
+着|zhe|đang (trợ từ trạng thái)|Trước|trợ từ|门开着。|Mén kāi zhe.|Cửa đang mở.
+过|guo|đã từng (trợ từ kinh nghiệm)|Quá|trợ từ|我去过北京。|Wǒ qù guo Běijīng.|Tôi đã từng đến Bắc Kinh.
+从|cóng|từ|Tùng|giới từ|我从越南来。|Wǒ cóng Yuènán lái.|Tôi đến từ Việt Nam.
+比|bǐ|so với, hơn|Bỉ|giới từ|哥哥比我高。|Gēge bǐ wǒ gāo.|Anh trai cao hơn tôi.
+为什么|wèi shén me|tại sao|Vị thập ma|đại từ|你为什么不高兴？|Nǐ wèishénme bù gāoxìng?|Sao em không vui?
+因为|yīn wèi|bởi vì|Nhân vị|liên từ|因为下雨，所以我不去。|Yīnwèi xià yǔ, suǒyǐ wǒ bú qù.|Vì trời mưa nên tôi không đi.
+所以|suǒ yǐ|cho nên|Sở dĩ|liên từ|我很累，所以想睡觉。|Wǒ hěn lèi, suǒyǐ xiǎng shuìjiào.|Anh mệt nên muốn ngủ.
+虽然|suī rán|tuy rằng|Tuy nhiên|liên từ|虽然很忙，但是我很快乐。|Suīrán hěn máng, dànshì wǒ hěn kuàilè.|Tuy bận nhưng tôi rất vui.
+但是|dàn shì|nhưng|Đãn thị|liên từ|我想去，但是没有时间。|Wǒ xiǎng qù, dànshì méiyǒu shíjiān.|Tôi muốn đi nhưng không có thời gian.
+别|bié|đừng|Biệt|phó từ|别走！|Bié zǒu!|Đừng đi!

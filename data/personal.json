@@ -1,0 +1,46 @@
+{
+  "name": "Pi đáng yêu",
+  "me": "anh",
+  "you": "em",
+  "appTitle": "Học tiếng Trung cùng anh",
+  "greetings": {
+    "morning": "Chào buổi sáng, {name} ☀️",
+    "noon": "Trưa rồi, {name} ăn cơm chưa? 🍚",
+    "afternoon": "Buổi chiều vui vẻ nha, {name} 🌸",
+    "evening": "Chào buổi tối, {name} 🌙",
+    "night": "Khuya rồi đó {name}, học xíu rồi ngủ ngon nha 💤"
+  },
+  "welcome": [
+    {
+      "icon": "💕",
+      "title": "Chào {name}!",
+      "text": "Đây là góc học tiếng Trung anh làm riêng cho em. Mỗi ngày chỉ cần 10 đến 15 phút thôi."
+    },
+    {
+      "icon": "📖",
+      "title": "Học từng chút một",
+      "text": "Mỗi chủ đề có 12 đến 20 từ, đủ chữ Hán, pinyin, nghĩa tiếng Việt và câu ví dụ. Bấm 🔊 để nghe đọc."
+    },
+    {
+      "icon": "🗓️",
+      "title": "Ôn đúng lúc sắp quên",
+      "text": "Thẻ ôn tập sẽ tự hẹn ngày gặp lại. Em chỉ cần mở web mỗi ngày, phần còn lại để anh lo."
+    }
+  ],
+  "praise": [
+    "Giỏi quá đi! 🎉",
+    "Em làm tốt lắm 💕",
+    "Tuyệt vời! 加油！",
+    "Đỉnh thật sự ✨",
+    "Anh tự hào về em 🥰",
+    "Hôm nay em lại giỏi thêm một chút rồi 🌷"
+  ],
+  "badges": {
+    "words-10": "10 từ đầu tiên rồi đó! Khởi đầu thật xinh 🌱",
+    "words-50": "50 từ! Em bắt đầu đọc hiểu được nhiều thứ rồi 📚",
+    "words-100": "100 từ! Giỏi quá trời luôn 💯",
+    "words-300": "Hết sạch HSK 1–2 rồi! Anh thương em nhất 💖",
+    "streak-7": "7 ngày liên tục! Chăm quá trời 🔥",
+    "streak-30": "30 ngày không nghỉ! Em là số một 🏆"
+  }
+}

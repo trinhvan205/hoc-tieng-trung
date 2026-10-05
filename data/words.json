@@ -1,0 +1,5042 @@
+[
+ {
+  "id": "hsk1-0001",
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "pinyinPlain": "ai4",
+  "meaningVi": "yêu, tình yêu",
+  "hanViet": "Ái",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "love",
+  "example": {
+   "zh": "我爱你。",
+   "pinyin": "Wǒ ài nǐ.",
+   "vi": "Anh yêu em."
+  }
+ },
+ {
+  "id": "hsk1-0002",
+  "hanzi": "想",
+  "pinyin": "xiǎng",
+  "pinyinPlain": "xiang3",
+  "meaningVi": "nhớ; muốn; nghĩ",
+  "hanViet": "Tưởng",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "love",
+  "example": {
+   "zh": "我想你了。",
+   "pinyin": "Wǒ xiǎng nǐ le.",
+   "vi": "Anh nhớ em rồi."
+  }
+ },
+ {
+  "id": "hsk1-0003",
+  "hanzi": "漂亮",
+  "pinyin": "piào liang",
+  "pinyinPlain": "piao4 liang",
+  "meaningVi": "xinh đẹp",
+  "hanViet": "Phiêu lượng",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "love",
+  "example": {
+   "zh": "你今天很漂亮。",
+   "pinyin": "Nǐ jīntiān hěn piàoliang.",
+   "vi": "Hôm nay em rất xinh."
+  }
+ },
+ {
+  "id": "love-0001",
+  "hanzi": "可爱",
+  "pinyin": "kě ài",
+  "pinyinPlain": "ke3 ai4",
+  "meaningVi": "dễ thương",
+  "hanViet": "Khả ái",
+  "pos": "tính từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "你真可爱！",
+   "pinyin": "Nǐ zhēn kě'ài!",
+   "vi": "Em thật dễ thương!"
+  }
+ },
+ {
+  "id": "love-0002",
+  "hanzi": "亲爱的",
+  "pinyin": "qīn ài de",
+  "pinyinPlain": "qin1 ai4 de",
+  "meaningVi": "người thương, em yêu, anh yêu",
+  "hanViet": "Thân ái đích",
+  "pos": "danh từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "亲爱的，你在做什么？",
+   "pinyin": "Qīn'ài de, nǐ zài zuò shénme?",
+   "vi": "Em yêu, em đang làm gì thế?"
+  }
+ },
+ {
+  "id": "love-0003",
+  "hanzi": "宝贝",
+  "pinyin": "bǎo bèi",
+  "pinyinPlain": "bao3 bei4",
+  "meaningVi": "cục cưng, bảo bối",
+  "hanViet": "Bảo bối",
+  "pos": "danh từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "宝贝，你在哪儿？",
+   "pinyin": "Bǎobèi, nǐ zài nǎr?",
+   "vi": "Cục cưng, em đang ở đâu?"
+  }
+ },
+ {
+  "id": "love-0004",
+  "hanzi": "我爱你",
+  "pinyin": "wǒ ài nǐ",
+  "pinyinPlain": "wo3 ai4 ni3",
+  "meaningVi": "anh yêu em, em yêu anh",
+  "hanViet": "Ngã ái nhĩ",
+  "pos": "câu",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "我爱你，宝贝。",
+   "pinyin": "Wǒ ài nǐ, bǎobèi.",
+   "vi": "Anh yêu em, cục cưng."
+  }
+ },
+ {
+  "id": "love-0005",
+  "hanzi": "我想你",
+  "pinyin": "wǒ xiǎng nǐ",
+  "pinyinPlain": "wo3 xiang3 ni3",
+  "meaningVi": "anh nhớ em, em nhớ anh",
+  "hanViet": "Ngã tưởng nhĩ",
+  "pos": "câu",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "我很想你。",
+   "pinyin": "Wǒ hěn xiǎng nǐ.",
+   "vi": "Anh nhớ em lắm."
+  }
+ },
+ {
+  "id": "love-0006",
+  "hanzi": "晚安",
+  "pinyin": "wǎn ān",
+  "pinyinPlain": "wan3 an1",
+  "meaningVi": "chúc ngủ ngon",
+  "hanViet": "Vãn an",
+  "pos": "cụm từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "晚安，亲爱的。",
+   "pinyin": "Wǎn'ān, qīn'ài de.",
+   "vi": "Ngủ ngon nhé, em yêu."
+  }
+ },
+ {
+  "id": "love-0007",
+  "hanzi": "早安",
+  "pinyin": "zǎo ān",
+  "pinyinPlain": "zao3 an1",
+  "meaningVi": "chào buổi sáng",
+  "hanViet": "Tảo an",
+  "pos": "cụm từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "早安，宝贝！",
+   "pinyin": "Zǎo'ān, bǎobèi!",
+   "vi": "Chào buổi sáng, cục cưng!"
+  }
+ },
+ {
+  "id": "love-0008",
+  "hanzi": "男朋友",
+  "pinyin": "nán péng you",
+  "pinyinPlain": "nan2 peng2 you",
+  "meaningVi": "bạn trai",
+  "hanViet": "Nam bằng hữu",
+  "pos": "danh từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "他是我的男朋友。",
+   "pinyin": "Tā shì wǒ de nánpéngyou.",
+   "vi": "Anh ấy là bạn trai của em."
+  }
+ },
+ {
+  "id": "love-0009",
+  "hanzi": "女朋友",
+  "pinyin": "nǚ péng you",
+  "pinyinPlain": "nv3 peng2 you",
+  "meaningVi": "bạn gái",
+  "hanViet": "Nữ bằng hữu",
+  "pos": "danh từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "你是我的女朋友。",
+   "pinyin": "Nǐ shì wǒ de nǚpéngyou.",
+   "vi": "Em là bạn gái của anh."
+  }
+ },
+ {
+  "id": "love-0010",
+  "hanzi": "抱抱",
+  "pinyin": "bào bao",
+  "pinyinPlain": "bao4 bao",
+  "meaningVi": "ôm một cái",
+  "hanViet": "Bão bão",
+  "pos": "động từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "来，抱抱！",
+   "pinyin": "Lái, bàobao!",
+   "vi": "Lại đây, ôm cái nào!"
+  }
+ },
+ {
+  "id": "love-0011",
+  "hanzi": "亲亲",
+  "pinyin": "qīn qin",
+  "pinyinPlain": "qin1 qin",
+  "meaningVi": "hôn một cái",
+  "hanViet": "Thân thân",
+  "pos": "động từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "亲亲你。",
+   "pinyin": "Qīnqin nǐ.",
+   "vi": "Hôn em một cái."
+  }
+ },
+ {
+  "id": "love-0012",
+  "hanzi": "约会",
+  "pinyin": "yuē huì",
+  "pinyinPlain": "yue1 hui4",
+  "meaningVi": "hẹn hò",
+  "hanViet": "Ước hội",
+  "pos": "động từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "我们去约会吧！",
+   "pinyin": "Wǒmen qù yuēhuì ba!",
+   "vi": "Mình đi hẹn hò nhé!"
+  }
+ },
+ {
+  "id": "love-0013",
+  "hanzi": "永远",
+  "pinyin": "yǒng yuǎn",
+  "pinyinPlain": "yong3 yuan3",
+  "meaningVi": "mãi mãi",
+  "hanViet": "Vĩnh viễn",
+  "pos": "phó từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "我永远爱你。",
+   "pinyin": "Wǒ yǒngyuǎn ài nǐ.",
+   "vi": "Anh yêu em mãi mãi."
+  }
+ },
+ {
+  "id": "love-0014",
+  "hanzi": "心",
+  "pinyin": "xīn",
+  "pinyinPlain": "xin1",
+  "meaningVi": "trái tim",
+  "hanViet": "Tâm",
+  "pos": "danh từ",
+  "level": 0,
+  "topicId": "love",
+  "example": {
+   "zh": "你在我心里。",
+   "pinyin": "Nǐ zài wǒ xīn li.",
+   "vi": "Em ở trong tim anh."
+  }
+ },
+ {
+  "id": "hsk1-0004",
+  "hanzi": "你",
+  "pinyin": "nǐ",
+  "pinyinPlain": "ni3",
+  "meaningVi": "bạn, em, anh (ngôi thứ hai)",
+  "hanViet": "Nhĩ",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "你好！",
+   "pinyin": "Nǐ hǎo!",
+   "vi": "Xin chào!"
+  }
+ },
+ {
+  "id": "hsk1-0005",
+  "hanzi": "我",
+  "pinyin": "wǒ",
+  "pinyinPlain": "wo3",
+  "meaningVi": "tôi, anh, em (ngôi thứ nhất)",
+  "hanViet": "Ngã",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "我是学生。",
+   "pinyin": "Wǒ shì xuésheng.",
+   "vi": "Tôi là sinh viên."
+  }
+ },
+ {
+  "id": "hsk1-0006",
+  "hanzi": "我们",
+  "pinyin": "wǒ men",
+  "pinyinPlain": "wo3 men",
+  "meaningVi": "chúng tôi, chúng ta",
+  "hanViet": "Ngã môn",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "我们是朋友。",
+   "pinyin": "Wǒmen shì péngyou.",
+   "vi": "Chúng ta là bạn bè."
+  }
+ },
+ {
+  "id": "hsk1-0007",
+  "hanzi": "他",
+  "pinyin": "tā",
+  "pinyinPlain": "ta1",
+  "meaningVi": "anh ấy, ông ấy",
+  "hanViet": "Tha",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "他是老师。",
+   "pinyin": "Tā shì lǎoshī.",
+   "vi": "Anh ấy là giáo viên."
+  }
+ },
+ {
+  "id": "hsk1-0008",
+  "hanzi": "她",
+  "pinyin": "tā",
+  "pinyinPlain": "ta1",
+  "meaningVi": "cô ấy, chị ấy",
+  "hanViet": "Tha",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "她很漂亮。",
+   "pinyin": "Tā hěn piàoliang.",
+   "vi": "Cô ấy rất xinh."
+  }
+ },
+ {
+  "id": "hsk1-0009",
+  "hanzi": "谁",
+  "pinyin": "shéi",
+  "pinyinPlain": "shei2",
+  "meaningVi": "ai",
+  "hanViet": "Thùy",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "他是谁？",
+   "pinyin": "Tā shì shéi?",
+   "vi": "Anh ấy là ai?"
+  }
+ },
+ {
+  "id": "hsk1-0010",
+  "hanzi": "好",
+  "pinyin": "hǎo",
+  "pinyinPlain": "hao3",
+  "meaningVi": "tốt, khỏe, được",
+  "hanViet": "Hảo",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "你好吗？",
+   "pinyin": "Nǐ hǎo ma?",
+   "vi": "Em khỏe không?"
+  }
+ },
+ {
+  "id": "hsk1-0011",
+  "hanzi": "请",
+  "pinyin": "qǐng",
+  "pinyinPlain": "qing3",
+  "meaningVi": "mời, xin, làm ơn",
+  "hanViet": "Thỉnh",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "请坐。",
+   "pinyin": "Qǐng zuò.",
+   "vi": "Mời ngồi."
+  }
+ },
+ {
+  "id": "hsk1-0012",
+  "hanzi": "谢谢",
+  "pinyin": "xiè xie",
+  "pinyinPlain": "xie4 xie",
+  "meaningVi": "cảm ơn",
+  "hanViet": "Tạ tạ",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "谢谢你！",
+   "pinyin": "Xièxie nǐ!",
+   "vi": "Cảm ơn em!"
+  }
+ },
+ {
+  "id": "hsk1-0013",
+  "hanzi": "不客气",
+  "pinyin": "bú kè qi",
+  "pinyinPlain": "bu2 ke4 qi",
+  "meaningVi": "không có gì, đừng khách sáo",
+  "hanViet": "Bất khách khí",
+  "pos": "cụm từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "谢谢！不客气。",
+   "pinyin": "Xièxie! Bú kèqi.",
+   "vi": "Cảm ơn! Không có gì."
+  }
+ },
+ {
+  "id": "hsk1-0014",
+  "hanzi": "对不起",
+  "pinyin": "duì bu qǐ",
+  "pinyinPlain": "dui4 bu qi3",
+  "meaningVi": "xin lỗi",
+  "hanViet": "Đối bất khởi",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "对不起，我不会。",
+   "pinyin": "Duìbuqǐ, wǒ bú huì.",
+   "vi": "Xin lỗi, tôi không biết."
+  }
+ },
+ {
+  "id": "hsk1-0015",
+  "hanzi": "没关系",
+  "pinyin": "méi guān xi",
+  "pinyinPlain": "mei2 guan1 xi",
+  "meaningVi": "không sao",
+  "hanViet": "Một quan hệ",
+  "pos": "cụm từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "对不起！没关系。",
+   "pinyin": "Duìbuqǐ! Méi guānxi.",
+   "vi": "Xin lỗi! Không sao đâu."
+  }
+ },
+ {
+  "id": "hsk1-0016",
+  "hanzi": "再见",
+  "pinyin": "zài jiàn",
+  "pinyinPlain": "zai4 jian4",
+  "meaningVi": "tạm biệt",
+  "hanViet": "Tái kiến",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "老师，再见！",
+   "pinyin": "Lǎoshī, zàijiàn!",
+   "vi": "Tạm biệt thầy/cô!"
+  }
+ },
+ {
+  "id": "hsk1-0017",
+  "hanzi": "喂",
+  "pinyin": "wèi",
+  "pinyinPlain": "wei4",
+  "meaningVi": "alô (nghe điện thoại)",
+  "hanViet": "Uy",
+  "pos": "thán từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "喂，你好！",
+   "pinyin": "Wèi, nǐ hǎo!",
+   "vi": "Alô, xin chào!"
+  }
+ },
+ {
+  "id": "hsk1-0018",
+  "hanzi": "叫",
+  "pinyin": "jiào",
+  "pinyinPlain": "jiao4",
+  "meaningVi": "gọi, tên là",
+  "hanViet": "Khiếu",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "我叫小月。",
+   "pinyin": "Wǒ jiào Xiǎoyuè.",
+   "vi": "Tôi tên là Tiểu Nguyệt."
+  }
+ },
+ {
+  "id": "hsk1-0019",
+  "hanzi": "名字",
+  "pinyin": "míng zi",
+  "pinyinPlain": "ming2 zi",
+  "meaningVi": "tên",
+  "hanViet": "Danh tự",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "你叫什么名字？",
+   "pinyin": "Nǐ jiào shénme míngzi?",
+   "vi": "Bạn tên là gì?"
+  }
+ },
+ {
+  "id": "hsk1-0020",
+  "hanzi": "认识",
+  "pinyin": "rèn shi",
+  "pinyinPlain": "ren4 shi",
+  "meaningVi": "quen biết",
+  "hanViet": "Nhận thức",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "greet",
+  "example": {
+   "zh": "认识你很高兴。",
+   "pinyin": "Rènshi nǐ hěn gāoxìng.",
+   "vi": "Rất vui được quen bạn."
+  }
+ },
+ {
+  "id": "hsk1-0021",
+  "hanzi": "爸爸",
+  "pinyin": "bà ba",
+  "pinyinPlain": "ba4 ba",
+  "meaningVi": "bố, ba",
+  "hanViet": "Ba ba",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "我爸爸是医生。",
+   "pinyin": "Wǒ bàba shì yīshēng.",
+   "vi": "Bố tôi là bác sĩ."
+  }
+ },
+ {
+  "id": "hsk1-0022",
+  "hanzi": "妈妈",
+  "pinyin": "mā ma",
+  "pinyinPlain": "ma1 ma",
+  "meaningVi": "mẹ",
+  "hanViet": "Ma ma",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "我爱妈妈。",
+   "pinyin": "Wǒ ài māma.",
+   "vi": "Tôi yêu mẹ."
+  }
+ },
+ {
+  "id": "hsk1-0023",
+  "hanzi": "儿子",
+  "pinyin": "ér zi",
+  "pinyinPlain": "er2 zi",
+  "meaningVi": "con trai",
+  "hanViet": "Nhi tử",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "他有一个儿子。",
+   "pinyin": "Tā yǒu yí ge érzi.",
+   "vi": "Anh ấy có một con trai."
+  }
+ },
+ {
+  "id": "hsk1-0024",
+  "hanzi": "女儿",
+  "pinyin": "nǚ ér",
+  "pinyinPlain": "nv3 er2",
+  "meaningVi": "con gái",
+  "hanViet": "Nữ nhi",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "她女儿三岁。",
+   "pinyin": "Tā nǚ'ér sān suì.",
+   "vi": "Con gái cô ấy ba tuổi."
+  }
+ },
+ {
+  "id": "hsk1-0025",
+  "hanzi": "家",
+  "pinyin": "jiā",
+  "pinyinPlain": "jia1",
+  "meaningVi": "nhà, gia đình",
+  "hanViet": "Gia",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "我家有四个人。",
+   "pinyin": "Wǒ jiā yǒu sì ge rén.",
+   "vi": "Nhà tôi có bốn người."
+  }
+ },
+ {
+  "id": "hsk1-0026",
+  "hanzi": "人",
+  "pinyin": "rén",
+  "pinyinPlain": "ren2",
+  "meaningVi": "người",
+  "hanViet": "Nhân",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "你是哪国人？",
+   "pinyin": "Nǐ shì nǎ guó rén?",
+   "vi": "Bạn là người nước nào?"
+  }
+ },
+ {
+  "id": "hsk1-0027",
+  "hanzi": "朋友",
+  "pinyin": "péng you",
+  "pinyinPlain": "peng2 you",
+  "meaningVi": "bạn bè",
+  "hanViet": "Bằng hữu",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "他是我的好朋友。",
+   "pinyin": "Tā shì wǒ de hǎo péngyou.",
+   "vi": "Anh ấy là bạn tốt của tôi."
+  }
+ },
+ {
+  "id": "hsk1-0028",
+  "hanzi": "同学",
+  "pinyin": "tóng xué",
+  "pinyinPlain": "tong2 xue2",
+  "meaningVi": "bạn học",
+  "hanViet": "Đồng học",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "我们是同学。",
+   "pinyin": "Wǒmen shì tóngxué.",
+   "vi": "Chúng tôi là bạn học."
+  }
+ },
+ {
+  "id": "hsk1-0029",
+  "hanzi": "老师",
+  "pinyin": "lǎo shī",
+  "pinyinPlain": "lao3 shi1",
+  "meaningVi": "giáo viên, thầy cô",
+  "hanViet": "Lão sư",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "王老师很好。",
+   "pinyin": "Wáng lǎoshī hěn hǎo.",
+   "vi": "Cô Vương rất tốt."
+  }
+ },
+ {
+  "id": "hsk1-0030",
+  "hanzi": "学生",
+  "pinyin": "xué sheng",
+  "pinyinPlain": "xue2 sheng",
+  "meaningVi": "học sinh, sinh viên",
+  "hanViet": "Học sinh",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "他们都是学生。",
+   "pinyin": "Tāmen dōu shì xuésheng.",
+   "vi": "Họ đều là sinh viên."
+  }
+ },
+ {
+  "id": "hsk1-0031",
+  "hanzi": "医生",
+  "pinyin": "yī shēng",
+  "pinyinPlain": "yi1 sheng1",
+  "meaningVi": "bác sĩ",
+  "hanViet": "Y sinh",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "她是医生。",
+   "pinyin": "Tā shì yīshēng.",
+   "vi": "Cô ấy là bác sĩ."
+  }
+ },
+ {
+  "id": "hsk1-0032",
+  "hanzi": "先生",
+  "pinyin": "xiān sheng",
+  "pinyinPlain": "xian1 sheng",
+  "meaningVi": "ông, ngài; chồng",
+  "hanViet": "Tiên sinh",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "李先生，你好！",
+   "pinyin": "Lǐ xiānsheng, nǐ hǎo!",
+   "vi": "Chào ông Lý!"
+  }
+ },
+ {
+  "id": "hsk1-0033",
+  "hanzi": "小姐",
+  "pinyin": "xiǎo jiě",
+  "pinyinPlain": "xiao3 jie3",
+  "meaningVi": "cô (gọi phụ nữ trẻ)",
+  "hanViet": "Tiểu thư",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "王小姐是老师。",
+   "pinyin": "Wáng xiǎojiě shì lǎoshī.",
+   "vi": "Cô Vương là giáo viên."
+  }
+ },
+ {
+  "id": "hsk1-0034",
+  "hanzi": "中国",
+  "pinyin": "zhōng guó",
+  "pinyinPlain": "zhong1 guo2",
+  "meaningVi": "Trung Quốc",
+  "hanViet": "Trung Quốc",
+  "pos": "danh từ riêng",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "我想去中国。",
+   "pinyin": "Wǒ xiǎng qù Zhōngguó.",
+   "vi": "Tôi muốn đi Trung Quốc."
+  }
+ },
+ {
+  "id": "hsk1-0035",
+  "hanzi": "北京",
+  "pinyin": "běi jīng",
+  "pinyinPlain": "bei3 jing1",
+  "meaningVi": "Bắc Kinh",
+  "hanViet": "Bắc Kinh",
+  "pos": "danh từ riêng",
+  "level": 1,
+  "topicId": "family",
+  "example": {
+   "zh": "我在北京工作。",
+   "pinyin": "Wǒ zài Běijīng gōngzuò.",
+   "vi": "Tôi làm việc ở Bắc Kinh."
+  }
+ },
+ {
+  "id": "hsk1-0036",
+  "hanzi": "一",
+  "pinyin": "yī",
+  "pinyinPlain": "yi1",
+  "meaningVi": "một",
+  "hanViet": "Nhất",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "一个人",
+   "pinyin": "yí ge rén",
+   "vi": "một người"
+  }
+ },
+ {
+  "id": "hsk1-0037",
+  "hanzi": "二",
+  "pinyin": "èr",
+  "pinyinPlain": "er4",
+  "meaningVi": "hai",
+  "hanViet": "Nhị",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "二月",
+   "pinyin": "èr yuè",
+   "vi": "tháng hai"
+  }
+ },
+ {
+  "id": "hsk1-0038",
+  "hanzi": "三",
+  "pinyin": "sān",
+  "pinyinPlain": "san1",
+  "meaningVi": "ba",
+  "hanViet": "Tam",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "三本书",
+   "pinyin": "sān běn shū",
+   "vi": "ba quyển sách"
+  }
+ },
+ {
+  "id": "hsk1-0039",
+  "hanzi": "四",
+  "pinyin": "sì",
+  "pinyinPlain": "si4",
+  "meaningVi": "bốn",
+  "hanViet": "Tứ",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "四个人",
+   "pinyin": "sì ge rén",
+   "vi": "bốn người"
+  }
+ },
+ {
+  "id": "hsk1-0040",
+  "hanzi": "五",
+  "pinyin": "wǔ",
+  "pinyinPlain": "wu3",
+  "meaningVi": "năm",
+  "hanViet": "Ngũ",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "五块钱",
+   "pinyin": "wǔ kuài qián",
+   "vi": "năm đồng"
+  }
+ },
+ {
+  "id": "hsk1-0041",
+  "hanzi": "六",
+  "pinyin": "liù",
+  "pinyinPlain": "liu4",
+  "meaningVi": "sáu",
+  "hanViet": "Lục",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "六点",
+   "pinyin": "liù diǎn",
+   "vi": "sáu giờ"
+  }
+ },
+ {
+  "id": "hsk1-0042",
+  "hanzi": "七",
+  "pinyin": "qī",
+  "pinyinPlain": "qi1",
+  "meaningVi": "bảy",
+  "hanViet": "Thất",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "七月",
+   "pinyin": "qī yuè",
+   "vi": "tháng bảy"
+  }
+ },
+ {
+  "id": "hsk1-0043",
+  "hanzi": "八",
+  "pinyin": "bā",
+  "pinyinPlain": "ba1",
+  "meaningVi": "tám",
+  "hanViet": "Bát",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "八岁",
+   "pinyin": "bā suì",
+   "vi": "tám tuổi"
+  }
+ },
+ {
+  "id": "hsk1-0044",
+  "hanzi": "九",
+  "pinyin": "jiǔ",
+  "pinyinPlain": "jiu3",
+  "meaningVi": "chín",
+  "hanViet": "Cửu",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "九点",
+   "pinyin": "jiǔ diǎn",
+   "vi": "chín giờ"
+  }
+ },
+ {
+  "id": "hsk1-0045",
+  "hanzi": "十",
+  "pinyin": "shí",
+  "pinyinPlain": "shi2",
+  "meaningVi": "mười",
+  "hanViet": "Thập",
+  "pos": "số từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "十个苹果",
+   "pinyin": "shí ge píngguǒ",
+   "vi": "mười quả táo"
+  }
+ },
+ {
+  "id": "hsk1-0046",
+  "hanzi": "几",
+  "pinyin": "jǐ",
+  "pinyinPlain": "ji3",
+  "meaningVi": "mấy, vài",
+  "hanViet": "Kỷ",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "你几岁？",
+   "pinyin": "Nǐ jǐ suì?",
+   "vi": "Em mấy tuổi?"
+  }
+ },
+ {
+  "id": "hsk1-0047",
+  "hanzi": "多少",
+  "pinyin": "duō shao",
+  "pinyinPlain": "duo1 shao",
+  "meaningVi": "bao nhiêu",
+  "hanViet": "Đa thiểu",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "多少钱？",
+   "pinyin": "Duōshao qián?",
+   "vi": "Bao nhiêu tiền?"
+  }
+ },
+ {
+  "id": "hsk1-0048",
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "pinyinPlain": "sui4",
+  "meaningVi": "tuổi",
+  "hanViet": "Tuế",
+  "pos": "lượng từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "我二十岁。",
+   "pinyin": "Wǒ èrshí suì.",
+   "vi": "Tôi hai mươi tuổi."
+  }
+ },
+ {
+  "id": "hsk1-0049",
+  "hanzi": "个",
+  "pinyin": "gè",
+  "pinyinPlain": "ge4",
+  "meaningVi": "cái, con, người (lượng từ chung)",
+  "hanViet": "Cá",
+  "pos": "lượng từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "一个朋友",
+   "pinyin": "yí ge péngyou",
+   "vi": "một người bạn"
+  }
+ },
+ {
+  "id": "hsk1-0050",
+  "hanzi": "些",
+  "pinyin": "xiē",
+  "pinyinPlain": "xie1",
+  "meaningVi": "một vài, những",
+  "hanViet": "Ta",
+  "pos": "lượng từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "这些是我的书。",
+   "pinyin": "Zhèxiē shì wǒ de shū.",
+   "vi": "Những cái này là sách của tôi."
+  }
+ },
+ {
+  "id": "hsk1-0051",
+  "hanzi": "块",
+  "pinyin": "kuài",
+  "pinyinPlain": "kuai4",
+  "meaningVi": "đồng (tiền); miếng",
+  "hanViet": "Khối",
+  "pos": "lượng từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "十块钱",
+   "pinyin": "shí kuài qián",
+   "vi": "mười đồng"
+  }
+ },
+ {
+  "id": "hsk1-0052",
+  "hanzi": "钱",
+  "pinyin": "qián",
+  "pinyinPlain": "qian2",
+  "meaningVi": "tiền",
+  "hanViet": "Tiền",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "numbers",
+  "example": {
+   "zh": "我没有钱。",
+   "pinyin": "Wǒ méiyǒu qián.",
+   "vi": "Tôi không có tiền."
+  }
+ },
+ {
+  "id": "hsk1-0053",
+  "hanzi": "今天",
+  "pinyin": "jīn tiān",
+  "pinyinPlain": "jin1 tian1",
+  "meaningVi": "hôm nay",
+  "hanViet": "Kim thiên",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "今天我很高兴。",
+   "pinyin": "Jīntiān wǒ hěn gāoxìng.",
+   "vi": "Hôm nay em rất vui."
+  }
+ },
+ {
+  "id": "hsk1-0054",
+  "hanzi": "明天",
+  "pinyin": "míng tiān",
+  "pinyinPlain": "ming2 tian1",
+  "meaningVi": "ngày mai",
+  "hanViet": "Minh thiên",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "明天见！",
+   "pinyin": "Míngtiān jiàn!",
+   "vi": "Mai gặp nhé!"
+  }
+ },
+ {
+  "id": "hsk1-0055",
+  "hanzi": "昨天",
+  "pinyin": "zuó tiān",
+  "pinyinPlain": "zuo2 tian1",
+  "meaningVi": "hôm qua",
+  "hanViet": "Tạc thiên",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "昨天下雨了。",
+   "pinyin": "Zuótiān xià yǔ le.",
+   "vi": "Hôm qua trời mưa."
+  }
+ },
+ {
+  "id": "hsk1-0056",
+  "hanzi": "年",
+  "pinyin": "nián",
+  "pinyinPlain": "nian2",
+  "meaningVi": "năm",
+  "hanViet": "Niên",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "今年是二〇二六年。",
+   "pinyin": "Jīnnián shì èr líng èr liù nián.",
+   "vi": "Năm nay là năm 2026."
+  }
+ },
+ {
+  "id": "hsk1-0057",
+  "hanzi": "月",
+  "pinyin": "yuè",
+  "pinyinPlain": "yue4",
+  "meaningVi": "tháng; mặt trăng",
+  "hanViet": "Nguyệt",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "十月一号",
+   "pinyin": "shí yuè yī hào",
+   "vi": "ngày 1 tháng 10"
+  }
+ },
+ {
+  "id": "hsk1-0058",
+  "hanzi": "号",
+  "pinyin": "hào",
+  "pinyinPlain": "hao4",
+  "meaningVi": "ngày (trong tháng); số",
+  "hanViet": "Hiệu",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "今天几号？",
+   "pinyin": "Jīntiān jǐ hào?",
+   "vi": "Hôm nay ngày mấy?"
+  }
+ },
+ {
+  "id": "hsk1-0059",
+  "hanzi": "星期",
+  "pinyin": "xīng qī",
+  "pinyinPlain": "xing1 qi1",
+  "meaningVi": "tuần, thứ",
+  "hanViet": "Tinh kỳ",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "今天星期一。",
+   "pinyin": "Jīntiān xīngqī yī.",
+   "vi": "Hôm nay thứ hai."
+  }
+ },
+ {
+  "id": "hsk1-0060",
+  "hanzi": "点",
+  "pinyin": "diǎn",
+  "pinyinPlain": "dian3",
+  "meaningVi": "giờ; chút",
+  "hanViet": "Điểm",
+  "pos": "lượng từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "现在几点？",
+   "pinyin": "Xiànzài jǐ diǎn?",
+   "vi": "Bây giờ mấy giờ?"
+  }
+ },
+ {
+  "id": "hsk1-0061",
+  "hanzi": "分钟",
+  "pinyin": "fēn zhōng",
+  "pinyinPlain": "fen1 zhong1",
+  "meaningVi": "phút",
+  "hanViet": "Phân chung",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "十分钟",
+   "pinyin": "shí fēnzhōng",
+   "vi": "mười phút"
+  }
+ },
+ {
+  "id": "hsk1-0062",
+  "hanzi": "现在",
+  "pinyin": "xiàn zài",
+  "pinyinPlain": "xian4 zai4",
+  "meaningVi": "bây giờ",
+  "hanViet": "Hiện tại",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "现在九点。",
+   "pinyin": "Xiànzài jiǔ diǎn.",
+   "vi": "Bây giờ là chín giờ."
+  }
+ },
+ {
+  "id": "hsk1-0063",
+  "hanzi": "时候",
+  "pinyin": "shí hou",
+  "pinyinPlain": "shi2 hou",
+  "meaningVi": "lúc, khi",
+  "hanViet": "Thời hậu",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "你什么时候来？",
+   "pinyin": "Nǐ shénme shíhou lái?",
+   "vi": "Khi nào em đến?"
+  }
+ },
+ {
+  "id": "hsk1-0064",
+  "hanzi": "上午",
+  "pinyin": "shàng wǔ",
+  "pinyinPlain": "shang4 wu3",
+  "meaningVi": "buổi sáng",
+  "hanViet": "Thượng ngọ",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "上午我去学校。",
+   "pinyin": "Shàngwǔ wǒ qù xuéxiào.",
+   "vi": "Buổi sáng tôi đến trường."
+  }
+ },
+ {
+  "id": "hsk1-0065",
+  "hanzi": "中午",
+  "pinyin": "zhōng wǔ",
+  "pinyinPlain": "zhong1 wu3",
+  "meaningVi": "buổi trưa",
+  "hanViet": "Trung ngọ",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "中午我们吃米饭。",
+   "pinyin": "Zhōngwǔ wǒmen chī mǐfàn.",
+   "vi": "Buổi trưa chúng tôi ăn cơm."
+  }
+ },
+ {
+  "id": "hsk1-0066",
+  "hanzi": "下午",
+  "pinyin": "xià wǔ",
+  "pinyinPlain": "xia4 wu3",
+  "meaningVi": "buổi chiều",
+  "hanViet": "Hạ ngọ",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "time",
+  "example": {
+   "zh": "下午三点见。",
+   "pinyin": "Xiàwǔ sān diǎn jiàn.",
+   "vi": "Ba giờ chiều gặp nhé."
+  }
+ },
+ {
+  "id": "hsk1-0067",
+  "hanzi": "吃",
+  "pinyin": "chī",
+  "pinyinPlain": "chi1",
+  "meaningVi": "ăn",
+  "hanViet": "Ngật",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "你吃什么？",
+   "pinyin": "Nǐ chī shénme?",
+   "vi": "Em ăn gì?"
+  }
+ },
+ {
+  "id": "hsk1-0068",
+  "hanzi": "喝",
+  "pinyin": "hē",
+  "pinyinPlain": "he1",
+  "meaningVi": "uống",
+  "hanViet": "Hát",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "我想喝茶。",
+   "pinyin": "Wǒ xiǎng hē chá.",
+   "vi": "Tôi muốn uống trà."
+  }
+ },
+ {
+  "id": "hsk1-0069",
+  "hanzi": "菜",
+  "pinyin": "cài",
+  "pinyinPlain": "cai4",
+  "meaningVi": "món ăn; rau",
+  "hanViet": "Thái",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "我喜欢中国菜。",
+   "pinyin": "Wǒ xǐhuan Zhōngguó cài.",
+   "vi": "Tôi thích món Trung Quốc."
+  }
+ },
+ {
+  "id": "hsk1-0070",
+  "hanzi": "米饭",
+  "pinyin": "mǐ fàn",
+  "pinyinPlain": "mi3 fan4",
+  "meaningVi": "cơm",
+  "hanViet": "Mễ phạn",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "我吃米饭。",
+   "pinyin": "Wǒ chī mǐfàn.",
+   "vi": "Tôi ăn cơm."
+  }
+ },
+ {
+  "id": "hsk1-0071",
+  "hanzi": "水",
+  "pinyin": "shuǐ",
+  "pinyinPlain": "shui3",
+  "meaningVi": "nước",
+  "hanViet": "Thủy",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "请喝水。",
+   "pinyin": "Qǐng hē shuǐ.",
+   "vi": "Mời uống nước."
+  }
+ },
+ {
+  "id": "hsk1-0072",
+  "hanzi": "茶",
+  "pinyin": "chá",
+  "pinyinPlain": "cha2",
+  "meaningVi": "trà",
+  "hanViet": "Trà",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "这是中国茶。",
+   "pinyin": "Zhè shì Zhōngguó chá.",
+   "vi": "Đây là trà Trung Quốc."
+  }
+ },
+ {
+  "id": "hsk1-0073",
+  "hanzi": "水果",
+  "pinyin": "shuǐ guǒ",
+  "pinyinPlain": "shui3 guo3",
+  "meaningVi": "trái cây",
+  "hanViet": "Thủy quả",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "我喜欢吃水果。",
+   "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+   "vi": "Em thích ăn trái cây."
+  }
+ },
+ {
+  "id": "hsk1-0074",
+  "hanzi": "苹果",
+  "pinyin": "píng guǒ",
+  "pinyinPlain": "ping2 guo3",
+  "meaningVi": "quả táo",
+  "hanViet": "Bình quả",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "这个苹果很大。",
+   "pinyin": "Zhège píngguǒ hěn dà.",
+   "vi": "Quả táo này rất to."
+  }
+ },
+ {
+  "id": "hsk1-0075",
+  "hanzi": "杯子",
+  "pinyin": "bēi zi",
+  "pinyinPlain": "bei1 zi",
+  "meaningVi": "cốc, ly",
+  "hanViet": "Bôi tử",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "这是我的杯子。",
+   "pinyin": "Zhè shì wǒ de bēizi.",
+   "vi": "Đây là cốc của tôi."
+  }
+ },
+ {
+  "id": "hsk1-0076",
+  "hanzi": "饭店",
+  "pinyin": "fàn diàn",
+  "pinyinPlain": "fan4 dian4",
+  "meaningVi": "nhà hàng; khách sạn",
+  "hanViet": "Phạn điếm",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "我们去饭店吃饭。",
+   "pinyin": "Wǒmen qù fàndiàn chī fàn.",
+   "vi": "Chúng ta đi nhà hàng ăn cơm."
+  }
+ },
+ {
+  "id": "hsk1-0077",
+  "hanzi": "喜欢",
+  "pinyin": "xǐ huan",
+  "pinyinPlain": "xi3 huan",
+  "meaningVi": "thích",
+  "hanViet": "Hỉ hoan",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "我喜欢你。",
+   "pinyin": "Wǒ xǐhuan nǐ.",
+   "vi": "Anh thích em."
+  }
+ },
+ {
+  "id": "hsk1-0078",
+  "hanzi": "多",
+  "pinyin": "duō",
+  "pinyinPlain": "duo1",
+  "meaningVi": "nhiều",
+  "hanViet": "Đa",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "水果很多。",
+   "pinyin": "Shuǐguǒ hěn duō.",
+   "vi": "Trái cây rất nhiều."
+  }
+ },
+ {
+  "id": "hsk1-0079",
+  "hanzi": "少",
+  "pinyin": "shǎo",
+  "pinyinPlain": "shao3",
+  "meaningVi": "ít",
+  "hanViet": "Thiểu",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "food",
+  "example": {
+   "zh": "钱很少。",
+   "pinyin": "Qián hěn shǎo.",
+   "vi": "Tiền rất ít."
+  }
+ },
+ {
+  "id": "hsk1-0080",
+  "hanzi": "买",
+  "pinyin": "mǎi",
+  "pinyinPlain": "mai3",
+  "meaningVi": "mua",
+  "hanViet": "Mãi",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "我想买衣服。",
+   "pinyin": "Wǒ xiǎng mǎi yīfu.",
+   "vi": "Em muốn mua quần áo."
+  }
+ },
+ {
+  "id": "hsk1-0081",
+  "hanzi": "东西",
+  "pinyin": "dōng xi",
+  "pinyinPlain": "dong1 xi",
+  "meaningVi": "đồ, đồ vật",
+  "hanViet": "Đông tây",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "你买什么东西？",
+   "pinyin": "Nǐ mǎi shénme dōngxi?",
+   "vi": "Em mua đồ gì?"
+  }
+ },
+ {
+  "id": "hsk1-0082",
+  "hanzi": "商店",
+  "pinyin": "shāng diàn",
+  "pinyinPlain": "shang1 dian4",
+  "meaningVi": "cửa hàng",
+  "hanViet": "Thương điếm",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "商店在哪儿？",
+   "pinyin": "Shāngdiàn zài nǎr?",
+   "vi": "Cửa hàng ở đâu?"
+  }
+ },
+ {
+  "id": "hsk1-0083",
+  "hanzi": "衣服",
+  "pinyin": "yī fu",
+  "pinyinPlain": "yi1 fu",
+  "meaningVi": "quần áo",
+  "hanViet": "Y phục",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "这个衣服很漂亮。",
+   "pinyin": "Zhège yīfu hěn piàoliang.",
+   "vi": "Bộ quần áo này rất đẹp."
+  }
+ },
+ {
+  "id": "hsk1-0084",
+  "hanzi": "本",
+  "pinyin": "běn",
+  "pinyinPlain": "ben3",
+  "meaningVi": "quyển (lượng từ cho sách)",
+  "hanViet": "Bản",
+  "pos": "lượng từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "一本书",
+   "pinyin": "yì běn shū",
+   "vi": "một quyển sách"
+  }
+ },
+ {
+  "id": "hsk1-0085",
+  "hanzi": "书",
+  "pinyin": "shū",
+  "pinyinPlain": "shu1",
+  "meaningVi": "sách",
+  "hanViet": "Thư",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "这是我的书。",
+   "pinyin": "Zhè shì wǒ de shū.",
+   "vi": "Đây là sách của tôi."
+  }
+ },
+ {
+  "id": "hsk1-0086",
+  "hanzi": "太",
+  "pinyin": "tài",
+  "pinyinPlain": "tai4",
+  "meaningVi": "quá",
+  "hanViet": "Thái",
+  "pos": "phó từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "太好了！",
+   "pinyin": "Tài hǎo le!",
+   "vi": "Tốt quá rồi!"
+  }
+ },
+ {
+  "id": "hsk1-0087",
+  "hanzi": "大",
+  "pinyin": "dà",
+  "pinyinPlain": "da4",
+  "meaningVi": "to, lớn",
+  "hanViet": "Đại",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "这个商店很大。",
+   "pinyin": "Zhège shāngdiàn hěn dà.",
+   "vi": "Cửa hàng này rất lớn."
+  }
+ },
+ {
+  "id": "hsk1-0088",
+  "hanzi": "小",
+  "pinyin": "xiǎo",
+  "pinyinPlain": "xiao3",
+  "meaningVi": "nhỏ, bé",
+  "hanViet": "Tiểu",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "我的猫很小。",
+   "pinyin": "Wǒ de māo hěn xiǎo.",
+   "vi": "Con mèo của em rất nhỏ."
+  }
+ },
+ {
+  "id": "hsk1-0089",
+  "hanzi": "一点儿",
+  "pinyin": "yì diǎnr",
+  "pinyinPlain": "yi4 dianr3",
+  "meaningVi": "một chút",
+  "hanViet": "Nhất điểm nhi",
+  "pos": "số lượng từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "我会说一点儿汉语。",
+   "pinyin": "Wǒ huì shuō yìdiǎnr Hànyǔ.",
+   "vi": "Em biết nói một chút tiếng Trung."
+  }
+ },
+ {
+  "id": "hsk1-0090",
+  "hanzi": "怎么样",
+  "pinyin": "zěn me yàng",
+  "pinyinPlain": "zen3 me yang4",
+  "meaningVi": "thế nào",
+  "hanViet": "Chẩm ma dạng",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "这个怎么样？",
+   "pinyin": "Zhège zěnmeyàng?",
+   "vi": "Cái này thế nào?"
+  }
+ },
+ {
+  "id": "hsk1-0091",
+  "hanzi": "这",
+  "pinyin": "zhè",
+  "pinyinPlain": "zhe4",
+  "meaningVi": "này, đây",
+  "hanViet": "Giá",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "这是什么？",
+   "pinyin": "Zhè shì shénme?",
+   "vi": "Đây là gì?"
+  }
+ },
+ {
+  "id": "hsk1-0092",
+  "hanzi": "那",
+  "pinyin": "nà",
+  "pinyinPlain": "na4",
+  "meaningVi": "kia, đó",
+  "hanViet": "Na",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "shopping",
+  "example": {
+   "zh": "那是我的。",
+   "pinyin": "Nà shì wǒ de.",
+   "vi": "Kia là của tôi."
+  }
+ },
+ {
+  "id": "hsk1-0093",
+  "hanzi": "学校",
+  "pinyin": "xué xiào",
+  "pinyinPlain": "xue2 xiao4",
+  "meaningVi": "trường học",
+  "hanViet": "Học hiệu",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我们的学校很大。",
+   "pinyin": "Wǒmen de xuéxiào hěn dà.",
+   "vi": "Trường của chúng tôi rất lớn."
+  }
+ },
+ {
+  "id": "hsk1-0094",
+  "hanzi": "学习",
+  "pinyin": "xué xí",
+  "pinyinPlain": "xue2 xi2",
+  "meaningVi": "học tập",
+  "hanViet": "Học tập",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我学习汉语。",
+   "pinyin": "Wǒ xuéxí Hànyǔ.",
+   "vi": "Em học tiếng Trung."
+  }
+ },
+ {
+  "id": "hsk1-0095",
+  "hanzi": "汉语",
+  "pinyin": "hàn yǔ",
+  "pinyinPlain": "han4 yu3",
+  "meaningVi": "tiếng Hán, tiếng Trung",
+  "hanViet": "Hán ngữ",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我喜欢汉语。",
+   "pinyin": "Wǒ xǐhuan Hànyǔ.",
+   "vi": "Em thích tiếng Trung."
+  }
+ },
+ {
+  "id": "hsk1-0096",
+  "hanzi": "字",
+  "pinyin": "zì",
+  "pinyinPlain": "zi4",
+  "meaningVi": "chữ",
+  "hanViet": "Tự",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "这个字怎么读？",
+   "pinyin": "Zhège zì zěnme dú?",
+   "vi": "Chữ này đọc thế nào?"
+  }
+ },
+ {
+  "id": "hsk1-0097",
+  "hanzi": "写",
+  "pinyin": "xiě",
+  "pinyinPlain": "xie3",
+  "meaningVi": "viết",
+  "hanViet": "Tả",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我会写汉字。",
+   "pinyin": "Wǒ huì xiě Hànzì.",
+   "vi": "Em biết viết chữ Hán."
+  }
+ },
+ {
+  "id": "hsk1-0098",
+  "hanzi": "读",
+  "pinyin": "dú",
+  "pinyinPlain": "du2",
+  "meaningVi": "đọc",
+  "hanViet": "Độc",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我读书。",
+   "pinyin": "Wǒ dú shū.",
+   "vi": "Tôi đọc sách."
+  }
+ },
+ {
+  "id": "hsk1-0099",
+  "hanzi": "说",
+  "pinyin": "shuō",
+  "pinyinPlain": "shuo1",
+  "meaningVi": "nói",
+  "hanViet": "Thuyết",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "你会说汉语吗？",
+   "pinyin": "Nǐ huì shuō Hànyǔ ma?",
+   "vi": "Em biết nói tiếng Trung không?"
+  }
+ },
+ {
+  "id": "hsk1-0100",
+  "hanzi": "听",
+  "pinyin": "tīng",
+  "pinyinPlain": "ting1",
+  "meaningVi": "nghe",
+  "hanViet": "Thính",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "你听，下雨了。",
+   "pinyin": "Nǐ tīng, xià yǔ le.",
+   "vi": "Em nghe kìa, trời mưa rồi."
+  }
+ },
+ {
+  "id": "hsk1-0101",
+  "hanzi": "看",
+  "pinyin": "kàn",
+  "pinyinPlain": "kan4",
+  "meaningVi": "xem, nhìn",
+  "hanViet": "Khán",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我喜欢看书。",
+   "pinyin": "Wǒ xǐhuan kàn shū.",
+   "vi": "Tôi thích đọc sách."
+  }
+ },
+ {
+  "id": "hsk1-0102",
+  "hanzi": "看见",
+  "pinyin": "kàn jiàn",
+  "pinyinPlain": "kan4 jian4",
+  "meaningVi": "nhìn thấy",
+  "hanViet": "Khán kiến",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我看见他了。",
+   "pinyin": "Wǒ kànjiàn tā le.",
+   "vi": "Tôi nhìn thấy anh ấy rồi."
+  }
+ },
+ {
+  "id": "hsk1-0103",
+  "hanzi": "电脑",
+  "pinyin": "diàn nǎo",
+  "pinyinPlain": "dian4 nao3",
+  "meaningVi": "máy tính",
+  "hanViet": "Điện não",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "这是我的电脑。",
+   "pinyin": "Zhè shì wǒ de diànnǎo.",
+   "vi": "Đây là máy tính của tôi."
+  }
+ },
+ {
+  "id": "hsk1-0104",
+  "hanzi": "电视",
+  "pinyin": "diàn shì",
+  "pinyinPlain": "dian4 shi4",
+  "meaningVi": "ti vi",
+  "hanViet": "Điện thị",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "爸爸在看电视。",
+   "pinyin": "Bàba zài kàn diànshì.",
+   "vi": "Bố đang xem ti vi."
+  }
+ },
+ {
+  "id": "hsk1-0105",
+  "hanzi": "电影",
+  "pinyin": "diàn yǐng",
+  "pinyinPlain": "dian4 ying3",
+  "meaningVi": "phim",
+  "hanViet": "Điện ảnh",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我想看电影。",
+   "pinyin": "Wǒ xiǎng kàn diànyǐng.",
+   "vi": "Em muốn xem phim."
+  }
+ },
+ {
+  "id": "hsk1-0106",
+  "hanzi": "桌子",
+  "pinyin": "zhuō zi",
+  "pinyinPlain": "zhuo1 zi",
+  "meaningVi": "cái bàn",
+  "hanViet": "Trác tử",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "书在桌子上。",
+   "pinyin": "Shū zài zhuōzi shang.",
+   "vi": "Sách ở trên bàn."
+  }
+ },
+ {
+  "id": "hsk1-0107",
+  "hanzi": "椅子",
+  "pinyin": "yǐ zi",
+  "pinyinPlain": "yi3 zi",
+  "meaningVi": "cái ghế",
+  "hanViet": "Ỷ tử",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "这个椅子很小。",
+   "pinyin": "Zhège yǐzi hěn xiǎo.",
+   "vi": "Cái ghế này rất nhỏ."
+  }
+ },
+ {
+  "id": "hsk1-0108",
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "pinyinPlain": "mao1",
+  "meaningVi": "con mèo",
+  "hanViet": "Miêu",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "我喜欢猫。",
+   "pinyin": "Wǒ xǐhuan māo.",
+   "vi": "Em thích mèo."
+  }
+ },
+ {
+  "id": "hsk1-0109",
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "pinyinPlain": "gou3",
+  "meaningVi": "con chó",
+  "hanViet": "Cẩu",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "school",
+  "example": {
+   "zh": "那个狗很大。",
+   "pinyin": "Nàge gǒu hěn dà.",
+   "vi": "Con chó đó rất to."
+  }
+ },
+ {
+  "id": "hsk1-0110",
+  "hanzi": "去",
+  "pinyin": "qù",
+  "pinyinPlain": "qu4",
+  "meaningVi": "đi",
+  "hanViet": "Khứ",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "你去哪儿？",
+   "pinyin": "Nǐ qù nǎr?",
+   "vi": "Em đi đâu?"
+  }
+ },
+ {
+  "id": "hsk1-0111",
+  "hanzi": "来",
+  "pinyin": "lái",
+  "pinyinPlain": "lai2",
+  "meaningVi": "đến, tới",
+  "hanViet": "Lai",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "请来我家。",
+   "pinyin": "Qǐng lái wǒ jiā.",
+   "vi": "Mời đến nhà tôi."
+  }
+ },
+ {
+  "id": "hsk1-0112",
+  "hanzi": "回",
+  "pinyin": "huí",
+  "pinyinPlain": "hui2",
+  "meaningVi": "về",
+  "hanViet": "Hồi",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "我回家了。",
+   "pinyin": "Wǒ huí jiā le.",
+   "vi": "Anh về nhà rồi."
+  }
+ },
+ {
+  "id": "hsk1-0113",
+  "hanzi": "在",
+  "pinyin": "zài",
+  "pinyinPlain": "zai4",
+  "meaningVi": "ở; đang",
+  "hanViet": "Tại",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "我在家。",
+   "pinyin": "Wǒ zài jiā.",
+   "vi": "Tôi ở nhà."
+  }
+ },
+ {
+  "id": "hsk1-0114",
+  "hanzi": "住",
+  "pinyin": "zhù",
+  "pinyinPlain": "zhu4",
+  "meaningVi": "ở, sống",
+  "hanViet": "Trú",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "你住在哪儿？",
+   "pinyin": "Nǐ zhù zài nǎr?",
+   "vi": "Em sống ở đâu?"
+  }
+ },
+ {
+  "id": "hsk1-0115",
+  "hanzi": "坐",
+  "pinyin": "zuò",
+  "pinyinPlain": "zuo4",
+  "meaningVi": "ngồi; đi (xe)",
+  "hanViet": "Tọa",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "我坐飞机去北京。",
+   "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+   "vi": "Tôi đi máy bay đến Bắc Kinh."
+  }
+ },
+ {
+  "id": "hsk1-0116",
+  "hanzi": "出租车",
+  "pinyin": "chū zū chē",
+  "pinyinPlain": "chu1 zu1 che1",
+  "meaningVi": "taxi",
+  "hanViet": "Xuất tô xa",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "我们坐出租车去。",
+   "pinyin": "Wǒmen zuò chūzūchē qù.",
+   "vi": "Chúng ta đi taxi."
+  }
+ },
+ {
+  "id": "hsk1-0117",
+  "hanzi": "飞机",
+  "pinyin": "fēi jī",
+  "pinyinPlain": "fei1 ji1",
+  "meaningVi": "máy bay",
+  "hanViet": "Phi cơ",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "飞机很大。",
+   "pinyin": "Fēijī hěn dà.",
+   "vi": "Máy bay rất to."
+  }
+ },
+ {
+  "id": "hsk1-0118",
+  "hanzi": "医院",
+  "pinyin": "yī yuàn",
+  "pinyinPlain": "yi1 yuan4",
+  "meaningVi": "bệnh viện",
+  "hanViet": "Y viện",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "他在医院工作。",
+   "pinyin": "Tā zài yīyuàn gōngzuò.",
+   "vi": "Anh ấy làm việc ở bệnh viện."
+  }
+ },
+ {
+  "id": "hsk1-0119",
+  "hanzi": "哪",
+  "pinyin": "nǎ",
+  "pinyinPlain": "na3",
+  "meaningVi": "nào",
+  "hanViet": "Na",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "你喜欢哪个？",
+   "pinyin": "Nǐ xǐhuan nǎge?",
+   "vi": "Em thích cái nào?"
+  }
+ },
+ {
+  "id": "hsk1-0120",
+  "hanzi": "哪儿",
+  "pinyin": "nǎr",
+  "pinyinPlain": "nar3",
+  "meaningVi": "ở đâu",
+  "hanViet": "Na nhi",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "你家在哪儿？",
+   "pinyin": "Nǐ jiā zài nǎr?",
+   "vi": "Nhà em ở đâu?"
+  }
+ },
+ {
+  "id": "hsk1-0121",
+  "hanzi": "里",
+  "pinyin": "lǐ",
+  "pinyinPlain": "li3",
+  "meaningVi": "trong",
+  "hanViet": "Lý",
+  "pos": "danh từ phương vị",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "她在商店里。",
+   "pinyin": "Tā zài shāngdiàn li.",
+   "vi": "Cô ấy ở trong cửa hàng."
+  }
+ },
+ {
+  "id": "hsk1-0122",
+  "hanzi": "上",
+  "pinyin": "shàng",
+  "pinyinPlain": "shang4",
+  "meaningVi": "trên",
+  "hanViet": "Thượng",
+  "pos": "danh từ phương vị",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "猫在桌子上。",
+   "pinyin": "Māo zài zhuōzi shang.",
+   "vi": "Con mèo ở trên bàn."
+  }
+ },
+ {
+  "id": "hsk1-0123",
+  "hanzi": "下",
+  "pinyin": "xià",
+  "pinyinPlain": "xia4",
+  "meaningVi": "dưới",
+  "hanViet": "Hạ",
+  "pos": "danh từ phương vị",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "狗在椅子下。",
+   "pinyin": "Gǒu zài yǐzi xià.",
+   "vi": "Con chó ở dưới ghế."
+  }
+ },
+ {
+  "id": "hsk1-0124",
+  "hanzi": "前面",
+  "pinyin": "qián miàn",
+  "pinyinPlain": "qian2 mian4",
+  "meaningVi": "phía trước",
+  "hanViet": "Tiền diện",
+  "pos": "danh từ phương vị",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "商店在前面。",
+   "pinyin": "Shāngdiàn zài qiánmiàn.",
+   "vi": "Cửa hàng ở phía trước."
+  }
+ },
+ {
+  "id": "hsk1-0125",
+  "hanzi": "后面",
+  "pinyin": "hòu miàn",
+  "pinyinPlain": "hou4 mian4",
+  "meaningVi": "phía sau",
+  "hanViet": "Hậu diện",
+  "pos": "danh từ phương vị",
+  "level": 1,
+  "topicId": "places",
+  "example": {
+   "zh": "学校后面有医院。",
+   "pinyin": "Xuéxiào hòumiàn yǒu yīyuàn.",
+   "vi": "Sau trường có bệnh viện."
+  }
+ },
+ {
+  "id": "hsk1-0126",
+  "hanzi": "做",
+  "pinyin": "zuò",
+  "pinyinPlain": "zuo4",
+  "meaningVi": "làm",
+  "hanViet": "Tố",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "你在做什么？",
+   "pinyin": "Nǐ zài zuò shénme?",
+   "vi": "Em đang làm gì đó?"
+  }
+ },
+ {
+  "id": "hsk1-0127",
+  "hanzi": "工作",
+  "pinyin": "gōng zuò",
+  "pinyinPlain": "gong1 zuo4",
+  "meaningVi": "làm việc; công việc",
+  "hanViet": "Công tác",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "爸爸在工作。",
+   "pinyin": "Bàba zài gōngzuò.",
+   "vi": "Bố đang làm việc."
+  }
+ },
+ {
+  "id": "hsk1-0128",
+  "hanzi": "会",
+  "pinyin": "huì",
+  "pinyinPlain": "hui4",
+  "meaningVi": "biết (làm gì); sẽ",
+  "hanViet": "Hội",
+  "pos": "động từ năng nguyện",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "我会做饭。",
+   "pinyin": "Wǒ huì zuò fàn.",
+   "vi": "Anh biết nấu cơm."
+  }
+ },
+ {
+  "id": "hsk1-0129",
+  "hanzi": "能",
+  "pinyin": "néng",
+  "pinyinPlain": "neng2",
+  "meaningVi": "có thể",
+  "hanViet": "Năng",
+  "pos": "động từ năng nguyện",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "你能来吗？",
+   "pinyin": "Nǐ néng lái ma?",
+   "vi": "Em đến được không?"
+  }
+ },
+ {
+  "id": "hsk1-0130",
+  "hanzi": "开",
+  "pinyin": "kāi",
+  "pinyinPlain": "kai1",
+  "meaningVi": "mở; lái",
+  "hanViet": "Khai",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "他开出租车。",
+   "pinyin": "Tā kāi chūzūchē.",
+   "vi": "Anh ấy lái taxi."
+  }
+ },
+ {
+  "id": "hsk1-0131",
+  "hanzi": "打电话",
+  "pinyin": "dǎ diàn huà",
+  "pinyinPlain": "da3 dian4 hua4",
+  "meaningVi": "gọi điện thoại",
+  "hanViet": "Đả điện thoại",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "我给你打电话。",
+   "pinyin": "Wǒ gěi nǐ dǎ diànhuà.",
+   "vi": "Anh gọi điện cho em."
+  }
+ },
+ {
+  "id": "hsk1-0132",
+  "hanzi": "睡觉",
+  "pinyin": "shuì jiào",
+  "pinyinPlain": "shui4 jiao4",
+  "meaningVi": "ngủ",
+  "hanViet": "Thụy giác",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "我想睡觉了。",
+   "pinyin": "Wǒ xiǎng shuìjiào le.",
+   "vi": "Em buồn ngủ rồi."
+  }
+ },
+ {
+  "id": "hsk1-0133",
+  "hanzi": "天气",
+  "pinyin": "tiān qì",
+  "pinyinPlain": "tian1 qi4",
+  "meaningVi": "thời tiết",
+  "hanViet": "Thiên khí",
+  "pos": "danh từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "今天天气很好。",
+   "pinyin": "Jīntiān tiānqì hěn hǎo.",
+   "vi": "Hôm nay thời tiết rất đẹp."
+  }
+ },
+ {
+  "id": "hsk1-0134",
+  "hanzi": "冷",
+  "pinyin": "lěng",
+  "pinyinPlain": "leng3",
+  "meaningVi": "lạnh",
+  "hanViet": "Lãnh",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "今天太冷了。",
+   "pinyin": "Jīntiān tài lěng le.",
+   "vi": "Hôm nay lạnh quá."
+  }
+ },
+ {
+  "id": "hsk1-0135",
+  "hanzi": "热",
+  "pinyin": "rè",
+  "pinyinPlain": "re4",
+  "meaningVi": "nóng",
+  "hanViet": "Nhiệt",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "北京很热。",
+   "pinyin": "Běijīng hěn rè.",
+   "vi": "Bắc Kinh rất nóng."
+  }
+ },
+ {
+  "id": "hsk1-0136",
+  "hanzi": "下雨",
+  "pinyin": "xià yǔ",
+  "pinyinPlain": "xia4 yu3",
+  "meaningVi": "mưa",
+  "hanViet": "Hạ vũ",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "明天会下雨。",
+   "pinyin": "Míngtiān huì xià yǔ.",
+   "vi": "Ngày mai sẽ mưa."
+  }
+ },
+ {
+  "id": "hsk1-0137",
+  "hanzi": "高兴",
+  "pinyin": "gāo xìng",
+  "pinyinPlain": "gao1 xing4",
+  "meaningVi": "vui",
+  "hanViet": "Cao hứng",
+  "pos": "tính từ",
+  "level": 1,
+  "topicId": "daily",
+  "example": {
+   "zh": "我今天很高兴。",
+   "pinyin": "Wǒ jīntiān hěn gāoxìng.",
+   "vi": "Hôm nay em rất vui."
+  }
+ },
+ {
+  "id": "hsk1-0138",
+  "hanzi": "是",
+  "pinyin": "shì",
+  "pinyinPlain": "shi4",
+  "meaningVi": "là",
+  "hanViet": "Thị",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我是越南人。",
+   "pinyin": "Wǒ shì Yuènán rén.",
+   "vi": "Tôi là người Việt Nam."
+  }
+ },
+ {
+  "id": "hsk1-0139",
+  "hanzi": "有",
+  "pinyin": "yǒu",
+  "pinyinPlain": "you3",
+  "meaningVi": "có",
+  "hanViet": "Hữu",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我有很多朋友。",
+   "pinyin": "Wǒ yǒu hěn duō péngyou.",
+   "vi": "Tôi có nhiều bạn."
+  }
+ },
+ {
+  "id": "hsk1-0140",
+  "hanzi": "没有",
+  "pinyin": "méi yǒu",
+  "pinyinPlain": "mei2 you3",
+  "meaningVi": "không có; chưa",
+  "hanViet": "Một hữu",
+  "pos": "động từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我没有猫。",
+   "pinyin": "Wǒ méiyǒu māo.",
+   "vi": "Tôi không có mèo."
+  }
+ },
+ {
+  "id": "hsk1-0141",
+  "hanzi": "不",
+  "pinyin": "bù",
+  "pinyinPlain": "bu4",
+  "meaningVi": "không",
+  "hanViet": "Bất",
+  "pos": "phó từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我不喝茶。",
+   "pinyin": "Wǒ bù hē chá.",
+   "vi": "Tôi không uống trà."
+  }
+ },
+ {
+  "id": "hsk1-0142",
+  "hanzi": "都",
+  "pinyin": "dōu",
+  "pinyinPlain": "dou1",
+  "meaningVi": "đều",
+  "hanViet": "Đô",
+  "pos": "phó từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我们都是学生。",
+   "pinyin": "Wǒmen dōu shì xuésheng.",
+   "vi": "Chúng tôi đều là sinh viên."
+  }
+ },
+ {
+  "id": "hsk1-0143",
+  "hanzi": "很",
+  "pinyin": "hěn",
+  "pinyinPlain": "hen3",
+  "meaningVi": "rất",
+  "hanViet": "Ngận",
+  "pos": "phó từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我很好。",
+   "pinyin": "Wǒ hěn hǎo.",
+   "vi": "Tôi rất khỏe."
+  }
+ },
+ {
+  "id": "hsk1-0144",
+  "hanzi": "和",
+  "pinyin": "hé",
+  "pinyinPlain": "he2",
+  "meaningVi": "và, với",
+  "hanViet": "Hòa",
+  "pos": "liên từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我和你",
+   "pinyin": "wǒ hé nǐ",
+   "vi": "anh và em"
+  }
+ },
+ {
+  "id": "hsk1-0145",
+  "hanzi": "的",
+  "pinyin": "de",
+  "pinyinPlain": "de",
+  "meaningVi": "của (trợ từ sở hữu)",
+  "hanViet": "Đích",
+  "pos": "trợ từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我的书",
+   "pinyin": "wǒ de shū",
+   "vi": "sách của tôi"
+  }
+ },
+ {
+  "id": "hsk1-0146",
+  "hanzi": "了",
+  "pinyin": "le",
+  "pinyinPlain": "le",
+  "meaningVi": "rồi (trợ từ hoàn thành)",
+  "hanViet": "Liễu",
+  "pos": "trợ từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我吃了。",
+   "pinyin": "Wǒ chī le.",
+   "vi": "Tôi ăn rồi."
+  }
+ },
+ {
+  "id": "hsk1-0147",
+  "hanzi": "吗",
+  "pinyin": "ma",
+  "pinyinPlain": "ma",
+  "meaningVi": "không? (trợ từ nghi vấn)",
+  "hanViet": "Ma",
+  "pos": "trợ từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "你是老师吗？",
+   "pinyin": "Nǐ shì lǎoshī ma?",
+   "vi": "Bạn là giáo viên à?"
+  }
+ },
+ {
+  "id": "hsk1-0148",
+  "hanzi": "呢",
+  "pinyin": "ne",
+  "pinyinPlain": "ne",
+  "meaningVi": "còn… thì sao? (trợ từ)",
+  "hanViet": "Ni",
+  "pos": "trợ từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "我很好，你呢？",
+   "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+   "vi": "Anh khỏe, còn em?"
+  }
+ },
+ {
+  "id": "hsk1-0149",
+  "hanzi": "什么",
+  "pinyin": "shén me",
+  "pinyinPlain": "shen2 me",
+  "meaningVi": "cái gì",
+  "hanViet": "Thập ma",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "你想吃什么？",
+   "pinyin": "Nǐ xiǎng chī shénme?",
+   "vi": "Em muốn ăn gì?"
+  }
+ },
+ {
+  "id": "hsk1-0150",
+  "hanzi": "怎么",
+  "pinyin": "zěn me",
+  "pinyinPlain": "zen3 me",
+  "meaningVi": "thế nào, sao",
+  "hanViet": "Chẩm ma",
+  "pos": "đại từ",
+  "level": 1,
+  "topicId": "small1",
+  "example": {
+   "zh": "这个字怎么写？",
+   "pinyin": "Zhège zì zěnme xiě?",
+   "vi": "Chữ này viết thế nào?"
+  }
+ },
+ {
+  "id": "hsk2-0001",
+  "hanzi": "哥哥",
+  "pinyin": "gē ge",
+  "pinyinPlain": "ge1 ge",
+  "meaningVi": "anh trai",
+  "hanViet": "Ca ca",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "我哥哥很高。",
+   "pinyin": "Wǒ gēge hěn gāo.",
+   "vi": "Anh trai tôi rất cao."
+  }
+ },
+ {
+  "id": "hsk2-0002",
+  "hanzi": "姐姐",
+  "pinyin": "jiě jie",
+  "pinyinPlain": "jie3 jie",
+  "meaningVi": "chị gái",
+  "hanViet": "Thư thư",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "姐姐在公司工作。",
+   "pinyin": "Jiějie zài gōngsī gōngzuò.",
+   "vi": "Chị gái làm việc ở công ty."
+  }
+ },
+ {
+  "id": "hsk2-0003",
+  "hanzi": "弟弟",
+  "pinyin": "dì di",
+  "pinyinPlain": "di4 di",
+  "meaningVi": "em trai",
+  "hanViet": "Đệ đệ",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "我弟弟八岁。",
+   "pinyin": "Wǒ dìdi bā suì.",
+   "vi": "Em trai tôi tám tuổi."
+  }
+ },
+ {
+  "id": "hsk2-0004",
+  "hanzi": "妹妹",
+  "pinyin": "mèi mei",
+  "pinyinPlain": "mei4 mei",
+  "meaningVi": "em gái",
+  "hanViet": "Muội muội",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "你有妹妹吗？",
+   "pinyin": "Nǐ yǒu mèimei ma?",
+   "vi": "Em có em gái không?"
+  }
+ },
+ {
+  "id": "hsk2-0005",
+  "hanzi": "丈夫",
+  "pinyin": "zhàng fu",
+  "pinyinPlain": "zhang4 fu",
+  "meaningVi": "chồng",
+  "hanViet": "Trượng phu",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "她丈夫是医生。",
+   "pinyin": "Tā zhàngfu shì yīshēng.",
+   "vi": "Chồng cô ấy là bác sĩ."
+  }
+ },
+ {
+  "id": "hsk2-0006",
+  "hanzi": "妻子",
+  "pinyin": "qī zi",
+  "pinyinPlain": "qi1 zi",
+  "meaningVi": "vợ",
+  "hanViet": "Thê tử",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "他妻子很漂亮。",
+   "pinyin": "Tā qīzi hěn piàoliang.",
+   "vi": "Vợ anh ấy rất xinh."
+  }
+ },
+ {
+  "id": "hsk2-0007",
+  "hanzi": "孩子",
+  "pinyin": "hái zi",
+  "pinyinPlain": "hai2 zi",
+  "meaningVi": "đứa trẻ, con",
+  "hanViet": "Hài tử",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "孩子在睡觉。",
+   "pinyin": "Háizi zài shuìjiào.",
+   "vi": "Đứa bé đang ngủ."
+  }
+ },
+ {
+  "id": "hsk2-0008",
+  "hanzi": "男",
+  "pinyin": "nán",
+  "pinyinPlain": "nan2",
+  "meaningVi": "nam, con trai",
+  "hanViet": "Nam",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "他是男老师。",
+   "pinyin": "Tā shì nán lǎoshī.",
+   "vi": "Anh ấy là thầy giáo."
+  }
+ },
+ {
+  "id": "hsk2-0009",
+  "hanzi": "女",
+  "pinyin": "nǚ",
+  "pinyinPlain": "nv3",
+  "meaningVi": "nữ, con gái",
+  "hanViet": "Nữ",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "她是女医生。",
+   "pinyin": "Tā shì nǚ yīshēng.",
+   "vi": "Cô ấy là nữ bác sĩ."
+  }
+ },
+ {
+  "id": "hsk2-0010",
+  "hanzi": "您",
+  "pinyin": "nín",
+  "pinyinPlain": "nin2",
+  "meaningVi": "ngài, ông, bà (kính trọng)",
+  "hanViet": "Nâm",
+  "pos": "đại từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "您好！",
+   "pinyin": "Nín hǎo!",
+   "vi": "Kính chào ông/bà!"
+  }
+ },
+ {
+  "id": "hsk2-0011",
+  "hanzi": "大家",
+  "pinyin": "dà jiā",
+  "pinyinPlain": "da4 jia1",
+  "meaningVi": "mọi người",
+  "hanViet": "Đại gia",
+  "pos": "đại từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "大家好！",
+   "pinyin": "Dàjiā hǎo!",
+   "vi": "Chào mọi người!"
+  }
+ },
+ {
+  "id": "hsk2-0012",
+  "hanzi": "它",
+  "pinyin": "tā",
+  "pinyinPlain": "ta1",
+  "meaningVi": "nó (đồ vật, con vật)",
+  "hanViet": "Tha",
+  "pos": "đại từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "这是我的猫，它很小。",
+   "pinyin": "Zhè shì wǒ de māo, tā hěn xiǎo.",
+   "vi": "Đây là mèo của em, nó rất nhỏ."
+  }
+ },
+ {
+  "id": "hsk2-0013",
+  "hanzi": "姓",
+  "pinyin": "xìng",
+  "pinyinPlain": "xing4",
+  "meaningVi": "họ; mang họ",
+  "hanViet": "Tính",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "您贵姓？",
+   "pinyin": "Nín guì xìng?",
+   "vi": "Ông/bà họ gì ạ?"
+  }
+ },
+ {
+  "id": "hsk2-0014",
+  "hanzi": "身体",
+  "pinyin": "shēn tǐ",
+  "pinyinPlain": "shen1 ti3",
+  "meaningVi": "cơ thể, sức khỏe",
+  "hanViet": "Thân thể",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "你身体好吗？",
+   "pinyin": "Nǐ shēntǐ hǎo ma?",
+   "vi": "Sức khỏe em tốt không?"
+  }
+ },
+ {
+  "id": "hsk2-0015",
+  "hanzi": "眼睛",
+  "pinyin": "yǎn jing",
+  "pinyinPlain": "yan3 jing",
+  "meaningVi": "mắt",
+  "hanViet": "Nhãn tinh",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "你的眼睛很漂亮。",
+   "pinyin": "Nǐ de yǎnjing hěn piàoliang.",
+   "vi": "Mắt em rất đẹp."
+  }
+ },
+ {
+  "id": "hsk2-0016",
+  "hanzi": "生病",
+  "pinyin": "shēng bìng",
+  "pinyinPlain": "sheng1 bing4",
+  "meaningVi": "bị ốm",
+  "hanViet": "Sinh bệnh",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "我生病了。",
+   "pinyin": "Wǒ shēngbìng le.",
+   "vi": "Em bị ốm rồi."
+  }
+ },
+ {
+  "id": "hsk2-0017",
+  "hanzi": "药",
+  "pinyin": "yào",
+  "pinyinPlain": "yao4",
+  "meaningVi": "thuốc",
+  "hanViet": "Dược",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-people",
+  "example": {
+   "zh": "你吃药了吗？",
+   "pinyin": "Nǐ chī yào le ma?",
+   "vi": "Em uống thuốc chưa?"
+  }
+ },
+ {
+  "id": "hsk2-0018",
+  "hanzi": "早上",
+  "pinyin": "zǎo shang",
+  "pinyinPlain": "zao3 shang",
+  "meaningVi": "buổi sáng sớm",
+  "hanViet": "Tảo thượng",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "早上好！",
+   "pinyin": "Zǎoshang hǎo!",
+   "vi": "Chào buổi sáng!"
+  }
+ },
+ {
+  "id": "hsk2-0019",
+  "hanzi": "晚上",
+  "pinyin": "wǎn shang",
+  "pinyinPlain": "wan3 shang",
+  "meaningVi": "buổi tối",
+  "hanViet": "Vãn thượng",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "晚上我们去看电影。",
+   "pinyin": "Wǎnshang wǒmen qù kàn diànyǐng.",
+   "vi": "Tối nay mình đi xem phim."
+  }
+ },
+ {
+  "id": "hsk2-0020",
+  "hanzi": "日",
+  "pinyin": "rì",
+  "pinyinPlain": "ri4",
+  "meaningVi": "ngày; mặt trời",
+  "hanViet": "Nhật",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "十月一日",
+   "pinyin": "shí yuè yī rì",
+   "vi": "ngày 1 tháng 10"
+  }
+ },
+ {
+  "id": "hsk2-0021",
+  "hanzi": "去年",
+  "pinyin": "qù nián",
+  "pinyinPlain": "qu4 nian2",
+  "meaningVi": "năm ngoái",
+  "hanViet": "Khứ niên",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "去年我去了北京。",
+   "pinyin": "Qùnián wǒ qù le Běijīng.",
+   "vi": "Năm ngoái tôi đã đi Bắc Kinh."
+  }
+ },
+ {
+  "id": "hsk2-0022",
+  "hanzi": "小时",
+  "pinyin": "xiǎo shí",
+  "pinyinPlain": "xiao3 shi2",
+  "meaningVi": "giờ, tiếng đồng hồ",
+  "hanViet": "Tiểu thời",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "我睡了八个小时。",
+   "pinyin": "Wǒ shuì le bā ge xiǎoshí.",
+   "vi": "Tôi đã ngủ tám tiếng."
+  }
+ },
+ {
+  "id": "hsk2-0023",
+  "hanzi": "时间",
+  "pinyin": "shí jiān",
+  "pinyinPlain": "shi2 jian1",
+  "meaningVi": "thời gian",
+  "hanViet": "Thời gian",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "你有时间吗？",
+   "pinyin": "Nǐ yǒu shíjiān ma?",
+   "vi": "Em có thời gian không?"
+  }
+ },
+ {
+  "id": "hsk2-0024",
+  "hanzi": "生日",
+  "pinyin": "shēng rì",
+  "pinyinPlain": "sheng1 ri4",
+  "meaningVi": "sinh nhật",
+  "hanViet": "Sinh nhật",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "生日快乐！",
+   "pinyin": "Shēngrì kuàilè!",
+   "vi": "Chúc mừng sinh nhật!"
+  }
+ },
+ {
+  "id": "hsk2-0025",
+  "hanzi": "快乐",
+  "pinyin": "kuài lè",
+  "pinyinPlain": "kuai4 le4",
+  "meaningVi": "vui vẻ",
+  "hanViet": "Khoái lạc",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "新年快乐！",
+   "pinyin": "Xīnnián kuàilè!",
+   "vi": "Chúc mừng năm mới!"
+  }
+ },
+ {
+  "id": "hsk2-0026",
+  "hanzi": "已经",
+  "pinyin": "yǐ jīng",
+  "pinyinPlain": "yi3 jing1",
+  "meaningVi": "đã",
+  "hanViet": "Dĩ kinh",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "我已经吃了。",
+   "pinyin": "Wǒ yǐjīng chī le.",
+   "vi": "Tôi đã ăn rồi."
+  }
+ },
+ {
+  "id": "hsk2-0027",
+  "hanzi": "正在",
+  "pinyin": "zhèng zài",
+  "pinyinPlain": "zheng4 zai4",
+  "meaningVi": "đang",
+  "hanViet": "Chính tại",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "我正在学习。",
+   "pinyin": "Wǒ zhèngzài xuéxí.",
+   "vi": "Em đang học bài."
+  }
+ },
+ {
+  "id": "hsk2-0028",
+  "hanzi": "开始",
+  "pinyin": "kāi shǐ",
+  "pinyinPlain": "kai1 shi3",
+  "meaningVi": "bắt đầu",
+  "hanViet": "Khai thủy",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "我们开始吧！",
+   "pinyin": "Wǒmen kāishǐ ba!",
+   "vi": "Chúng ta bắt đầu nào!"
+  }
+ },
+ {
+  "id": "hsk2-0029",
+  "hanzi": "完",
+  "pinyin": "wán",
+  "pinyinPlain": "wan2",
+  "meaningVi": "xong, hết",
+  "hanViet": "Hoàn",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "我看完了。",
+   "pinyin": "Wǒ kàn wán le.",
+   "vi": "Tôi xem xong rồi."
+  }
+ },
+ {
+  "id": "hsk2-0030",
+  "hanzi": "每",
+  "pinyin": "měi",
+  "pinyinPlain": "mei3",
+  "meaningVi": "mỗi",
+  "hanViet": "Mỗi",
+  "pos": "đại từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "我每天学习汉语。",
+   "pinyin": "Wǒ měitiān xuéxí Hànyǔ.",
+   "vi": "Em học tiếng Trung mỗi ngày."
+  }
+ },
+ {
+  "id": "hsk2-0031",
+  "hanzi": "第一",
+  "pinyin": "dì yī",
+  "pinyinPlain": "di4 yi1",
+  "meaningVi": "thứ nhất",
+  "hanViet": "Đệ nhất",
+  "pos": "số từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "这是我第一次来中国。",
+   "pinyin": "Zhè shì wǒ dì yī cì lái Zhōngguó.",
+   "vi": "Đây là lần đầu tôi đến Trung Quốc."
+  }
+ },
+ {
+  "id": "hsk2-0032",
+  "hanzi": "次",
+  "pinyin": "cì",
+  "pinyinPlain": "ci4",
+  "meaningVi": "lần",
+  "hanViet": "Thứ",
+  "pos": "lượng từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "我去过两次。",
+   "pinyin": "Wǒ qù guo liǎng cì.",
+   "vi": "Tôi đã đi hai lần."
+  }
+ },
+ {
+  "id": "hsk2-0033",
+  "hanzi": "起床",
+  "pinyin": "qǐ chuáng",
+  "pinyinPlain": "qi3 chuang2",
+  "meaningVi": "thức dậy",
+  "hanViet": "Khởi sàng",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "我七点起床。",
+   "pinyin": "Wǒ qī diǎn qǐchuáng.",
+   "vi": "Tôi dậy lúc bảy giờ."
+  }
+ },
+ {
+  "id": "hsk2-0034",
+  "hanzi": "上班",
+  "pinyin": "shàng bān",
+  "pinyinPlain": "shang4 ban1",
+  "meaningVi": "đi làm",
+  "hanViet": "Thượng ban",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "爸爸去上班了。",
+   "pinyin": "Bàba qù shàngbān le.",
+   "vi": "Bố đi làm rồi."
+  }
+ },
+ {
+  "id": "hsk2-0035",
+  "hanzi": "休息",
+  "pinyin": "xiū xi",
+  "pinyinPlain": "xiu1 xi",
+  "meaningVi": "nghỉ ngơi",
+  "hanViet": "Hưu tức",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-time",
+  "example": {
+   "zh": "你累了，休息一下吧。",
+   "pinyin": "Nǐ lèi le, xiūxi yíxià ba.",
+   "vi": "Em mệt rồi, nghỉ một chút đi."
+  }
+ },
+ {
+  "id": "hsk2-0036",
+  "hanzi": "好吃",
+  "pinyin": "hǎo chī",
+  "pinyinPlain": "hao3 chi1",
+  "meaningVi": "ngon",
+  "hanViet": "Hảo ngật",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "这个菜很好吃。",
+   "pinyin": "Zhège cài hěn hǎochī.",
+   "vi": "Món này rất ngon."
+  }
+ },
+ {
+  "id": "hsk2-0037",
+  "hanzi": "鸡蛋",
+  "pinyin": "jī dàn",
+  "pinyinPlain": "ji1 dan4",
+  "meaningVi": "trứng gà",
+  "hanViet": "Kê đản",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "我早上吃鸡蛋。",
+   "pinyin": "Wǒ zǎoshang chī jīdàn.",
+   "vi": "Buổi sáng tôi ăn trứng."
+  }
+ },
+ {
+  "id": "hsk2-0038",
+  "hanzi": "面条",
+  "pinyin": "miàn tiáo",
+  "pinyinPlain": "mian4 tiao2",
+  "meaningVi": "mì sợi",
+  "hanViet": "Diện điều",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "我想吃面条。",
+   "pinyin": "Wǒ xiǎng chī miàntiáo.",
+   "vi": "Em muốn ăn mì."
+  }
+ },
+ {
+  "id": "hsk2-0039",
+  "hanzi": "牛奶",
+  "pinyin": "niú nǎi",
+  "pinyinPlain": "niu2 nai3",
+  "meaningVi": "sữa bò",
+  "hanViet": "Ngưu nãi",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "请喝牛奶。",
+   "pinyin": "Qǐng hē niúnǎi.",
+   "vi": "Mời uống sữa."
+  }
+ },
+ {
+  "id": "hsk2-0040",
+  "hanzi": "咖啡",
+  "pinyin": "kā fēi",
+  "pinyinPlain": "ka1 fei1",
+  "meaningVi": "cà phê",
+  "hanViet": "Ca phê",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "我每天喝咖啡。",
+   "pinyin": "Wǒ měitiān hē kāfēi.",
+   "vi": "Tôi uống cà phê mỗi ngày."
+  }
+ },
+ {
+  "id": "hsk2-0041",
+  "hanzi": "西瓜",
+  "pinyin": "xī guā",
+  "pinyinPlain": "xi1 gua1",
+  "meaningVi": "dưa hấu",
+  "hanViet": "Tây qua",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "我喜欢吃西瓜。",
+   "pinyin": "Wǒ xǐhuan chī xīguā.",
+   "vi": "Em thích ăn dưa hấu."
+  }
+ },
+ {
+  "id": "hsk2-0042",
+  "hanzi": "羊肉",
+  "pinyin": "yáng ròu",
+  "pinyinPlain": "yang2 rou4",
+  "meaningVi": "thịt cừu",
+  "hanViet": "Dương nhục",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "你吃羊肉吗？",
+   "pinyin": "Nǐ chī yángròu ma?",
+   "vi": "Em ăn thịt cừu không?"
+  }
+ },
+ {
+  "id": "hsk2-0043",
+  "hanzi": "鱼",
+  "pinyin": "yú",
+  "pinyinPlain": "yu2",
+  "meaningVi": "cá",
+  "hanViet": "Ngư",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "我喜欢吃鱼。",
+   "pinyin": "Wǒ xǐhuan chī yú.",
+   "vi": "Tôi thích ăn cá."
+  }
+ },
+ {
+  "id": "hsk2-0044",
+  "hanzi": "服务员",
+  "pinyin": "fú wù yuán",
+  "pinyinPlain": "fu2 wu4 yuan2",
+  "meaningVi": "nhân viên phục vụ",
+  "hanViet": "Phục vụ viên",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "服务员，我要一杯茶。",
+   "pinyin": "Fúwùyuán, wǒ yào yì bēi chá.",
+   "vi": "Phục vụ ơi, cho tôi một ly trà."
+  }
+ },
+ {
+  "id": "hsk2-0045",
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "pinyinPlain": "mai4",
+  "meaningVi": "bán",
+  "hanViet": "Mại",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "这儿卖水果吗？",
+   "pinyin": "Zhèr mài shuǐguǒ ma?",
+   "vi": "Ở đây có bán trái cây không?"
+  }
+ },
+ {
+  "id": "hsk2-0046",
+  "hanzi": "贵",
+  "pinyin": "guì",
+  "pinyinPlain": "gui4",
+  "meaningVi": "đắt",
+  "hanViet": "Quý",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "太贵了！",
+   "pinyin": "Tài guì le!",
+   "vi": "Đắt quá!"
+  }
+ },
+ {
+  "id": "hsk2-0047",
+  "hanzi": "便宜",
+  "pinyin": "pián yi",
+  "pinyinPlain": "pian2 yi",
+  "meaningVi": "rẻ",
+  "hanViet": "Tiện nghi",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "这件衣服很便宜。",
+   "pinyin": "Zhè jiàn yīfu hěn piányi.",
+   "vi": "Bộ đồ này rất rẻ."
+  }
+ },
+ {
+  "id": "hsk2-0048",
+  "hanzi": "件",
+  "pinyin": "jiàn",
+  "pinyinPlain": "jian4",
+  "meaningVi": "chiếc, bộ (lượng từ)",
+  "hanViet": "Kiện",
+  "pos": "lượng từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "一件衣服",
+   "pinyin": "yí jiàn yīfu",
+   "vi": "một bộ quần áo"
+  }
+ },
+ {
+  "id": "hsk2-0049",
+  "hanzi": "百",
+  "pinyin": "bǎi",
+  "pinyinPlain": "bai3",
+  "meaningVi": "trăm",
+  "hanViet": "Bách",
+  "pos": "số từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "一百块",
+   "pinyin": "yì bǎi kuài",
+   "vi": "một trăm đồng"
+  }
+ },
+ {
+  "id": "hsk2-0050",
+  "hanzi": "千",
+  "pinyin": "qiān",
+  "pinyinPlain": "qian1",
+  "meaningVi": "nghìn",
+  "hanViet": "Thiên",
+  "pos": "số từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "三千块钱",
+   "pinyin": "sān qiān kuài qián",
+   "vi": "ba nghìn đồng"
+  }
+ },
+ {
+  "id": "hsk2-0051",
+  "hanzi": "两",
+  "pinyin": "liǎng",
+  "pinyinPlain": "liang3",
+  "meaningVi": "hai (dùng với lượng từ)",
+  "hanViet": "Lưỡng",
+  "pos": "số từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "两个苹果",
+   "pinyin": "liǎng ge píngguǒ",
+   "vi": "hai quả táo"
+  }
+ },
+ {
+  "id": "hsk2-0052",
+  "hanzi": "零",
+  "pinyin": "líng",
+  "pinyinPlain": "ling2",
+  "meaningVi": "số không, lẻ",
+  "hanViet": "Linh",
+  "pos": "số từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "一百零一",
+   "pinyin": "yì bǎi líng yī",
+   "vi": "một trăm lẻ một"
+  }
+ },
+ {
+  "id": "hsk2-0053",
+  "hanzi": "要",
+  "pinyin": "yào",
+  "pinyinPlain": "yao4",
+  "meaningVi": "muốn; cần; sẽ",
+  "hanViet": "Yếu",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-food",
+  "example": {
+   "zh": "你要什么？",
+   "pinyin": "Nǐ yào shénme?",
+   "vi": "Em muốn gì?"
+  }
+ },
+ {
+  "id": "hsk2-0054",
+  "hanzi": "颜色",
+  "pinyin": "yán sè",
+  "pinyinPlain": "yan2 se4",
+  "meaningVi": "màu sắc",
+  "hanViet": "Nhan sắc",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "你喜欢什么颜色？",
+   "pinyin": "Nǐ xǐhuan shénme yánsè?",
+   "vi": "Em thích màu gì?"
+  }
+ },
+ {
+  "id": "hsk2-0055",
+  "hanzi": "红",
+  "pinyin": "hóng",
+  "pinyinPlain": "hong2",
+  "meaningVi": "đỏ",
+  "hanViet": "Hồng",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "她的衣服是红的。",
+   "pinyin": "Tā de yīfu shì hóng de.",
+   "vi": "Quần áo cô ấy màu đỏ."
+  }
+ },
+ {
+  "id": "hsk2-0056",
+  "hanzi": "白",
+  "pinyin": "bái",
+  "pinyinPlain": "bai2",
+  "meaningVi": "trắng",
+  "hanViet": "Bạch",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "这个杯子是白的。",
+   "pinyin": "Zhège bēizi shì bái de.",
+   "vi": "Cái cốc này màu trắng."
+  }
+ },
+ {
+  "id": "hsk2-0057",
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "pinyinPlain": "hei1",
+  "meaningVi": "đen",
+  "hanViet": "Hắc",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "我的狗是黑的。",
+   "pinyin": "Wǒ de gǒu shì hēi de.",
+   "vi": "Con chó của tôi màu đen."
+  }
+ },
+ {
+  "id": "hsk2-0058",
+  "hanzi": "长",
+  "pinyin": "cháng",
+  "pinyinPlain": "chang2",
+  "meaningVi": "dài",
+  "hanViet": "Trường",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "时间很长。",
+   "pinyin": "Shíjiān hěn cháng.",
+   "vi": "Thời gian rất dài."
+  }
+ },
+ {
+  "id": "hsk2-0059",
+  "hanzi": "高",
+  "pinyin": "gāo",
+  "pinyinPlain": "gao1",
+  "meaningVi": "cao",
+  "hanViet": "Cao",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "他很高。",
+   "pinyin": "Tā hěn gāo.",
+   "vi": "Anh ấy rất cao."
+  }
+ },
+ {
+  "id": "hsk2-0060",
+  "hanzi": "新",
+  "pinyin": "xīn",
+  "pinyinPlain": "xin1",
+  "meaningVi": "mới",
+  "hanViet": "Tân",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "这是我的新手机。",
+   "pinyin": "Zhè shì wǒ de xīn shǒujī.",
+   "vi": "Đây là điện thoại mới của em."
+  }
+ },
+ {
+  "id": "hsk2-0061",
+  "hanzi": "快",
+  "pinyin": "kuài",
+  "pinyinPlain": "kuai4",
+  "meaningVi": "nhanh",
+  "hanViet": "Khoái",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "他跑得很快。",
+   "pinyin": "Tā pǎo de hěn kuài.",
+   "vi": "Anh ấy chạy rất nhanh."
+  }
+ },
+ {
+  "id": "hsk2-0062",
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "pinyinPlain": "man4",
+  "meaningVi": "chậm",
+  "hanViet": "Mạn",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "请说慢一点儿。",
+   "pinyin": "Qǐng shuō màn yìdiǎnr.",
+   "vi": "Làm ơn nói chậm một chút."
+  }
+ },
+ {
+  "id": "hsk2-0063",
+  "hanzi": "忙",
+  "pinyin": "máng",
+  "pinyinPlain": "mang2",
+  "meaningVi": "bận",
+  "hanViet": "Mang",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "你忙吗？",
+   "pinyin": "Nǐ máng ma?",
+   "vi": "Em có bận không?"
+  }
+ },
+ {
+  "id": "hsk2-0064",
+  "hanzi": "累",
+  "pinyin": "lèi",
+  "pinyinPlain": "lei4",
+  "meaningVi": "mệt",
+  "hanViet": "Lụy",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "今天我很累。",
+   "pinyin": "Jīntiān wǒ hěn lèi.",
+   "vi": "Hôm nay em rất mệt."
+  }
+ },
+ {
+  "id": "hsk2-0065",
+  "hanzi": "真",
+  "pinyin": "zhēn",
+  "pinyinPlain": "zhen1",
+  "meaningVi": "thật, thật là",
+  "hanViet": "Chân",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "你真好！",
+   "pinyin": "Nǐ zhēn hǎo!",
+   "vi": "Em thật tốt!"
+  }
+ },
+ {
+  "id": "hsk2-0066",
+  "hanzi": "非常",
+  "pinyin": "fēi cháng",
+  "pinyinPlain": "fei1 chang2",
+  "meaningVi": "vô cùng, rất",
+  "hanViet": "Phi thường",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "我非常高兴。",
+   "pinyin": "Wǒ fēicháng gāoxìng.",
+   "vi": "Anh vô cùng vui."
+  }
+ },
+ {
+  "id": "hsk2-0067",
+  "hanzi": "最",
+  "pinyin": "zuì",
+  "pinyinPlain": "zui4",
+  "meaningVi": "nhất",
+  "hanViet": "Tối",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "你最漂亮。",
+   "pinyin": "Nǐ zuì piàoliang.",
+   "vi": "Em đẹp nhất."
+  }
+ },
+ {
+  "id": "hsk2-0068",
+  "hanzi": "对",
+  "pinyin": "duì",
+  "pinyinPlain": "dui4",
+  "meaningVi": "đúng; đối với",
+  "hanViet": "Đối",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "你说得对。",
+   "pinyin": "Nǐ shuō de duì.",
+   "vi": "Em nói đúng."
+  }
+ },
+ {
+  "id": "hsk2-0069",
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "pinyinPlain": "cuo4",
+  "meaningVi": "sai",
+  "hanViet": "Thác",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "对不起，我错了。",
+   "pinyin": "Duìbuqǐ, wǒ cuò le.",
+   "vi": "Xin lỗi, anh sai rồi."
+  }
+ },
+ {
+  "id": "hsk2-0070",
+  "hanzi": "晴",
+  "pinyin": "qíng",
+  "pinyinPlain": "qing2",
+  "meaningVi": "trời nắng, quang",
+  "hanViet": "Tình",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "今天是晴天。",
+   "pinyin": "Jīntiān shì qíngtiān.",
+   "vi": "Hôm nay trời nắng."
+  }
+ },
+ {
+  "id": "hsk2-0071",
+  "hanzi": "阴",
+  "pinyin": "yīn",
+  "pinyinPlain": "yin1",
+  "meaningVi": "trời âm u",
+  "hanViet": "Âm",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "明天是阴天。",
+   "pinyin": "Míngtiān shì yīntiān.",
+   "vi": "Ngày mai trời âm u."
+  }
+ },
+ {
+  "id": "hsk2-0072",
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "pinyinPlain": "xue3",
+  "meaningVi": "tuyết",
+  "hanViet": "Tuyết",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-describe",
+  "example": {
+   "zh": "北京下雪了。",
+   "pinyin": "Běijīng xià xuě le.",
+   "vi": "Bắc Kinh có tuyết rồi."
+  }
+ },
+ {
+  "id": "hsk2-0073",
+  "hanzi": "火车站",
+  "pinyin": "huǒ chē zhàn",
+  "pinyinPlain": "huo3 che1 zhan4",
+  "meaningVi": "ga tàu hỏa",
+  "hanViet": "Hỏa xa trạm",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "火车站在哪儿？",
+   "pinyin": "Huǒchēzhàn zài nǎr?",
+   "vi": "Ga tàu ở đâu?"
+  }
+ },
+ {
+  "id": "hsk2-0074",
+  "hanzi": "机场",
+  "pinyin": "jī chǎng",
+  "pinyinPlain": "ji1 chang3",
+  "meaningVi": "sân bay",
+  "hanViet": "Cơ trường",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我去机场。",
+   "pinyin": "Wǒ qù jīchǎng.",
+   "vi": "Tôi ra sân bay."
+  }
+ },
+ {
+  "id": "hsk2-0075",
+  "hanzi": "公共汽车",
+  "pinyin": "gōng gòng qì chē",
+  "pinyinPlain": "gong1 gong4 qi4 che1",
+  "meaningVi": "xe buýt",
+  "hanViet": "Công cộng khí xa",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我坐公共汽车上班。",
+   "pinyin": "Wǒ zuò gōnggòng qìchē shàngbān.",
+   "vi": "Tôi đi xe buýt đi làm."
+  }
+ },
+ {
+  "id": "hsk2-0076",
+  "hanzi": "宾馆",
+  "pinyin": "bīn guǎn",
+  "pinyinPlain": "bin1 guan3",
+  "meaningVi": "khách sạn",
+  "hanViet": "Tân quán",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "这个宾馆很好。",
+   "pinyin": "Zhège bīnguǎn hěn hǎo.",
+   "vi": "Khách sạn này rất tốt."
+  }
+ },
+ {
+  "id": "hsk2-0077",
+  "hanzi": "房间",
+  "pinyin": "fáng jiān",
+  "pinyinPlain": "fang2 jian1",
+  "meaningVi": "phòng",
+  "hanViet": "Phòng gian",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我的房间很小。",
+   "pinyin": "Wǒ de fángjiān hěn xiǎo.",
+   "vi": "Phòng của em rất nhỏ."
+  }
+ },
+ {
+  "id": "hsk2-0078",
+  "hanzi": "门",
+  "pinyin": "mén",
+  "pinyinPlain": "men2",
+  "meaningVi": "cửa",
+  "hanViet": "Môn",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "请开门。",
+   "pinyin": "Qǐng kāi mén.",
+   "vi": "Làm ơn mở cửa."
+  }
+ },
+ {
+  "id": "hsk2-0079",
+  "hanzi": "票",
+  "pinyin": "piào",
+  "pinyinPlain": "piao4",
+  "meaningVi": "vé",
+  "hanViet": "Phiếu",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我买票了。",
+   "pinyin": "Wǒ mǎi piào le.",
+   "vi": "Anh mua vé rồi."
+  }
+ },
+ {
+  "id": "hsk2-0080",
+  "hanzi": "路",
+  "pinyin": "lù",
+  "pinyinPlain": "lu4",
+  "meaningVi": "đường",
+  "hanViet": "Lộ",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我在路上。",
+   "pinyin": "Wǒ zài lù shang.",
+   "vi": "Anh đang trên đường."
+  }
+ },
+ {
+  "id": "hsk2-0081",
+  "hanzi": "旅游",
+  "pinyin": "lǚ yóu",
+  "pinyinPlain": "lv3 you2",
+  "meaningVi": "du lịch",
+  "hanViet": "Lữ du",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我们去中国旅游吧！",
+   "pinyin": "Wǒmen qù Zhōngguó lǚyóu ba!",
+   "vi": "Mình đi du lịch Trung Quốc nhé!"
+  }
+ },
+ {
+  "id": "hsk2-0082",
+  "hanzi": "远",
+  "pinyin": "yuǎn",
+  "pinyinPlain": "yuan3",
+  "meaningVi": "xa",
+  "hanViet": "Viễn",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "你家远吗？",
+   "pinyin": "Nǐ jiā yuǎn ma?",
+   "vi": "Nhà em có xa không?"
+  }
+ },
+ {
+  "id": "hsk2-0083",
+  "hanzi": "近",
+  "pinyin": "jìn",
+  "pinyinPlain": "jin4",
+  "meaningVi": "gần",
+  "hanViet": "Cận",
+  "pos": "tính từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "学校很近。",
+   "pinyin": "Xuéxiào hěn jìn.",
+   "vi": "Trường rất gần."
+  }
+ },
+ {
+  "id": "hsk2-0084",
+  "hanzi": "离",
+  "pinyin": "lí",
+  "pinyinPlain": "li2",
+  "meaningVi": "cách (khoảng cách)",
+  "hanViet": "Ly",
+  "pos": "giới từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我家离学校很近。",
+   "pinyin": "Wǒ jiā lí xuéxiào hěn jìn.",
+   "vi": "Nhà tôi cách trường rất gần."
+  }
+ },
+ {
+  "id": "hsk2-0085",
+  "hanzi": "往",
+  "pinyin": "wǎng",
+  "pinyinPlain": "wang3",
+  "meaningVi": "về phía",
+  "hanViet": "Vãng",
+  "pos": "giới từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "往前走。",
+   "pinyin": "Wǎng qián zǒu.",
+   "vi": "Đi thẳng về phía trước."
+  }
+ },
+ {
+  "id": "hsk2-0086",
+  "hanzi": "左边",
+  "pinyin": "zuǒ bian",
+  "pinyinPlain": "zuo3 bian",
+  "meaningVi": "bên trái",
+  "hanViet": "Tả biên",
+  "pos": "danh từ phương vị",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "商店在左边。",
+   "pinyin": "Shāngdiàn zài zuǒbian.",
+   "vi": "Cửa hàng ở bên trái."
+  }
+ },
+ {
+  "id": "hsk2-0087",
+  "hanzi": "右边",
+  "pinyin": "yòu bian",
+  "pinyinPlain": "you4 bian",
+  "meaningVi": "bên phải",
+  "hanViet": "Hữu biên",
+  "pos": "danh từ phương vị",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "医院在右边。",
+   "pinyin": "Yīyuàn zài yòubian.",
+   "vi": "Bệnh viện ở bên phải."
+  }
+ },
+ {
+  "id": "hsk2-0088",
+  "hanzi": "旁边",
+  "pinyin": "páng biān",
+  "pinyinPlain": "pang2 bian1",
+  "meaningVi": "bên cạnh",
+  "hanViet": "Bàng biên",
+  "pos": "danh từ phương vị",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我坐在你旁边。",
+   "pinyin": "Wǒ zuò zài nǐ pángbiān.",
+   "vi": "Anh ngồi bên cạnh em."
+  }
+ },
+ {
+  "id": "hsk2-0089",
+  "hanzi": "外",
+  "pinyin": "wài",
+  "pinyinPlain": "wai4",
+  "meaningVi": "ngoài",
+  "hanViet": "Ngoại",
+  "pos": "danh từ phương vị",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "外面下雨了。",
+   "pinyin": "Wàimiàn xià yǔ le.",
+   "vi": "Bên ngoài mưa rồi."
+  }
+ },
+ {
+  "id": "hsk2-0090",
+  "hanzi": "走",
+  "pinyin": "zǒu",
+  "pinyinPlain": "zou3",
+  "meaningVi": "đi bộ; rời đi",
+  "hanViet": "Tẩu",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我们走吧。",
+   "pinyin": "Wǒmen zǒu ba.",
+   "vi": "Chúng ta đi thôi."
+  }
+ },
+ {
+  "id": "hsk2-0091",
+  "hanzi": "到",
+  "pinyin": "dào",
+  "pinyinPlain": "dao4",
+  "meaningVi": "đến",
+  "hanViet": "Đáo",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-travel",
+  "example": {
+   "zh": "我到家了。",
+   "pinyin": "Wǒ dào jiā le.",
+   "vi": "Anh về đến nhà rồi."
+  }
+ },
+ {
+  "id": "hsk2-0092",
+  "hanzi": "唱歌",
+  "pinyin": "chàng gē",
+  "pinyinPlain": "chang4 ge1",
+  "meaningVi": "hát",
+  "hanViet": "Xướng ca",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "我喜欢唱歌。",
+   "pinyin": "Wǒ xǐhuan chàng gē.",
+   "vi": "Em thích hát."
+  }
+ },
+ {
+  "id": "hsk2-0093",
+  "hanzi": "跳舞",
+  "pinyin": "tiào wǔ",
+  "pinyinPlain": "tiao4 wu3",
+  "meaningVi": "nhảy múa",
+  "hanViet": "Khiêu vũ",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "我们一起跳舞吧！",
+   "pinyin": "Wǒmen yìqǐ tiàowǔ ba!",
+   "vi": "Mình cùng nhảy nhé!"
+  }
+ },
+ {
+  "id": "hsk2-0094",
+  "hanzi": "游泳",
+  "pinyin": "yóu yǒng",
+  "pinyinPlain": "you2 yong3",
+  "meaningVi": "bơi",
+  "hanViet": "Du vịnh",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "你会游泳吗？",
+   "pinyin": "Nǐ huì yóuyǒng ma?",
+   "vi": "Em biết bơi không?"
+  }
+ },
+ {
+  "id": "hsk2-0095",
+  "hanzi": "跑步",
+  "pinyin": "pǎo bù",
+  "pinyinPlain": "pao3 bu4",
+  "meaningVi": "chạy bộ",
+  "hanViet": "Bào bộ",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "我每天早上跑步。",
+   "pinyin": "Wǒ měitiān zǎoshang pǎobù.",
+   "vi": "Sáng nào tôi cũng chạy bộ."
+  }
+ },
+ {
+  "id": "hsk2-0096",
+  "hanzi": "运动",
+  "pinyin": "yùn dòng",
+  "pinyinPlain": "yun4 dong4",
+  "meaningVi": "vận động, thể thao",
+  "hanViet": "Vận động",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "运动对身体好。",
+   "pinyin": "Yùndòng duì shēntǐ hǎo.",
+   "vi": "Vận động tốt cho sức khỏe."
+  }
+ },
+ {
+  "id": "hsk2-0097",
+  "hanzi": "打篮球",
+  "pinyin": "dǎ lán qiú",
+  "pinyinPlain": "da3 lan2 qiu2",
+  "meaningVi": "chơi bóng rổ",
+  "hanViet": "Đả lam cầu",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "他喜欢打篮球。",
+   "pinyin": "Tā xǐhuan dǎ lánqiú.",
+   "vi": "Anh ấy thích chơi bóng rổ."
+  }
+ },
+ {
+  "id": "hsk2-0098",
+  "hanzi": "踢足球",
+  "pinyin": "tī zú qiú",
+  "pinyinPlain": "ti1 zu2 qiu2",
+  "meaningVi": "đá bóng",
+  "hanViet": "Thích túc cầu",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "我们去踢足球吧。",
+   "pinyin": "Wǒmen qù tī zúqiú ba.",
+   "vi": "Chúng ta đi đá bóng đi."
+  }
+ },
+ {
+  "id": "hsk2-0099",
+  "hanzi": "玩",
+  "pinyin": "wán",
+  "pinyinPlain": "wan2",
+  "meaningVi": "chơi",
+  "hanViet": "Ngoạn",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "我们去玩吧！",
+   "pinyin": "Wǒmen qù wán ba!",
+   "vi": "Mình đi chơi nhé!"
+  }
+ },
+ {
+  "id": "hsk2-0100",
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "pinyinPlain": "xiao4",
+  "meaningVi": "cười",
+  "hanViet": "Tiếu",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "她笑了。",
+   "pinyin": "Tā xiào le.",
+   "vi": "Cô ấy cười rồi."
+  }
+ },
+ {
+  "id": "hsk2-0101",
+  "hanzi": "手机",
+  "pinyin": "shǒu jī",
+  "pinyinPlain": "shou3 ji1",
+  "meaningVi": "điện thoại di động",
+  "hanViet": "Thủ cơ",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "你的手机在哪儿？",
+   "pinyin": "Nǐ de shǒujī zài nǎr?",
+   "vi": "Điện thoại của em đâu?"
+  }
+ },
+ {
+  "id": "hsk2-0102",
+  "hanzi": "手表",
+  "pinyin": "shǒu biǎo",
+  "pinyinPlain": "shou3 biao3",
+  "meaningVi": "đồng hồ đeo tay",
+  "hanViet": "Thủ biểu",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "这是我送你的手表。",
+   "pinyin": "Zhè shì wǒ sòng nǐ de shǒubiǎo.",
+   "vi": "Đây là đồng hồ anh tặng em."
+  }
+ },
+ {
+  "id": "hsk2-0103",
+  "hanzi": "报纸",
+  "pinyin": "bào zhǐ",
+  "pinyinPlain": "bao4 zhi3",
+  "meaningVi": "báo",
+  "hanViet": "Báo chỉ",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "爸爸在看报纸。",
+   "pinyin": "Bàba zài kàn bàozhǐ.",
+   "vi": "Bố đang đọc báo."
+  }
+ },
+ {
+  "id": "hsk2-0104",
+  "hanzi": "铅笔",
+  "pinyin": "qiān bǐ",
+  "pinyinPlain": "qian1 bi3",
+  "meaningVi": "bút chì",
+  "hanViet": "Diên bút",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-hobby",
+  "example": {
+   "zh": "这是我的铅笔。",
+   "pinyin": "Zhè shì wǒ de qiānbǐ.",
+   "vi": "Đây là bút chì của tôi."
+  }
+ },
+ {
+  "id": "hsk2-0105",
+  "hanzi": "教室",
+  "pinyin": "jiào shì",
+  "pinyinPlain": "jiao4 shi4",
+  "meaningVi": "phòng học",
+  "hanViet": "Giáo thất",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "我们在教室学习。",
+   "pinyin": "Wǒmen zài jiàoshì xuéxí.",
+   "vi": "Chúng tôi học trong phòng học."
+  }
+ },
+ {
+  "id": "hsk2-0106",
+  "hanzi": "课",
+  "pinyin": "kè",
+  "pinyinPlain": "ke4",
+  "meaningVi": "bài học, tiết học",
+  "hanViet": "Khóa",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "我们上课吧。",
+   "pinyin": "Wǒmen shàng kè ba.",
+   "vi": "Chúng ta vào học thôi."
+  }
+ },
+ {
+  "id": "hsk2-0107",
+  "hanzi": "考试",
+  "pinyin": "kǎo shì",
+  "pinyinPlain": "kao3 shi4",
+  "meaningVi": "thi, kỳ thi",
+  "hanViet": "Khảo thí",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "明天有考试。",
+   "pinyin": "Míngtiān yǒu kǎoshì.",
+   "vi": "Ngày mai có bài thi."
+  }
+ },
+ {
+  "id": "hsk2-0108",
+  "hanzi": "题",
+  "pinyin": "tí",
+  "pinyinPlain": "ti2",
+  "meaningVi": "đề, câu hỏi bài tập",
+  "hanViet": "Đề",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "这个题我会。",
+   "pinyin": "Zhège tí wǒ huì.",
+   "vi": "Câu này em làm được."
+  }
+ },
+ {
+  "id": "hsk2-0109",
+  "hanzi": "问题",
+  "pinyin": "wèn tí",
+  "pinyinPlain": "wen4 ti2",
+  "meaningVi": "câu hỏi; vấn đề",
+  "hanViet": "Vấn đề",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "我有一个问题。",
+   "pinyin": "Wǒ yǒu yí ge wèntí.",
+   "vi": "Tôi có một câu hỏi."
+  }
+ },
+ {
+  "id": "hsk2-0110",
+  "hanzi": "问",
+  "pinyin": "wèn",
+  "pinyinPlain": "wen4",
+  "meaningVi": "hỏi",
+  "hanViet": "Vấn",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "我可以问你吗？",
+   "pinyin": "Wǒ kěyǐ wèn nǐ ma?",
+   "vi": "Anh hỏi em được không?"
+  }
+ },
+ {
+  "id": "hsk2-0111",
+  "hanzi": "懂",
+  "pinyin": "dǒng",
+  "pinyinPlain": "dong3",
+  "meaningVi": "hiểu",
+  "hanViet": "Đổng",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "你懂了吗？",
+   "pinyin": "Nǐ dǒng le ma?",
+   "vi": "Em hiểu chưa?"
+  }
+ },
+ {
+  "id": "hsk2-0112",
+  "hanzi": "知道",
+  "pinyin": "zhī dào",
+  "pinyinPlain": "zhi1 dao4",
+  "meaningVi": "biết",
+  "hanViet": "Tri đạo",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "我知道了。",
+   "pinyin": "Wǒ zhīdào le.",
+   "vi": "Anh biết rồi."
+  }
+ },
+ {
+  "id": "hsk2-0113",
+  "hanzi": "意思",
+  "pinyin": "yì si",
+  "pinyinPlain": "yi4 si",
+  "meaningVi": "ý nghĩa",
+  "hanViet": "Ý tứ",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "这个字是什么意思？",
+   "pinyin": "Zhège zì shì shénme yìsi?",
+   "vi": "Chữ này nghĩa là gì?"
+  }
+ },
+ {
+  "id": "hsk2-0114",
+  "hanzi": "介绍",
+  "pinyin": "jiè shào",
+  "pinyinPlain": "jie4 shao4",
+  "meaningVi": "giới thiệu",
+  "hanViet": "Giới thiệu",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "我来介绍一下。",
+   "pinyin": "Wǒ lái jièshào yíxià.",
+   "vi": "Để tôi giới thiệu một chút."
+  }
+ },
+ {
+  "id": "hsk2-0115",
+  "hanzi": "公司",
+  "pinyin": "gōng sī",
+  "pinyinPlain": "gong1 si1",
+  "meaningVi": "công ty",
+  "hanViet": "Công ty",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "他在公司上班。",
+   "pinyin": "Tā zài gōngsī shàngbān.",
+   "vi": "Anh ấy đi làm ở công ty."
+  }
+ },
+ {
+  "id": "hsk2-0116",
+  "hanzi": "事情",
+  "pinyin": "shì qing",
+  "pinyinPlain": "shi4 qing",
+  "meaningVi": "việc, sự việc",
+  "hanViet": "Sự tình",
+  "pos": "danh từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "你有什么事情？",
+   "pinyin": "Nǐ yǒu shénme shìqing?",
+   "vi": "Em có việc gì thế?"
+  }
+ },
+ {
+  "id": "hsk2-0117",
+  "hanzi": "说话",
+  "pinyin": "shuō huà",
+  "pinyinPlain": "shuo1 hua4",
+  "meaningVi": "nói chuyện",
+  "hanViet": "Thuyết thoại",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "别说话！",
+   "pinyin": "Bié shuōhuà!",
+   "vi": "Đừng nói chuyện!"
+  }
+ },
+ {
+  "id": "hsk2-0118",
+  "hanzi": "告诉",
+  "pinyin": "gào su",
+  "pinyinPlain": "gao4 su",
+  "meaningVi": "nói cho biết",
+  "hanViet": "Cáo tố",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "告诉我，你想要什么？",
+   "pinyin": "Gàosu wǒ, nǐ xiǎng yào shénme?",
+   "vi": "Nói anh nghe, em muốn gì?"
+  }
+ },
+ {
+  "id": "hsk2-0119",
+  "hanzi": "准备",
+  "pinyin": "zhǔn bèi",
+  "pinyinPlain": "zhun3 bei4",
+  "meaningVi": "chuẩn bị",
+  "hanViet": "Chuẩn bị",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "你准备好了吗？",
+   "pinyin": "Nǐ zhǔnbèi hǎo le ma?",
+   "vi": "Em chuẩn bị xong chưa?"
+  }
+ },
+ {
+  "id": "hsk2-0120",
+  "hanzi": "帮助",
+  "pinyin": "bāng zhù",
+  "pinyinPlain": "bang1 zhu4",
+  "meaningVi": "giúp đỡ",
+  "hanViet": "Bang trợ",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "谢谢你的帮助。",
+   "pinyin": "Xièxie nǐ de bāngzhù.",
+   "vi": "Cảm ơn sự giúp đỡ của bạn."
+  }
+ },
+ {
+  "id": "hsk2-0121",
+  "hanzi": "找",
+  "pinyin": "zhǎo",
+  "pinyinPlain": "zhao3",
+  "meaningVi": "tìm",
+  "hanViet": "Trảo",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-school",
+  "example": {
+   "zh": "你找谁？",
+   "pinyin": "Nǐ zhǎo shéi?",
+   "vi": "Bạn tìm ai?"
+  }
+ },
+ {
+  "id": "hsk2-0122",
+  "hanzi": "穿",
+  "pinyin": "chuān",
+  "pinyinPlain": "chuan1",
+  "meaningVi": "mặc",
+  "hanViet": "Xuyên",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "今天很冷，多穿衣服。",
+   "pinyin": "Jīntiān hěn lěng, duō chuān yīfu.",
+   "vi": "Hôm nay lạnh, mặc thêm áo nhé."
+  }
+ },
+ {
+  "id": "hsk2-0123",
+  "hanzi": "洗",
+  "pinyin": "xǐ",
+  "pinyinPlain": "xi3",
+  "meaningVi": "rửa, giặt",
+  "hanViet": "Tẩy",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "我去洗衣服。",
+   "pinyin": "Wǒ qù xǐ yīfu.",
+   "vi": "Tôi đi giặt quần áo."
+  }
+ },
+ {
+  "id": "hsk2-0124",
+  "hanzi": "送",
+  "pinyin": "sòng",
+  "pinyinPlain": "song4",
+  "meaningVi": "tặng; tiễn, đưa",
+  "hanViet": "Tống",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "我送你回家。",
+   "pinyin": "Wǒ sòng nǐ huí jiā.",
+   "vi": "Anh đưa em về nhà."
+  }
+ },
+ {
+  "id": "hsk2-0125",
+  "hanzi": "给",
+  "pinyin": "gěi",
+  "pinyinPlain": "gei3",
+  "meaningVi": "cho, đưa",
+  "hanViet": "Cấp",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "给你！",
+   "pinyin": "Gěi nǐ!",
+   "vi": "Cho em này!"
+  }
+ },
+ {
+  "id": "hsk2-0126",
+  "hanzi": "等",
+  "pinyin": "děng",
+  "pinyinPlain": "deng3",
+  "meaningVi": "đợi",
+  "hanViet": "Đẳng",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "等我一下。",
+   "pinyin": "Děng wǒ yíxià.",
+   "vi": "Đợi anh một chút."
+  }
+ },
+ {
+  "id": "hsk2-0127",
+  "hanzi": "让",
+  "pinyin": "ràng",
+  "pinyinPlain": "rang4",
+  "meaningVi": "để, bảo, nhường",
+  "hanViet": "Nhượng",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "让我想一想。",
+   "pinyin": "Ràng wǒ xiǎng yi xiǎng.",
+   "vi": "Để anh nghĩ một chút."
+  }
+ },
+ {
+  "id": "hsk2-0128",
+  "hanzi": "希望",
+  "pinyin": "xī wàng",
+  "pinyinPlain": "xi1 wang4",
+  "meaningVi": "hy vọng, mong",
+  "hanViet": "Hy vọng",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "我希望你快乐。",
+   "pinyin": "Wǒ xīwàng nǐ kuàilè.",
+   "vi": "Anh mong em luôn vui."
+  }
+ },
+ {
+  "id": "hsk2-0129",
+  "hanzi": "觉得",
+  "pinyin": "jué de",
+  "pinyinPlain": "jue2 de",
+  "meaningVi": "cảm thấy",
+  "hanViet": "Giác đắc",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "我觉得你很可爱。",
+   "pinyin": "Wǒ juéde nǐ hěn kě'ài.",
+   "vi": "Anh thấy em rất dễ thương."
+  }
+ },
+ {
+  "id": "hsk2-0130",
+  "hanzi": "可以",
+  "pinyin": "kě yǐ",
+  "pinyinPlain": "ke3 yi3",
+  "meaningVi": "có thể, được",
+  "hanViet": "Khả dĩ",
+  "pos": "động từ năng nguyện",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "我可以坐这儿吗？",
+   "pinyin": "Wǒ kěyǐ zuò zhèr ma?",
+   "vi": "Tôi ngồi đây được không?"
+  }
+ },
+ {
+  "id": "hsk2-0131",
+  "hanzi": "可能",
+  "pinyin": "kě néng",
+  "pinyinPlain": "ke3 neng2",
+  "meaningVi": "có lẽ",
+  "hanViet": "Khả năng",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "明天可能下雨。",
+   "pinyin": "Míngtiān kěnéng xià yǔ.",
+   "vi": "Ngày mai có lẽ mưa."
+  }
+ },
+ {
+  "id": "hsk2-0132",
+  "hanzi": "出",
+  "pinyin": "chū",
+  "pinyinPlain": "chu1",
+  "meaningVi": "ra",
+  "hanViet": "Xuất",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "他出去了。",
+   "pinyin": "Tā chūqu le.",
+   "vi": "Anh ấy ra ngoài rồi."
+  }
+ },
+ {
+  "id": "hsk2-0133",
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "pinyinPlain": "jin4",
+  "meaningVi": "vào",
+  "hanViet": "Tiến",
+  "pos": "động từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "请进！",
+   "pinyin": "Qǐng jìn!",
+   "vi": "Mời vào!"
+  }
+ },
+ {
+  "id": "hsk2-0134",
+  "hanzi": "一起",
+  "pinyin": "yì qǐ",
+  "pinyinPlain": "yi4 qi3",
+  "meaningVi": "cùng nhau",
+  "hanViet": "Nhất khởi",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "我们一起吃饭吧。",
+   "pinyin": "Wǒmen yìqǐ chī fàn ba.",
+   "vi": "Mình cùng ăn cơm nhé."
+  }
+ },
+ {
+  "id": "hsk2-0135",
+  "hanzi": "一下",
+  "pinyin": "yí xià",
+  "pinyinPlain": "yi2 xia4",
+  "meaningVi": "một chút, thử",
+  "hanViet": "Nhất hạ",
+  "pos": "số lượng từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "你看一下。",
+   "pinyin": "Nǐ kàn yíxià.",
+   "vi": "Em xem thử đi."
+  }
+ },
+ {
+  "id": "hsk2-0136",
+  "hanzi": "再",
+  "pinyin": "zài",
+  "pinyinPlain": "zai4",
+  "meaningVi": "lại, nữa",
+  "hanViet": "Tái",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "再说一次。",
+   "pinyin": "Zài shuō yí cì.",
+   "vi": "Nói lại lần nữa."
+  }
+ },
+ {
+  "id": "hsk2-0137",
+  "hanzi": "还",
+  "pinyin": "hái",
+  "pinyinPlain": "hai2",
+  "meaningVi": "còn, vẫn",
+  "hanViet": "Hoàn",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "你还在学习吗？",
+   "pinyin": "Nǐ hái zài xuéxí ma?",
+   "vi": "Em vẫn đang học à?"
+  }
+ },
+ {
+  "id": "hsk2-0138",
+  "hanzi": "也",
+  "pinyin": "yě",
+  "pinyinPlain": "ye3",
+  "meaningVi": "cũng",
+  "hanViet": "Dã",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "我也爱你。",
+   "pinyin": "Wǒ yě ài nǐ.",
+   "vi": "Anh cũng yêu em."
+  }
+ },
+ {
+  "id": "hsk2-0139",
+  "hanzi": "就",
+  "pinyin": "jiù",
+  "pinyinPlain": "jiu4",
+  "meaningVi": "liền, thì, ngay",
+  "hanViet": "Tựu",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-actions",
+  "example": {
+   "zh": "我就在这儿。",
+   "pinyin": "Wǒ jiù zài zhèr.",
+   "vi": "Anh ở ngay đây."
+  }
+ },
+ {
+  "id": "hsk2-0140",
+  "hanzi": "吧",
+  "pinyin": "ba",
+  "pinyinPlain": "ba",
+  "meaningVi": "nhé, đi (trợ từ gợi ý)",
+  "hanViet": "Ba",
+  "pos": "trợ từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "好吧。",
+   "pinyin": "Hǎo ba.",
+   "vi": "Thôi được."
+  }
+ },
+ {
+  "id": "hsk2-0141",
+  "hanzi": "得",
+  "pinyin": "de",
+  "pinyinPlain": "de",
+  "meaningVi": "(trợ từ bổ ngữ mức độ)",
+  "hanViet": "Đắc",
+  "pos": "trợ từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "你说得很好。",
+   "pinyin": "Nǐ shuō de hěn hǎo.",
+   "vi": "Em nói rất hay."
+  }
+ },
+ {
+  "id": "hsk2-0142",
+  "hanzi": "着",
+  "pinyin": "zhe",
+  "pinyinPlain": "zhe",
+  "meaningVi": "đang (trợ từ trạng thái)",
+  "hanViet": "Trước",
+  "pos": "trợ từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "门开着。",
+   "pinyin": "Mén kāi zhe.",
+   "vi": "Cửa đang mở."
+  }
+ },
+ {
+  "id": "hsk2-0143",
+  "hanzi": "过",
+  "pinyin": "guo",
+  "pinyinPlain": "guo",
+  "meaningVi": "đã từng (trợ từ kinh nghiệm)",
+  "hanViet": "Quá",
+  "pos": "trợ từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "我去过北京。",
+   "pinyin": "Wǒ qù guo Běijīng.",
+   "vi": "Tôi đã từng đến Bắc Kinh."
+  }
+ },
+ {
+  "id": "hsk2-0144",
+  "hanzi": "从",
+  "pinyin": "cóng",
+  "pinyinPlain": "cong2",
+  "meaningVi": "từ",
+  "hanViet": "Tùng",
+  "pos": "giới từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "我从越南来。",
+   "pinyin": "Wǒ cóng Yuènán lái.",
+   "vi": "Tôi đến từ Việt Nam."
+  }
+ },
+ {
+  "id": "hsk2-0145",
+  "hanzi": "比",
+  "pinyin": "bǐ",
+  "pinyinPlain": "bi3",
+  "meaningVi": "so với, hơn",
+  "hanViet": "Bỉ",
+  "pos": "giới từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "哥哥比我高。",
+   "pinyin": "Gēge bǐ wǒ gāo.",
+   "vi": "Anh trai cao hơn tôi."
+  }
+ },
+ {
+  "id": "hsk2-0146",
+  "hanzi": "为什么",
+  "pinyin": "wèi shén me",
+  "pinyinPlain": "wei4 shen2 me",
+  "meaningVi": "tại sao",
+  "hanViet": "Vị thập ma",
+  "pos": "đại từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "你为什么不高兴？",
+   "pinyin": "Nǐ wèishénme bù gāoxìng?",
+   "vi": "Sao em không vui?"
+  }
+ },
+ {
+  "id": "hsk2-0147",
+  "hanzi": "因为",
+  "pinyin": "yīn wèi",
+  "pinyinPlain": "yin1 wei4",
+  "meaningVi": "bởi vì",
+  "hanViet": "Nhân vị",
+  "pos": "liên từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "因为下雨，所以我不去。",
+   "pinyin": "Yīnwèi xià yǔ, suǒyǐ wǒ bú qù.",
+   "vi": "Vì trời mưa nên tôi không đi."
+  }
+ },
+ {
+  "id": "hsk2-0148",
+  "hanzi": "所以",
+  "pinyin": "suǒ yǐ",
+  "pinyinPlain": "suo3 yi3",
+  "meaningVi": "cho nên",
+  "hanViet": "Sở dĩ",
+  "pos": "liên từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "我很累，所以想睡觉。",
+   "pinyin": "Wǒ hěn lèi, suǒyǐ xiǎng shuìjiào.",
+   "vi": "Anh mệt nên muốn ngủ."
+  }
+ },
+ {
+  "id": "hsk2-0149",
+  "hanzi": "虽然",
+  "pinyin": "suī rán",
+  "pinyinPlain": "sui1 ran2",
+  "meaningVi": "tuy rằng",
+  "hanViet": "Tuy nhiên",
+  "pos": "liên từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "虽然很忙，但是我很快乐。",
+   "pinyin": "Suīrán hěn máng, dànshì wǒ hěn kuàilè.",
+   "vi": "Tuy bận nhưng tôi rất vui."
+  }
+ },
+ {
+  "id": "hsk2-0150",
+  "hanzi": "但是",
+  "pinyin": "dàn shì",
+  "pinyinPlain": "dan4 shi4",
+  "meaningVi": "nhưng",
+  "hanViet": "Đãn thị",
+  "pos": "liên từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "我想去，但是没有时间。",
+   "pinyin": "Wǒ xiǎng qù, dànshì méiyǒu shíjiān.",
+   "vi": "Tôi muốn đi nhưng không có thời gian."
+  }
+ },
+ {
+  "id": "hsk2-0151",
+  "hanzi": "别",
+  "pinyin": "bié",
+  "pinyinPlain": "bie2",
+  "meaningVi": "đừng",
+  "hanViet": "Biệt",
+  "pos": "phó từ",
+  "level": 2,
+  "topicId": "h2-grammar",
+  "example": {
+   "zh": "别走！",
+   "pinyin": "Bié zǒu!",
+   "vi": "Đừng đi!"
+  }
+ }
+]

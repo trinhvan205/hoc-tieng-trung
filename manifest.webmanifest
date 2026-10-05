@@ -1,0 +1,16 @@
+{
+  "name": "Học tiếng Trung cùng anh",
+  "short_name": "Học Trung",
+  "description": "Học 300 từ HSK 1–2 mỗi ngày 10–15 phút",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#C8473D",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
