@@ -1,5 +1,6 @@
 // Mảnh giao diện dùng lại giữa các màn hình.
-import { h } from '../util.js';
+import { h, confetti, hearts, pick } from '../util.js';
+import { data, fill } from '../data.js';
 import { speaker } from '../audio.js';
 import { isLearned, isMastered } from '../srs.js';
 import { S } from '../store.js';
@@ -47,6 +48,7 @@ export function wordRow(w, { href, extra } = {}) {
 
 export function praiseScreen({ icon = '🎉', title, text, actions = [] }) {
   const photo = photoOfDay(Math.floor(Math.random() * 6));
+  setTimeout(() => confetti(), 120);
   return h('div', { class: 'card done-card' },
     photo ? h('div', { class: 'done-photo' }, h('img', { src: photo, alt: 'Ảnh của hai bạn', style: { width: '120px', height: '120px', objectFit: 'cover', borderRadius: '50%' } }), h('span', null, icon))
       : h('div', { class: 'done-icon' }, icon),
@@ -56,3 +58,20 @@ export function praiseScreen({ icon = '🎉', title, text, actions = [] }) {
 }
 
 export const btn = (label, href, cls = 'btn') => h('a', { class: cls, href }, label);
+
+// Bé gấu trúc cổ vũ: chạm vào để nghe câu khác, kèm tim bay.
+export function mascot() {
+  const lines = (data().personal.mascot || ['Cố lên nha! 加油！']).map(fill);
+  let last = '';
+  const say = () => { let t; do { t = pick(lines); } while (t === last && lines.length > 1); last = t; return t; };
+  const bubble = h('div', { class: 'mascot-bubble', 'aria-live': 'polite' }, say());
+  const face = h('button', { class: 'mascot-face', 'aria-label': 'Bé gấu trúc' }, '🐼');
+  face.addEventListener('click', () => {
+    bubble.textContent = say();
+    face.classList.remove('boing');
+    void face.offsetWidth;
+    face.classList.add('boing');
+    hearts(face);
+  });
+  return h('div', { class: 'mascot' }, face, bubble);
+}

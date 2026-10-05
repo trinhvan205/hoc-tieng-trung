@@ -3,7 +3,7 @@ import { h, ring, today } from '../util.js';
 import { S, day, streak } from '../store.js';
 import { data, greeting, nextTopic, topicInfo } from '../data.js';
 import { dueIds } from '../srs.js';
-import { wordDetail } from './parts.js';
+import { wordDetail, mascot } from './parts.js';
 import { photoOfDay } from '../photos.js';
 
 function wordOfDay() {
@@ -34,8 +34,9 @@ export default function home() {
     h('section', { class: `hello${photo ? ' hello-photo' : ''}` },
       photo ? h('img', { class: 'hello-img', src: photo, alt: 'Ảnh của hai bạn', style: { width: '100%', aspectRatio: '4 / 3', objectFit: 'cover' } }) : null,
       h('p', { class: 'hello-text' }, greeting())),
+    mascot(),
     h('section', { class: 'card today' },
-      ring(pct, pct >= 1 ? 'Xong! 🎉' : `${d.cards}/${goal}`, pct >= 1 ? 'mục tiêu hôm nay' : 'thẻ hôm nay'),
+      ring(pct, pct >= 1 ? '🎉' : `${d.cards}/${goal}`, pct >= 1 ? 'xong mục tiêu!' : 'thẻ hôm nay'),
       h('div', { class: 'today-stats' },
         h('div', { class: 'stat' }, h('strong', null, `🔥 ${st}`), h('small', null, 'ngày liên tiếp')),
         h('div', { class: 'stat' }, h('strong', null, `📬 ${due}`), h('small', null, 'thẻ đến hạn')),

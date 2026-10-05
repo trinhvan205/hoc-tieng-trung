@@ -71,6 +71,7 @@ export function applyTheme() {
   const t = state.profile.theme;
   if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
   else delete document.documentElement.dataset.theme;
+  document.documentElement.classList.toggle('no-fx', state.profile.effects === false);
 }
 
 export function exportBackup() {

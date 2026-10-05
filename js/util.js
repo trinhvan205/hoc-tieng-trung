@@ -50,9 +50,29 @@ export function toast(msg, ms = 2400) {
   toastTimer = setTimeout(() => el.classList.remove('show'), ms);
 }
 
+// Hiệu ứng tắt khi người dùng tắt trong Cài đặt hoặc máy bật "Giảm chuyển động".
+export const fxOff = () => document.documentElement.classList.contains('no-fx')
+  || matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+// Mưa tim và lấp lánh rơi từ trên xuống khi học xong một buổi.
+export function confetti(count = 26) {
+  if (fxOff()) return;
+  const items = ['💖', '💕', '✨', '🌸', '💗', '⭐', '🎀'];
+  for (let i = 0; i < count; i++) {
+    const s = h('span', { class: 'confetti-fx' }, pick(items));
+    s.style.left = `${Math.random() * 100}vw`;
+    s.style.fontSize = `${14 + Math.random() * 16}px`;
+    s.style.animationDuration = `${1.8 + Math.random() * 1.4}s`;
+    s.style.animationDelay = `${Math.random() * 400}ms`;
+    s.style.setProperty('--drift', `${Math.random() * 80 - 40}px`);
+    document.body.append(s);
+    setTimeout(() => s.remove(), 3800);
+  }
+}
+
 // Mấy trái tim nhỏ bay lên khi trả lời đúng.
 export function hearts(anchor) {
-  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  if (fxOff()) return;
   const r = anchor?.getBoundingClientRect?.() || { left: innerWidth / 2, top: innerHeight / 2, width: 0, height: 0 };
   for (let i = 0; i < 6; i++) {
     const s = h('span', { class: 'heart-fx' }, pick(['💕', '💗', '✨', '💖']));

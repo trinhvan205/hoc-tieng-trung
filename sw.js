@@ -1,6 +1,6 @@
 // Service worker: tải sẵn toàn bộ web + dữ liệu nét chữ để học được khi mất mạng.
 // Sửa mã xong thì tăng VERSION để máy người dùng nhận bản mới.
-const VERSION = 'v4';
+const VERSION = 'v5';
 const CACHE = `hoc-tieng-trung-${VERSION}`;
 const FONT_CACHE = 'hoc-tieng-trung-fonts';
 

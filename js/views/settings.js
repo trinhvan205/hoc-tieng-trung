@@ -110,6 +110,8 @@ export default function settings() {
       h('button', { class: 'btn', onclick: () => speak('你好，我爱你') }, '🔊 Thử âm thanh'),
       h('small', { class: 'muted' }, 'Không nghe thấy? Trên iPhone hãy gạt nút im lặng bên hông máy sang chế độ chuông (không thấy vạch cam) và tăng âm lượng.'),
       h('div', { class: 'field field-inline' }, h('span', { class: 'field-label' }, 'Hiện pinyin trên mặt thẻ'), toggle(p.showPinyin, v => set('showPinyin', v))),
+      h('div', { class: 'field field-inline' }, h('span', { class: 'field-label' }, 'Hiệu ứng dễ thương 💕'),
+        toggle(p.effects !== false, v => { set('effects', v); applyTheme(); })),
       field('Giao diện', select(p.theme, [['auto', 'Theo máy'], ['light', 'Sáng'], ['dark', 'Tối']], v => { set('theme', v); applyTheme(); }))),
     h('section', { class: 'card stack' },
       h('h3', { class: 'section-title' }, '💾 Sao lưu'),

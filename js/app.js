@@ -44,7 +44,15 @@ async function render() {
     screen = await make(match);
   } catch (e) {
     console.error(e);
-    screen = { title: 'Có lỗi', node: h('div', { class: 'card empty' }, h('p', null, 'Có lỗi khi mở trang này.'), h('a', { class: 'btn', href: '#/' }, 'Về Trang chủ')) };
+    // Vừa có bản mới mà máy còn giữ vài file cũ: tải lại trang một lần là khớp.
+    try {
+      if (!sessionStorage.getItem('reloaded-once')) {
+        sessionStorage.setItem('reloaded-once', '1');
+        location.reload();
+        return;
+      }
+    } catch { /* bỏ qua */ }
+    screen = { title: 'Có lỗi', failed: true, node: h('div', { class: 'card empty' }, h('p', null, 'Có lỗi khi mở trang này.'), h('a', { class: 'btn', href: '#/' }, 'Về Trang chủ')) };
   }
   if (id !== renderId) { screen.leave?.(); return; }
 
@@ -58,6 +66,7 @@ async function render() {
   document.body.classList.toggle('no-tabs', !!screen.hideTabs);
   for (const a of tabbar.querySelectorAll('a')) a.classList.toggle('active', a.dataset.tab === screen.tab);
   view.replaceChildren(screen.node);
+  if (!screen.failed) try { sessionStorage.removeItem('reloaded-once'); } catch { /* bỏ qua */ }
   view.scrollTop = 0;
   window.scrollTo(0, 0);
 }

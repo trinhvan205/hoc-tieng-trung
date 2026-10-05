@@ -102,6 +102,7 @@ export default function flashcard({ query }) {
     if (flipped) return;
     flipped = true;
     stage.querySelector('.flash')?.classList.add('flipped');
+    stage.querySelector('.flash')?.classList.add('sparkle');
     actions.replaceChildren(
       h('button', { class: 'grade grade-again', onclick: () => answer('again') }, h('strong', null, 'Quên'), h('small', null, '← vuốt trái')),
       h('button', { class: 'grade grade-hard', onclick: () => answer('hard') }, h('strong', null, 'Khó'), h('small', null, 'ôn mai')),
