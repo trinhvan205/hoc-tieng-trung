@@ -42,7 +42,7 @@ function makeQuestions(words, n) {
 export default function quiz({ params }) {
   const D = data();
   let words, n, key, title, backTo;
-  const hsk = params.id.match(/^hsk([12])$/);
+  const hsk = params.id.match(/^hsk([123])$/);
   if (hsk) {
     const lv = Number(hsk[1]);
     words = D.words.filter(w => w.level === lv);

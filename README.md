@@ -1,15 +1,17 @@
 # Học tiếng Trung cùng anh 💕
 
-Web tĩnh học 300 từ HSK 1–2 (cộng chủ đề Tình yêu), dùng trên điện thoại, không cần đăng nhập, tiến độ lưu ngay trên máy và học được khi mất mạng.
+Web tĩnh học khoảng 600 từ HSK 1–3 (cộng chủ đề Tình yêu), dùng trên điện thoại, không cần đăng nhập, tiến độ lưu ngay trên máy và học được khi mất mạng.
 
 ## Có gì bên trong
 
-- **Bài học:** 315 từ chia 20 chủ đề, mỗi từ có chữ Hán, pinyin, nghĩa Việt, âm Hán Việt, câu ví dụ, nút loa. Chủ đề sau mở khi học xong chủ đề trước (chủ đề Tình yêu luôn mở).
+- **Bài học:** 604 từ chia 36 chủ đề (HSK 1, 2, 3 và Tình yêu), mỗi từ có chữ Hán, pinyin, nghĩa Việt, âm Hán Việt, câu ví dụ, nút loa. Chủ đề sau mở khi học xong chủ đề trước (chủ đề Tình yêu luôn mở).
 - **Flashcard:** hộp Leitner 6 mức (0 → 1 → 2 → 4 → 8 → 16 ngày), ba kiểu thẻ, vuốt trái/phải để chọn Quên/Nhớ.
-- **Luyện viết:** Hanzi Writer, ba bước xem mẫu → tô theo nét → tự viết trên ô 田, dữ liệu nét tải sẵn cho 355 chữ.
-- **Kiểm tra:** 10 câu cuối chủ đề, 30 câu tổng hợp HSK 1 và HSK 2, 4 dạng câu hỏi.
+- **Luyện viết:** Hanzi Writer, ba bước xem mẫu → tô theo nét → tự viết trên ô 田, dữ liệu nét tải sẵn cho 621 chữ.
+- **Kiểm tra:** 10 câu cuối chủ đề, 30 câu tổng hợp HSK 1, 2, 3, 4 dạng câu hỏi.
 - **Pinyin:** 4 thanh + thanh nhẹ, bảng âm tiết chạm để nghe, ghi chú so với tiếng Việt, game nghe thanh.
 - **Tiến độ:** số từ đã học/đã thuộc, chuỗi ngày, lịch 30 ngày, huy hiệu, xuất/nhập sao lưu.
+- **Ảnh của hai bạn:** chọn trong Cài đặt, chỉ lưu trên máy (không nằm trong repo).
+- **Nhắc học mỗi ngày:** nút tạo lịch lặp lại hằng ngày (.ics) để app Lịch nhắc.
 
 ## Chạy thử trên máy
 
@@ -32,7 +34,7 @@ Sau mỗi lần sửa mã, tăng `VERSION` trong `sw.js` để điện thoại n
 ## Sửa nội dung
 
 - **Tên gọi, lời chào, lời khen, lời nhắn huy hiệu:** sửa `data/personal.json` (`{name}` sẽ được thay bằng tên).
-- **Từ vựng:** sửa `tools/words-source.txt` rồi chạy `python tools/build_data.py --strokes` để tạo lại `data/words.json`, `data/topics.json` và tải nét chữ mới.
+- **Từ vựng:** sửa `tools/words-source.txt` (HSK 1–2, Tình yêu) hoặc `tools/words-hsk3.txt` rồi chạy `python tools/build_data.py --strokes` để tạo lại `data/words.json`, `data/topics.json` và tải nét chữ mới.
 - **Biểu tượng app:** `python tools/make_icons.py` (cần Pillow).
 
 ## Cấu trúc

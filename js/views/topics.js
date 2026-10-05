@@ -29,6 +29,7 @@ export default function topics({ query }) {
     { title: '💕 Đặc biệt', items: data().topics.filter(t => t.level === 'love') },
     { title: 'HSK 1', items: data().topics.filter(t => t.level === 1) },
     { title: 'HSK 2', items: data().topics.filter(t => t.level === 2) },
+    { title: 'HSK 3', items: data().topics.filter(t => t.level === 3) },
   ];
   const list = h('div', { class: 'stack-lg' }, groups.map(g =>
     h('section', null, h('h3', { class: 'section-title' }, g.title), h('div', { class: 'stack' }, g.items.map(topicCard)))));

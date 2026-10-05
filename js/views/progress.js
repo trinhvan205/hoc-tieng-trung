@@ -13,7 +13,7 @@ export default function progress() {
 
   const levels = h('section', { class: 'card stack' },
     h('h3', { class: 'section-title' }, '📚 Từ vựng'),
-    [1, 2, 0].filter(lv => s.byLevel[lv]).map(lv => {
+    [1, 2, 3, 0].filter(lv => s.byLevel[lv]).map(lv => {
       const x = s.byLevel[lv];
       return h('div', { class: 'level-row' },
         h('div', { class: 'level-head' }, h('strong', null, lv === 0 ? 'Tình yêu (ngoài HSK)' : levelLabel(lv)),

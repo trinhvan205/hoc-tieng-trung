@@ -7,7 +7,8 @@ import json, sys, unicodedata, urllib.request, urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "tools" / "words-source.txt"
+# Thứ tự file quyết định thứ tự chủ đề; chỉ thêm file mới ở cuối để id cũ không đổi.
+SOURCES = [ROOT / "tools" / "words-source.txt", ROOT / "tools" / "words-hsk3.txt"]
 DATA = ROOT / "data"
 STROKES_URL = "https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0.1/{}.json"
 
@@ -32,9 +33,10 @@ def plain(pinyin):
 
 
 def parse():
-    topics, words, counters = [], [], {0: 0, 1: 0, 2: 0}
+    topics, words, counters = [], [], {0: 0, 1: 0, 2: 0, 3: 0}
     topic = None
-    for n, line in enumerate(SRC.read_text(encoding="utf-8").splitlines(), 1):
+    lines = [(src.name, n, line) for src in SOURCES for n, line in enumerate(src.read_text(encoding="utf-8").splitlines(), 1)]
+    for fname, n, line in lines:
         line = line.strip()
         if not line or (line.startswith("#") and not line.startswith("##")):
             continue
@@ -47,7 +49,7 @@ def parse():
             continue
         parts = line.split("|")
         if len(parts) not in (8, 9):
-            sys.exit(f"Dòng {n}: cần 8 hoặc 9 trường, có {len(parts)}: {line}")
+            sys.exit(f"{fname} dòng {n}: cần 8 hoặc 9 trường, có {len(parts)}: {line}")
         hanzi, pinyin, meaning, hanviet, pos, ex_zh, ex_py, ex_vi = [p.strip() for p in parts[:8]]
         level = int(parts[8]) if len(parts) == 9 else topic["level"]
         counters[level] += 1
@@ -106,8 +108,8 @@ def main():
     (DATA / "words.json").write_text(json.dumps(words, ensure_ascii=False, indent=1), encoding="utf-8")
     (DATA / "topics.json").write_text(json.dumps(topics, ensure_ascii=False, indent=1), encoding="utf-8")
     chars = sorted({c for w in words for c in w["hanzi"]} - {"〇"})
-    by_level = {lv: sum(1 for w in words if w["level"] == lv) for lv in (1, 2, 0)}
-    print(f"{len(words)} từ (HSK1 {by_level[1]}, HSK2 {by_level[2]}, ngoài HSK {by_level[0]}), "
+    by_level = {lv: sum(1 for w in words if w["level"] == lv) for lv in (1, 2, 3, 0)}
+    print(f"{len(words)} từ (HSK1 {by_level[1]}, HSK2 {by_level[2]}, HSK3 {by_level[3]}, ngoài HSK {by_level[0]}), "
           f"{len(topics)} chủ đề, {len(chars)} chữ Hán khác nhau")
     if "--strokes" in sys.argv:
         download_strokes(chars)

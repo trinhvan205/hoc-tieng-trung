@@ -15,6 +15,7 @@ export default function practice() {
     tile('#/pinyin', '🔤', 'Bảng pinyin', '4 thanh và cách đọc'),
     tile('#/tones', '🎧', 'Game nghe thanh', 'Nghe rồi chọn thanh 1–4'),
     tile('#/quiz/hsk1', '📝', 'Tổng hợp HSK 1', best('hsk1-test') != null ? `Cao nhất ${best('hsk1-test')}/30` : '30 câu'),
-    tile('#/quiz/hsk2', '🏅', 'Tổng hợp HSK 2', best('hsk2-test') != null ? `Cao nhất ${best('hsk2-test')}/30` : '30 câu'));
+    tile('#/quiz/hsk2', '🏅', 'Tổng hợp HSK 2', best('hsk2-test') != null ? `Cao nhất ${best('hsk2-test')}/30` : '30 câu'),
+    tile('#/quiz/hsk3', '🏆', 'Tổng hợp HSK 3', best('hsk3-test') != null ? `Cao nhất ${best('hsk3-test')}/30` : '30 câu'));
   return { title: 'Luyện tập', tab: 'practice', node };
 }

@@ -4,6 +4,7 @@ import { S, day, streak } from '../store.js';
 import { data, greeting, nextTopic, topicInfo } from '../data.js';
 import { dueIds } from '../srs.js';
 import { wordDetail } from './parts.js';
+import { photoOfDay } from '../photos.js';
 
 function wordOfDay() {
   const words = data().words;
@@ -28,8 +29,10 @@ export default function home() {
     : h('a', { class: 'btn', href: '#/practice' }, 'Đã học hết, vào Luyện tập');
 
   const w = wordOfDay();
+  const photo = photoOfDay();
   const node = h('div', { class: 'stack-lg' },
-    h('section', { class: 'hello' },
+    h('section', { class: `hello${photo ? ' hello-photo' : ''}` },
+      photo ? h('img', { class: 'hello-img', src: photo, alt: 'Ảnh của hai bạn' }) : null,
       h('p', { class: 'hello-text' }, greeting())),
     h('section', { class: 'card today' },
       ring(pct, pct >= 1 ? 'Xong! 🎉' : `${d.cards}/${goal}`, pct >= 1 ? 'mục tiêu hôm nay' : 'thẻ hôm nay'),

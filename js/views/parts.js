@@ -3,6 +3,7 @@ import { h } from '../util.js';
 import { speaker } from '../audio.js';
 import { isLearned, isMastered } from '../srs.js';
 import { S } from '../store.js';
+import { photoOfDay } from '../photos.js';
 
 export const levelLabel = lv => (lv === 0 ? 'Ngoài HSK' : `HSK ${lv}`);
 
@@ -45,8 +46,10 @@ export function wordRow(w, { href, extra } = {}) {
 }
 
 export function praiseScreen({ icon = '🎉', title, text, actions = [] }) {
+  const photo = photoOfDay(Math.floor(Math.random() * 6));
   return h('div', { class: 'card done-card' },
-    h('div', { class: 'done-icon' }, icon),
+    photo ? h('div', { class: 'done-photo' }, h('img', { src: photo, alt: 'Ảnh của hai bạn' }), h('span', null, icon))
+      : h('div', { class: 'done-icon' }, icon),
     h('h2', null, title),
     text ? h('p', null, text) : null,
     h('div', { class: 'stack' }, actions));

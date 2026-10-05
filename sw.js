@@ -1,13 +1,13 @@
 // Service worker: tải sẵn toàn bộ web + dữ liệu nét chữ để học được khi mất mạng.
 // Sửa mã xong thì tăng VERSION để máy người dùng nhận bản mới.
-const VERSION = 'v2';
+const VERSION = 'v3';
 const CACHE = `hoc-tieng-trung-${VERSION}`;
 const FONT_CACHE = 'hoc-tieng-trung-fonts';
 
 const CORE = [
   './', 'index.html', 'manifest.webmanifest', 'css/style.css',
   'js/app.js', 'js/router.js', 'js/store.js', 'js/srs.js', 'js/audio.js', 'js/data.js', 'js/util.js',
-  'js/badges.js', 'js/writer.js', 'js/pinyin-data.js', 'js/vendor/hanzi-writer.min.js',
+  'js/badges.js', 'js/writer.js', 'js/pinyin-data.js', 'js/photos.js', 'js/reminder.js', 'js/vendor/hanzi-writer.min.js',
   'js/views/parts.js', 'js/views/welcome.js', 'js/views/home.js', 'js/views/topics.js', 'js/views/topic.js',
   'js/views/lesson.js', 'js/views/flashcard.js', 'js/views/quiz.js', 'js/views/write.js', 'js/views/practice.js',
   'js/views/pinyin.js', 'js/views/tones.js', 'js/views/progress.js', 'js/views/settings.js',

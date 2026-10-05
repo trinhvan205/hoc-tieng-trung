@@ -81,6 +81,7 @@ export const BADGES = [
   { id: 'words-50', icon: '📚', title: '50 từ', test: s => s.learned >= 50 },
   { id: 'words-100', icon: '💯', title: '100 từ', test: s => s.learned >= 100 },
   { id: 'words-300', icon: '💖', title: '300 từ', test: s => s.learned >= 300 },
+  { id: 'words-600', icon: '👑', title: '600 từ', test: s => s.learned >= 600 },
   { id: 'streak-7', icon: '🔥', title: 'Chuỗi 7 ngày', test: s => s.streak >= 7 },
   { id: 'streak-30', icon: '🏆', title: 'Chuỗi 30 ngày', test: s => s.streak >= 30 },
 ];
