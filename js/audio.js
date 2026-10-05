@@ -6,6 +6,8 @@ const synth = 'speechSynthesis' in window ? window.speechSynthesis : null;
 let voice = null;
 let voicesLoaded = false;
 let warned = false;
+let current = null;
+const IOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
 
 function pickVoice() {
   const voices = synth?.getVoices() || [];
@@ -27,11 +29,16 @@ export const canSpeak = word => !!word?.audio || ttsAvailable();
 export function speak(text, word) {
   if (word?.audio && !ttsAvailable()) { new Audio(word.audio).play().catch(() => {}); return; }
   if (!ttsAvailable()) { warnOnce(); return; }
-  synth.cancel();
+  // iPhone: gọi cancel() khi đang rảnh có thể nuốt mất câu đọc ngay sau; giọng bị "tạm dừng" sau khi app chạy nền.
+  if (synth.speaking || synth.pending) synth.cancel();
+  if (synth.paused) synth.resume();
   const u = new SpeechSynthesisUtterance(text);
   u.lang = 'zh-CN';
-  if (voice) u.voice = voice;
+  // Trên iPhone/iPad để hệ thống tự chọn giọng zh-CN; ép một giọng chưa tải về sẽ im lặng.
+  if (voice && !IOS) u.voice = voice;
   u.rate = S().profile.rate || 0.8;
+  u.onerror = e => console.warn('TTS', e.error);
+  current = u; // giữ tham chiếu, Safari có thể thu hồi câu đọc trước khi phát
   synth.speak(u);
 }
 
